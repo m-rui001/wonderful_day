@@ -1,0 +1,18 @@
+前の選択肢データはありません
+前の選択肢に戻りますか？
+前の選択肢データはありません
+セーブできません
+セーブできません
+クイックセーブします。よろしいですか？
+クイックセーブしました
+クイックロードします。よろしいですか？
+タイトルに戻ります。よろしいですか？
+\n
+\n
+\n
+\n
+[ menudata.cfg ] PARAM_CHKの時点でパラメータ数が合いません。MENUMODE等を確認してください
+[ menudata.cfg ] PARAM_CHKの時点でパラメータ数が合いません。MENUMODE等を確認してください
+[ menudata.cfg ] PARAM_CHKの時点でパラメータ数が合いません。MENUMODE等を確認してください
+[ menudata.cfg ] PARAM_CHKの時点でパラメータ数が合いません。MENUMODE等を確認してください
+[ menudata.cfg ] PARAM_CHKの時点でパラメータ数が合いません。MENUMODE等を確認してください
