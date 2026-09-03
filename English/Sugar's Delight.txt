@@ -1,0 +1,975 @@
+====================script.rpy====================
+* *sigh* How did this even happen? I have no idea.*
+*I definitely couldn’t have ever predicted I’d be here, that’s for sure.*
+*The assistant manager of a bakery? That’s me. Pretty impressive, right?*
+*Not when there’s only two people working here.*
+*Hmph.  I can’t say I’m terribly upset about my current situation though.*
+*I mean, to be honest, the whole reason I even ended up in this position is because I love sweets and pastries.*
+*It’s not something I usually go on about but it’s true.*
+*My parents are rich...which is great. But not if they try and make me follow the same path they did.*
+*When it came to decide what I wanted to do with my life, I finally told them.*
+*That’s right. I told them I wanted to open my own bakery. That...didn’t go over too well.*
+*Long story short, I was basically kind of kicked out to 'sort myself out'.*
+*Well, I’ll show them! I won’t go back home grovelling to be hired as just another accountant or something equally as boring.*
+*I want sweets!  I want pastries!  I’m pretty stubborn when it comes down to it and really don’t like being told what to do.*
+*I guess that’s what basically led me here.*
+*I was just walking about town 'sorting myself out' when I found this place.*
+*It’s called Sugar’s Delight.*
+*I knocked on the door out of curiosity and...*
+Chocoa: "Ichi-chan!  How’s that dough coming along, hmm?"
+Ichigo: "Not bad, I guess. It’s a little hard but I think I can make it work."
+Chocoa: "Oho! I’m sure you can, Ichi-chan!"
+Chocoa: "Use those strong arms! Fight! Fight!"
+Ichigo: "Uh...right. I’ll do my best, Chocoa-san."
+*That’s Chocoa.*
+*I’m still trying to figure out if that’s her real name or not but it’s what she likes to go by so I guess that’s fine.*
+*She owned Sugar’s Delight all on her own before I showed up.*
+*It’s a small bakery that sells baked treats and other candies and it’s attached to her home where she’s letting me stay as well.*
+*The pay isn’t too bad and she doesn’t even charge me for my room and everything so I guess I lucked out.*
+*Chocoa is a little weird, but I know she’s also really nice and passionate about baking which makes me like her a lot more than I let on.*
+*She’s also really...pretty...I guess.*
+Chocoa: "Oh my!"
+Ichigo: "W-what?"
+Chocoa: "That’s quite the look you have on your face right now, Ichi-chan!"
+Ichigo: "I don’t have any look on my face! I’m just focused!"
+Chocoa: "Are you thinking naughty things, Ichi-chan?"
+*Whoa! How does she do that?*
+Ichigo: "N-no! I’m just trying to flatten out this dough!"
+Chocoa: "Aw. That’s too bad. I’m interested to see what Ichi-chan looks like when she’s getting excited..."
+Ichigo: " S-stop saying stuff like that! I-it’s weird!"
+Chocoa: "Hmm. You think so?"
+*Chocoa has been like this ever since I started working. Always teasing me about that kind of stuff.*
+*It’s really annoying...or so that’s how I act, but truthfully...it’s kind of fun and...I don’t know...*
+Chocoa: "Well, after you’re done with that dough make sure you shape the buns just right, okay?"
+Chocoa: "Move your hands around and around until it’s nice and smooth!"
+Chocoa: "Remember how I showed you? Do you need some practical training again?"
+Ichigo: "I’m fine! You don’t have to show me."
+Chocoa: "Really? That’s no fun."
+Chocoa: "Oh, well. I’m almost done with my cupcakes over here!"
+Chocoa: "I used white, pink and red icing! What do you think?"
+Ichigo: "They’re...not bad."
+*She acts like that but she’s actually really skilled.*
+*I thought running a bakery would be easy but Chocoa has shown me just how much patience and talent someone needs to make everything naturally look delicious and taste even better.*
+*She’s amazing...*
+Chocoa: "Yay! A compliment from Ichi-chan is always a grand way to end the day!"
+*Ding-a-ling-a-ling*
+Chocoa: "Oop! Maybe not!"
+Chocoa: "One last customer! Get ready, Ichi-chan!"
+Ichigo: "I’m ready..."
+Chocoa: "Good evening, monsieur! How are you this wonderful night?"
+Customer: "I’m well, thank-you."
+Ichigo: "H-hello sir! Welcome to Sugar’s Delight!"
+Customer: "Hello, my dear. This is a rather quaint little shop isn’t it?"
+Customer: "I’ve only heard about it until now but I must say it’s much smaller than I anticipated. Hmm."
+*I don’t like his tone. I can recognize that kind of attitude anywhere.*
+Chocoa: "Well, yes. I prefer to have things easy to look through, you see."
+Customer: "I certainly do. With but a mere glance I can take in almost everything you have to offer."
+Ichigo: "Would you like to sample one of our pastries, sir? We like to let our first time customers have a taste test so they can -"
+Customer: "I doubt I’ll need to, thank-you. Your prices are not bad though and I’m in a bit of a pinch so maybe some of those cupcakes will do."
+Chocoa: "A pinch, monsieur?"
+*How can she stay so calm?*
+Customer: "Yes. It is Valentine’s Day soon, and although it’s a little against tradition, my wife enjoys getting a delicious treat on such an occasion."
+Chocoa: "Ah! Of course! Then you’re just in time!"
+Chocoa: "I baked these just barely twenty minutes ago and they’re still warm! Maybe an early gift would be best since they’ll still be quite fresh!"
+Customer: "Hmm. By this point I don’t really care either way. I’ll take a few then. One of every color."
+Ichigo: "Would you like them wrapped, sir?"
+Customer: "No. It’s fine. Just toss them in a bag if you will."
+Ichigo: "Yes sir."
+*I won’t 'toss' them. I’ll place them.*
+*Chocoa’s work deserves better treatment than that!*
+Chocoa: "Thank-you for your patronage, monsieur! Have a lovely evening!"
+Customer: "I hope I will. Good day to you then."
+*Ding-a-ling-a-ling*
+Ichigo: "Hmph! He was rude!"
+Chocoa: "Was he? He seemed rushed I suppose but I didn’t think he was too bad."
+Chocoa: "Could you flip the sign to closed and draw the curtains, Ichi-chan?"
+Ichigo: "Are you serious, Chocoa-san!? He was looking down on us the whole time he was here!"
+Chocoa: "Oh, Ichi-chan, you’re always so quick to take offence. He was a lovely man."
+Ichigo: "What!? How can you say that!?"
+Chocoa: "His eyes. They were so...gentle! Heheh!"
+*Chocoa just sees the world...differently, I guess. Still though, I wouldn’t let her be disrespected without her even knowing it!*
+Ichigo: "You shouldn’t let people make fun of you like that though, Chocoa-san! He didn’t even say thank-you or comment on how tasty your cupcakes look!"
+Ichigo: "You need to be more assertive and stop getting walked all over- !"
+*Bonk!*
+*Just then something hit me in the forehead lightly. I had no idea what it was but all I knew was that Chocoa had done it with that gentle smile on her face the entire time.*
+*I looked down and saw a small strawberry that was a little too young to use in any of our cakes.*
+Ichigo: "What was that for!? I’m trying to give you advice here!"
+Chocoa: "And I’m taking it. Heheh!"
+Chocoa: "I’m standing up for myself and letting you know I’m done with this silly little talk."
+Chocoa: "I catch on quick, huh?"
+*W-what!?*
+Ichigo: "N-not at me! I’m talking about the customers - !"
+*Bonk!*
+*Another strawberry!*
+Ichigo: "Stop it!"
+Chocoa: "Stop what?"
+Ichigo: "Throwing things at me!"
+Chocoa: "Oh! You don’t like it? I thought it was the perfect way to show some “assertiveness”."
+Chocoa: "Hmm. Now what will I do? It was so fun too..."
+Ichigo: "You think _this_ is fun?"
+*I don’t know what came over me but all of a sudden I had a small ball of dough in my hand and I was flicking it at Chocoa.*
+*It hit her in her large chest and bounced right off.*
+*Bonk!*
+Chocoa: "O-oh! Ichi-chan! Where are you aiming you naughty girl?"
+Ichigo: "I-I wasn’t aiming at anything! I was just...just throwing!"
+Chocoa: "And so am I then!"
+*Bonk!*
+*Ow! Right on my boob!*
+Ichigo: "Chocoa-san! I didn’t hit you like...like that on purpose but you definitely were aiming for my - !"
+*Bonk!*
+*Oh my God! Now my other one!?*
+Chocoa: "I had to make them even, right?"
+Ichigo: "No! You didn’t! What’s wrong with you?"
+Chocoa: "Nothing at all! I’m just taking your advice!"
+Ichigo: "Well then...I guess it’s...war!"
+*I’ll admit, I kinda lost myself after that. We started an all out battle with flour, pre-mature strawberries, dough, sprinkles, jam, and everything else we could get our hands on.*
+*Chocoa was smiling the way she always did the whole time and I heard myself giggling after awhile as I bobbed and dodged her attacks.*
+*A little time passed and I didn’t even remember why I had gotten angry and why this crazy food fight had even started.*
+*All I knew was that I was having fun and Chocoa always brought this side of me out...this girlish and carefree side my parents never wanted to see once I finished highschool.*
+*After what felt like hours, something smacked me full out on one side of my face and I froze as fresh runny chocolate dripped down my cheek.*
+Chocoa: "Oho! It looks like I have rendered my opponent paralyzed! Now is the time to finish her!"
+*I heard Chocoa talking and looked at her gentle and beautiful face as she approached me.*
+*I’m not sure why it started happening, maybe it was the chocolate, but I began tearing up.*
+*It was embarrassing since I’m not really the type to do that...it’s just...*
+Ichigo: "Y-you’re better than those kind of people, Chocoa-san..."
+Chocoa: "Hmm?"
+*She must’ve sensed how upset I was because she stopped smiling and looked more concerned now.*
+Ichigo: "When that man was making fun of our store...I hated how you didn’t even realize it. Or...you pretended not to."
+Ichigo: "You’re better than that, Chocoa-san! You work so hard and you’re so skilled!"
+Ichigo: "Everything here is delicious and you used to run it all by yourself!"
+Ichigo: "I love this bakery! I love working here with you! This is my dream and it’s happening because of you!"
+Ichigo: "I can’t stand it when someone looks down on you like that man did!"
+Chocoa: "Ichi-chan..."
+Ichigo: "I wish you...I just want you..."
+Chocoa: "You love this store and working with me?"
+Ichigo: "Of course I do! I wouldn’t be here if I didn’t!"
+Chocoa: "Do you...love me too, then?"
+*At first I thought she was joking. Chocoa was like that after all.*
+*But what happened next made me wonder.*
+*Soon, Chocoa was coming so close I could smell her sweet perfume, and in another instant I felt something wet and soft tracing my cheek, licking the chocolate off it in a pleasurable way.*
+Ichigo: "A-ah..."
+Chocoa: "Oh? What was that sound, Ichi-chan? I was just tasting the chocolate. Heheh!"
+Ichigo: "T-the chocolate t-that’s on my face...!"
+*I can hear my own voice getting higher and my body heating up.*
+*I know I shouldn’t feel this way but as Chocoa gets closer and I can feel her full breasts pushing against my arm... I know my heart’s speeding up and I’m quivering a bit.*
+*She’s just joking. She’s just joking. She’s just joking!*
+*I have to tell myself over and over or else my imagination was going to start going wild and...I wasn’t completely sure I wanted that.*
+Chocoa: "I thought I would help you with cleaning up, Ichi-chan. We made quite the mess, didn’t we?"
+Ichigo: "I-I guess..."
+Chocoa: "Hmm...where should we clean next?"
+*Chocoa’s hand starts moving over my body and I can’t even force myself to do anything about it.*
+*She kneads my breast as her fingers tickle the rest of my form. I shudder and breathe out shakily.*
+Ichigo: "Hmg...a-ah...w-what are you...doing, Chocoa-san...?"
+Chocoa: "Hmm. I wonder!"
+*I can only hear my breathing begin to quicken as Chocoa’s hand starts to trace my skirt and tease the rim of it.*
+*I hold my breath and simply wait for what would come next.*
+*With sweet delicious chocolate dripping down my face, I couldn’t believe I was even letting someone touch me like this!*
+*But then again, it was...*
+Chocoa: "My, my, my! Ichi-chan has such a nice body! So thin and curvy at the same time."
+Ichigo: "Y-you don’t have to say stuff like that..."
+Chocoa: "I suppose I best start cleaning...here then."
+Ichigo: "A-ahh! Uh...hah...hah...hmm!"
+*I didn’t think she would! I thought she was just teasing!*
+*All of a sudden I feel Chocoa’s hand stripping my skirt down and entering into my panties.*
+*Her touch is complimented by the chocolate still on her, and I feel the sweet sticky liquid oozing over my skin.*
+*The instant sensation was too much for me to stop the sounds from coming out of my mouth!*
+Ichigo: "O-oh! Ghh...ah...hah...ooh...hah"
+Chocoa: "Here we are! I think this is the messiest spot right now, don’t you?"
+*Chocoa lifts her hand and shows me how wet it has become already from fondling me for only a few seconds.*
+*I look away, knowing my face was completely red. Even with the sweet substance partially covering her fingers I could see a clear liquid coating the tasty treat.*
+*The fact one of my favourite flavours in the world was being used in such a way made me even more stimulated.*
+Ichigo: "T-that’s..."
+Chocoa: "Oh my! I didn’t know you were this aroused, Ichi-chan! I’m sorry for making you wait so long."
+Ichigo: "I-I’m not like that...It’s just...Ghaa! Hm...hmm"
+*Chocoa’s hand reaches into my panties once more and her fingers line my most private area; stroking softly along the edges in a way only another girl could.*
+*She teases and plays as I hope and wonder.*
+*The waves of pleasure shoot through my stomach every time she comes close to my bud, and I almost shift into her slender fingers while holding her arm.*
+Ichigo: "O-oh...! Ohh! Ah...hah...hah...umg...!"
+Chocoa: "Ah, ah, Ichi-chan! Don’t rush anything, hmm?"
+Ichigo: "S-stop...I...we shouldn’t..."
+Chocoa: "Oh? Really? I would have no problem believing you Ichi-chan if your hips weren’t moving with my hand."
+Ichigo: "I can’t...they’re moving...?"
+Chocoa: "Oh my, my, my! Your voice is so cute right now, Ichi-chan!"
+Ichigo: "N-no...it’s...ah! Hmm! Hm! Hm!"
+*Chocoa’s fingers begin dipping into me just barely and I flinch every time they stroke my moist crevice.*
+*I realize my hips really are rocking and I find myself trying to push her hand deeper into me while I reject the ecstasy I’m consciously embracing.*
+Chocoa: "I need some more sweet sounds, Ichi-chan!"
+Chocoa: "This is becoming more fun than I thought it would be! Teehee!"
+Ichigo: "D-don’t...tease me...I’m just...Ah! Oh...oh...ah! Ghh..."
+*Chocoa’s tongue is licking my face again and soon her free hand is moving from my waist and under my shirt, caressing my sides and reaching for the clasps on the back of my bra.*
+*More chocolate is spread across my skin and I can’t help but love the addition.*
+Ichigo: "C-Chocoa-san...you s-shouldn’t...!"
+Chocoa: "Shouldn’t I? You know I love sweets Ichi-chan, and these marshmallows have been taunting me for a very long while now..."
+Ichigo: "B-but...!"
+Chocoa: "I’ve always loved s’mores! Hurray!"
+*I don’t get the chance to say anymore before I feel my bra stripped off along with my shirt.*
+*It happens so quickly and before I know it Chocoa’s hand is groping my breasts, kneading them gently but surely while pinching my ever more aroused nipples.*
+*It’s an amazing sensation paired with her other hand’s continuous but progressively more frequent dips into my private fissure.*
+Ichigo: "Oh! O-oh...! Mmm...hm...hm...hah...hah...ah! Ah! Y-y-...hah!"
+Chocoa: "What was that, Ichi-chan? Were you about to say something?"
+Ichigo: "N-no...! Of course...not!"
+Chocoa: "Oh, really now? I’m not so sure about that. Teehee..."
+*As if I couldn’t be in more bliss than I already was, Chocoa shifts just a bit with her one hand still in my panties and soon places her lips over one of my nipples,--*
+*--licking it around its base before flicking the tip playfully and sucking.*
+*I arch my back and grit my teeth as the glorious feelings enrapture my entire being.*
+Ichigo: "Oh! Oh! Aha! Hah! G-gah! Hmm...hm...Mmm...!"
+Chocoa: "You’re so perky Ichi-chan, and your nipples are a very pretty shade of pink!"
+Chocoa: "I really do love them! Yum, yum!"
+Chocoa: "Your taste is a grand compliment to the chocolate flavour for sure!"
+Ichigo: "H-how can you say that....with a...straight face...?"
+Chocoa: "Oh, it’s easy. But more importantly, I believe this s’more would taste better as a...cake! Hmm!"
+*I don’t even remember my panties being pulled down to my knees, but I do realize Chocoa’s hand is moving even more freely around my most sensitive area when she finally inserts her finger into me.*
+*The pleasure pierces into my stomach and I keel over for a second, while her other hand moves from one of my breasts and dips into a pile of cream nearby that was going to be used for a cake later.*
+*While her soft lips continue to toy with my other breast blissfully, I feel the cool white substance cover my body;*
+*Chocoa’s hand forcing it to icing my breasts and private lips as her fingers continue to push me into further desire.*
+*I’m soon caked in cream and chocolate and although it’s a pretty bizarre situation, I don’t care at all.*
+*In fact, I love it! It’s like a dream come true!*
+Chocoa: "Oh, my! I don’t remember cream ever tasting so delicious! I think I’m quite outdoing myself this year with my Valentine’s cake, hmm?"
+Ichigo: "Y-your...w-what?"
+Chocoa: "Every year I bake myself a Valentine’s cake. This year’s is my favourite by far, I must say. Teehee!"
+*I can’t even begin to form another sentence. I feel some saliva dripping down my chin and merging with the remaining chocolate, but I don’t care.*
+*Chocoa’s lips move from one breast to the other, sucking and flicking, licking and tracing.*
+*I can’t get enough. I almost want to taste the cream myself...*
+Ichigo: "O-oh...! Hmm...mm. Ah...! Ah! Ah...hah!"
+*I love the feeling. I hold Chocoa’s head and push my hands through her beautiful hair.*
+*My hips are moving back and forth as her fingers force cream inside of me and line the deepest part of my most sensitive spot on my entire body.*
+Chocoa: "There you are, Ichi-chan...I love it when a cake has cream and chocolate inside of it, don’t you?"
+Chocoa: "You’re quite tight though, aren’t you? Might this be your first time trying something like this? I’m a lucky girl, aren’t I?"
+Ichigo: "Mmm...mm...mm...gah...hah! Uh...umg...."
+*My head is spinning. I’m feeling dizzy. I can barely stand. I’m breathing heavily.*
+*Everything is happening so fast. The pleasure is so amazing. The feelings are too much. I’m in rapture.*
+*I can hardly hear Chocoa saying anything. I’ve never felt so good in my entire life.*
+*I let go. I let my body do as it pleases.*
+*I don’t push away the sensations. I welcome them.*
+*I let the noises my mouth wants to make come out.*
+*I’ve become a delicious pastry and Chocoa is eating me.*
+*It feels so good! It feels so amazingly good!*
+Ichigo: "Y-y-yes...Oh...yes...Hmm...!"
+Chocoa: "Yay! There you are, Ichi-chan!"
+Chocoa: "It’s a wonderful thing when you’re honest, isn’t it? As a reward...!"
+*I didn’t think it was possible. I really didn’t.*
+*Someone wasn’t capable of making me feel this stupefied, right?*
+*I was wrong.*
+*My reward came in the form of Chocoa moving her hand that was occupied with pushing in and out of me... and using her free fingers to massage the bud at the top of my white and wet crevice.*
+*My eyes stretch open and I don’t even know what kinds of sounds I was making at this point.*
+Ichigo: "Oh! Ohh! Hah! Hah! Hah! Ah! Ah! Oh! God...hmm...! Hmm! Hm! Hm!"
+Chocoa: "Are you almost there, Ichi-chan? My delicious cake is only missing one thing now."
+Chocoa: "Teehee! Just enjoy every second of this!"
+Ichigo: "Gah...! Hmm...! Mmm! Mmm! Oh...oh! Oh! Oh!"
+*It starts in my stomach. Almost like a burning feeling. I think it hurts at first but it doesn’t really.*
+*Chocoa’s lips are on my breasts. Her hand is fondling my body inside and out. The chocolate and cream are covering my skin.*
+*My knees start to weaken. My abs tighten. My lips clench shut and everything goes white as waves of heat and electric shocks course through every sense I have.*
+*I can’t even describe it. I can’t even try. All I know is I’m somewhere else for a few seconds.*
+*I’m overcome by the most amazing sensation beyond any words I can think of!*
+Ichigo: "Ohhh! Ohhh! Ahhh! Haaah! Haaah! Yes! Y-yes! Mmmm! Mmm...mmm...hmm..."
+*I bite down hard and feel something burst out of me. I know my face is red but I’m not blushing, I don’t think.*
+*I’m breathing heavily and I feel Chocoa’s arms embrace me as I fall to the ground and try to catch my breath.*
+*My eyes are closed and I’m exhausted while Chocoa pets my head like the older sister I never had.*
+Chocoa: "Ah. Yes. There’s the missing ingredient to my perfect cake."
+*I can hear my own wheezing breath. I can’t even control it as my body tries to cool down and recover from what just happened.*
+*I don’t even realize my eyes are watering and my face is beat red.*
+Chocoa: "Speaking of cake...I think that’s exactly what you need right now, Ichi-chan! Would you like some?"
+Chocoa: "Some real cake that is. Hmm?"
+*It takes so much effort to speak. I’m completely exhausted and drained as I still feel wetness forming between my legs.*
+Ichigo: "S-sure..."
+Chocoa: "Great! You won’t regret it! I actually made this the other night when I couldn’t sleep."
+Chocoa: "I suppose that’s a bit of a strange habit, isn’t it? Baking when one can’t get to sleep?"
+Chocoa: "My mother and father would always be a little taken aback when they thought we were being robbed, only to find me making cinnamon rolls or something!"
+*I smile faintly as Chocoa leans my naked body against one of the cupboards. I should be embarrassed but I’m too stunned by the sensations that I had just been through.*
+*I had never experienced something so indescribably amazing before.*
+*I kept thinking about the entire scenario as Chocoa retrieved the cake she spoke of from a location in the store I didn’t even know existed.*
+*Maybe it was her personal storage for special treats.*
+Chocoa: "Here we are! It’s a chocolate cake with cream icing and a fun little design on the top as well as strawberries!"
+Chocoa: "I made it for us for Valentine’s Day but we can have a slice now."
+*I notice the hardening liquid on Chocoa’s hand and blush at the sight while she places the cake on the floor and cuts two small pieces from it.*
+Ichigo: "Y-you should...wash your hand..."
+Chocoa: "Hmm? Why ever would I do that?"
+*She lifts the messy part of her and begins licking it seductively.*
+*I can feel my pulse quickening all over again as her tongue brings in a little chocolate, a little cream, and a lot of me.*
+Chocoa: "Yum! You taste so good, Ichi-chan! I can’t get enough."
+Chocoa: "I want to make an icing out of this if I can! Teehee!"
+Ichigo: "N-no!"
+Chocoa: "It would only be for me, of course. I wouldn’t want to share my precious Ichi-chan’s most delicate fluids with anyone else."
+Chocoa: "I’m a greedy girl like that, I’ll have you know."
+*This made me overjoyed.*
+*Chocoa winked at me and I shied from her gaze. I was becoming excited again already just by being so close to her.*
+*I needed to distract myself so I tried to take the small plastic fork near my slice of cake, but I didn’t have enough strength.*
+*I was too anxious and tired at the same time. It’s almost like Chocoa was waiting for this.*
+Chocoa: "Oho! I don’t even know why I gave you that silly thing! Cake tastes much better when you use your hands. See?"
+*My eyes widen as Chocoa takes a chunk of my slice with her bare hand and brings it to my mouth.*
+*I clench my jaw and feel my face burning in embarrassment.*
+Chocoa: "Don’t be bashful, Ichi-chan. It tastes better this way, trust me."
+Ichigo: "F-fine..."
+*I act stubborn but the prospect of being hand-fed by Chocoa arouses me and I move in to begin taking pieces of cake from her.*
+*I start off tentatively at first, only taking small bites, but soon I grow more comfortable and begin to grow more bold, wanting to taste something other than the delicious cake Chocoa had made.*
+*I wanted to taste Chocoa now. I would take large bites of the pieces of chocolate and cream just so I could “accidentally” lick Chocoa’s skin.*
+Chocoa: "Oh, my! That tickles, Ichi-chan! You really are being rather gluttonous, aren’t you?"
+Ichigo: "N-no...I’m just...hungry..."
+*Hungry for Chocoa. Hungry for more pleasure provided by Chocoa.*
+*My stomach tightens once more and starts to ache as my legs shift against one another.*
+*I’m getting wetter by the second. Cream and chocolate is starting to line my lips and soon I forget about the cake completely, as Chocoa lifts another portion to my bashful face.*
+*I take her hand with both of mine and consume the piece readily.*
+*But instead of releasing her then and there, I begin licking her fingers, tasting even more chocolate and cream --as well as a bit of myself, I think.*
+Chocoa: "O-oh...Ichi-chan...you’re being a little naughty now, aren’t you?"
+Ichigo: "I don’t care. I don’t mind being called naughty when I feel this way."
+Chocoa: "A-ah...hah...now, now, Ichi-chan..."
+*I take in one of Chocoa’s entire fingers and swirl my tongue around it before sucking hard. I push it out and pull it in an overly erotic manner and I know I’m getting off on just that motion alone.*
+*I can barely move out of exhaustion, and my manners are a little slower than usual, but it’s enough.*
+*I’m loving this taste and feeling I keep swallowing.*
+Chocoa: "Mmm...I can take a hint Ichi-chan. Teehee. Someone isn’t quite done yet, is she?"
+Ichigo: "Mmm...mm...mm...hmm...hmg..."
+Chocoa: "Well, then...since you seem to love sweets so much, my cute Ichi-chan..."
+*I feel Chocoa’s other hand stroking my leg and a jolt goes through my entire body as she moves towards my already wet sensitive area.*
+*She helps me up and forces me against the cupboard I was just leaning against.*
+*I quiver in anticipation and can’t help but caress my own breasts as she does exactly what I was desiring.*
+Ichigo: "A-ah! Hah...hah...mm..."
+*My mouth opens as I groan and Chocoa takes her now free hand and reaches for yet another slice of cake.*
+*Is she going to feed me more? Suddenly, she stops pleasuring me and I groan selfishly.*
+*Before I know it though, I feel something soft and creamy pushing into me and my mouth shakes wide as I try to squint my eyes open.*
+Chocoa: "Here you are, Ichi-chan. Does it feel nice, I wonder? Yum, yum!"
+Ichigo: "O-oh...t-the...cake...?"
+Chocoa: "That’s right! Look how delicious it’s becoming as you add your own topping to it! Teehee!"
+Ichigo: "Umg...hah...hah...o-oh...it feels...it feels so..."
+*It feels so good! Chocoa is playing with me by pushing a piece of cake in and out of my body!*
+*I-I can’t get enough! I push up against the cupboards with chocolate and cream all around me and close my eyes, as my hips start moving once more along with Chocoa’s groping.*
+*A strawberry or two work their way into my body and disappear as I’m hungry for more pleasure. I never thought having a cake entering me could feel so great!*
+Ichigo: "Ahh! Ohhh! Oh...hah! Mmm!"
+Chocoa: "You’re so sensitive and wet still, Ichi-chan! You’re swallowing the cake and my finger whole! Teehee!"
+Ichigo: "D-don’t...hah...say things...hmg...like that..."
+*I bite my lower lip and arch my back as my butt clenches and my entire being shakes in the encore of pleasure.*
+Ichigo: "Coming...I-I’m...coming again...d-don’t...please don’t...stop..."
+Chocoa: "Oh, I won’t Ichi-chan. You’re too cute for me to even think about stopping now. Hmm..."
+Ichigo: "Ah...hah...hah...hah...hah...Mmm...hm...hm..."
+*I feel it again. This time it’s even more powerful than before.*
+*I thought multiple orgasms were only possible in comics and movies, but it’s happening to me!*
+*I’m having another one and I can’t even express what my body is going through!*
+*The shock waves course through my senses once more, and the heat pulses push into my lower stomach...*
+*...as an indescribable sensation teeters on the edge of pain and pleasure while it waits for just the right moment.*
+Chocoa: "Ah! Here we are Ichi-chan! You’re squeezing my cake so tight again! Teehee!"
+Ichigo: "Ohhh! Oh! Oh! Y-yes! I-I’m...I’m...coming...I’m coming! Ahh! Ah! Ah! Ah!"
+*My body convulses in ecstasy and I do exactly as I claimed all over Chocoa and her cake once more.*
+*It’s even better the second time, as a couple of strawberries are ejected along with cream and chocolate.*
+*I wheeze in complete exhaustion as Chocoa massages my arm and face with her somewhat cleaner free hand.*
+Chocoa: "Hmm...that was a perfect end to our midnight snack, Ichi-chan..."
+*I hear Chocoa’s voice and squint my eyes open long enough to see her licking and eating the mushed up piece of cake that is covered in chocolate, cream and a clear liquid.*
+*I don’t even have the strength to say anything. I just close my eyes and feel like taking a short nap...*
+*I wake up suddenly and find myself in my bed, cleaned off and wrapped in a warm blanket.*
+*I’m disoriented at first, looking about and trying to figure out why I had fallen asleep in the first place and how I even got to my room.*
+*The achiness between my legs reminds me of what had happened between Chocoa and I.*
+*I may have acted hesitant, but truthfully, now that I had a second to think about it, I had wanted something like that to occur since the first time I met Chocoa.*
+*I just can’t help but be drawn to her gentle and carefree nature. I can be myself around her.*
+*I didn’t think she would ever do something like THAT though. I thought I was just being silly and over-infatuated or mixing admiration for something else.*
+*But even just lying here and thinking about that moment together, I can feel my body heating up once more in anticipation.*
+*I want to feel her touch again. But...I’m not sure.*
+*Maybe Chocoa was just teasing me. Maybe it was all just one big joke. I wouldn’t put it past her.*
+*Why had she asked that? Was I supposed to answer somehow?*
+*Maybe she was asking that to get permission to do what she did to me.*
+*No. That didn’t sound like Chocoa.*
+*Ugh! I’m a girl too so shouldn’t I be able to figure out what she’s thinking?*
+*Heh. Not really. Chocoa has always been a little different. I never know what’s going on behind that kind smile of hers.*
+*Wait! I AM a girl too. If I had just helped another girl pleasure herself then wouldn’t I want the same thing?*
+*Oh my God! Why am I even thinking like this!?*
+*But still...it’s true. Chocoa didn’t get any pleasure out of any of that. Maybe I should...no! I couldn’t!*
+*I wouldn’t even know what to do! How would I even start?*
+*I hear the shower start in the washroom Chocoa and I share and continue thinking.*
+*But I can’t focus. The shower’s going. Chocoa’s in there right now. Chocoa’s...naked in the shower.*
+*I slap my face and shake my head. I shouldn’t be having such thoughts!*
+*But still...it wasn’t fair. And besides...Chocoa and I are close! It would be rude of me not to return the favour!*
+*Yes! It doesn’t matter how I feel about her or how she feels about me, as a fellow female it’s my duty to help her the same way she helped me!*
+*That’s it! I can do this! I can! Here I go!*
+*I force myself up and instantly cover my body, realizing I’m completely naked.*
+*I almost forgot that my clothes had been covered in chocolate and cream by the end of my shift.*
+*Chocolate and cream...My mind slowly starts replaying the way Chocoa had touched my body and smeared the sweet substances all over me.*
+*My legs start shaking and my heart quickens. Jeez...already I’m...I need to get to the washroom!*
+*I push open the door to where Chocoa is showering and can feel the warmth of the water’s steam.*
+*I’m about to call out to Chocoa but instead I just stare at the back of her body as she rinses her beautiful hair.*
+*She’s just a bit taller than me and barely even older, but there’s something about the way she carries herself that I envy.*
+*She’s much more curvaceous than me and it’s even more obvious as I gaze at her slim waist and wide hips that encompass her full and soft looking butt.*
+*I put my hands between my legs and try to control my breathing as I watch Chocoa move just slightly to allow the hot water to trickle over her form.*
+*I touch myself for a second and then slap my face subconsciously, reminding myself this is about her and not me. I needed to...*
+Chocoa: "Oho! Ichi-chan! Hello again!"
+*She turned! Now what do I do?*
+*The way she’s looking at me...I don’t think I can follow through! I’m nervous all of a sudden!*
+Chocoa: "Oop! As you can see, I’m a little naked. Hope you don’t mind. I’ll be finished in the shower soon though."
+Chocoa: "Just had to clean the cream and chocolate off, you know?"
+Ichigo: "I...I don’t mind."
+*How can she be so calm? Hadn’t she just helped me...? Was it all a dream?*
+*No. I definitely know it wasn’t.*
+*My swollen womanhood told me so. I guess I shouldn’t be surprised. It IS Chocoa. She WOULD act nonchalant about even that kind of thing.*
+*Still though...now that she was looking at me I could see her large breasts and they made my stomach tighten. I wanted to...I wanted to...*
+Chocoa: "How are you, Ichi-chan? That was quite the climax wasn’t it? It sounded like you were having a lot of fun!"
+Ichigo: "T-thank-you...for that. U-um...it wasn’t bad..."
+*What am I even saying? 'Thank-you'? 'It wasn’t bad'?*
+Chocoa: "Well, that’s good. You really were tight though, Ichi-chan. My finger kind of hurts! Teehee!"
+Ichigo: "S-sorry. I didn’t mean to..."
+Chocoa: "You should really touch yourself more. It would make my life a little easier, although it was quite cute in a way too. I didn’t think you were so reserved!"
+Ichigo: "I-I’m not! It’s just..."
+Chocoa: "Heheh! I’m just having fun. Don’t worry about it."
+Chocoa: "Anyway, I’m just about finished. Did you want a shower?"
+Ichigo: "I...do."
+Chocoa: "I would too after that! I wiped you down, but I find a nice warm shower is what a girl needs following any kind of sexual activity!"
+*Now’s my chance! If I truly wanted to return the favour then I had to do something now!*
+*Chocoa was getting ready to give me the shower but instead I should...! I should...!*
+Ichigo: "Can I...can I join you, Chocoa-san?"
+*Did I just scream that? How nervous am I to have no control over my voice?*
+Chocoa: "Oh? What was that, Ichi-chan? You want to take a shower with me?"
+Ichigo: "I-if...you don’t mind."
+Chocoa: "Yay! Of course I don’t mind! In fact, I’m happy! I’ve always wanted to take a shower together!"
+Chocoa: "Come on then! Hop in!"
+Ichigo: "R-right. Here I come."
+*I step into the hot water and feel it hitting the front of me right away. It’s warm and nice. I turn to face Chocoa and know my face is red.*
+*I’m standing barely a foot from her wet naked body and I already can feel my insides spinning in anticipation.*
+*Her gorgeous nipples are within my grasp, her lovely womanhood is parallel to mine. I don’t even realize I’m staring at her for awhile.*
+Chocoa: "My, my, my! Ichi-chan, you’re embarrassing me!"
+Ichigo: "H-huh? Oh! Oh, I’m sorry!"
+Chocoa: "Now, now. No need to be sorry. I just don’t think there’s any real reason to be staring. Now here, let me wash your -"
+Ichigo: "You’re wrong!"
+Chocoa: "P-pardon?"
+Ichigo: "T-there’s plenty of reason to be staring!"
+*What am I doing? I sound like a crazy person! I gotta calm down. Gotta stop screaming to save my nerves.*
+Ichigo: "You’re...you’re beautiful Chocoa-san. I’ve always thought so."
+Chocoa: "Ichi-chan..."
+Ichigo: "From the very first time I saw you I thought you were beautiful."
+Ichigo: "And now, after learning more about you and watching how much effort you put into this place I think you’re even more beautiful!"
+Chocoa: "N-now you’re just making me blush. Stop it, Ichi-chan..."
+Ichigo: "A-and...and what you did for me earlier...! It...it...!"
+*I can do this! I just have to be brave and honest with myself!*
+Ichigo: "It felt really good!"
+*Silence. Chocoa is just staring at me. Where do I go from here? What do I say? What do I do?*
+Chocoa: "Well, I’m glad. It was very fun, Ichi-chan."
+*There’s that smile. That warm and gentle smile. But why does it feel like she’s holding something back from me?*
+*What’s this sinking feeling? No! I can’t think about myself! I have to think about Chocoa!*
+Ichigo: "Chocoa-san...!"
+Chocoa: "Yes, Ichi-chan?"
+Ichigo: "May I...may I wash you!"
+*'May I wash you!?' What the heck am I saying?*
+Chocoa: "Oh? You want to help _me_?"
+Ichigo: "Y-you...don’t want me to?"
+Chocoa: "Oh, Ichi-chan!"
+*She jumps lightly and claps her hands.*
+Chocoa: "That sounds lovely! I would certainly enjoy it!"
+Ichigo: "O-okay. T-then...I’ll start with your back..."
+Chocoa: "Right! Here you are! Tada!"
+*Chocoa turns and I’m exposed to her backside. I take the bar of soap from the side of the shower and lather my hands before beginning to caress her smooth skin in small circular motions.*
+*She’s wet and soon covered in small clumps of bubbles. Even just doing this I know I’m getting aroused. I can feel it in my groin as my legs shift and I rub my thighs together.*
+Chocoa: "O-oh! You’re quite skilled, Ichi-chan. Have you ever considered going into massage therapy?"
+Ichigo: "N-no. I doubt I’m _that_ good..."
+Chocoa: "I beg to differ! I have goosebumps all over my body, I’ll have you know!"
+Ichigo: "R-really?"
+Chocoa: "I do! I’m enjoying this most thoroughly!"
+Ichigo: "Good..."
+*I continue to clean Chocoa’s back, and as I do so I look down and stare at her perfectly shaped butt.*
+*Her back dips in and comes back out to form the lovely curves. I hear my breaths quicken as my hand movements slowly descend closer and closer to the tantalizing vision.*
+Chocoa: "Hmm...that’s nice, Ichi-chan. That’s really nice..."
+*Chocoa’s voice softens and I see her hips start to sway just barely.*
+*I’m mesmerized by the sight and sound of her and take half a step in, my cleaning progressing even closer to Chocoa’s naked bottom.*
+Ichigo: "U-um..."
+*I pause tentatively as my work is just above Chocoa’s butt. I desire to feel it so desperately but I’m not sure what she wants.*
+*I’m not even sure she knows what my intentions are. I feel like some kind of pervert suddenly.*
+*But then, as if reading my mind, Chocoa speaks in almost a whisper.*
+Chocoa: "Go on, Ichi-chan. Please...I certainly won’t mind."
+Ichigo: "O-okay. Excuse me..."
+*That’s all it takes. I use both my hands to rub the entire section of Chocoa’s lower back.*
+*I feel the softness of her plump curves and progressively intensify my movements until I’m taking large handfuls of her body and gripping lightly in between my massaging.*
+Chocoa: "O-oh...h-ho...hmm...hmm...That’s a fun feeling, Ichi-chan..."
+*Her groans arouse me even more than before. I feel some wetness dripping down my legs that isn’t coming from the shower.*
+*I’m starting to lose myself. With every handful of Chocoa’s plump body I breathe heavier and my knees get weaker.*
+*Before I even let myself have time to think it over, I turn Chocoa to face me and start working on the front part of her body now.*
+*My hands begin with her arm and work the soap over it, rubbing the limb up and down in an almost erotic way.*
+Chocoa: "Ah...thank-you so much, Ichi-chan. This is quite nice after a day of work..."
+Ichigo: "No problem. D-does it feel good?"
+Chocoa: "Hmm. More than good, Ichi-chan. I haven’t had a massage like this in so long..."
+*I smile to myself as my fingers work over her wet arm and move to her other one.*
+*I caress it as carefully as the first and Chocoa’s eyes are closed as she continues to sway this way and that a little more, the water from the shower dripping from her hair and chin.*
+*My own eyes are busy drinking in Chocoa’s body up close though.*
+*I can’t stop staring at her round breasts and hourglass figure.*
+*I’m hypnotized and excited by the prospect of touching this girl in front of me. Her skin is shiny from the cleansing we’re both experiencing together but my thoughts are becoming progressively dirty.*
+*I want to feel every part of her. I desire every section of her body.*
+*As I think such things my own form draws closer to hers and I begin stroking her sides, the soap foam from my hands leaving traces over the dips and hills in her waist and hips.*
+Chocoa: "A-ah...my, my...I do believe you’re arousing me, Ichi-chan."
+*Chocoa takes my hands and smiles gently at me before placing them on her breasts that are hard and pointy even.*
+*I feel the large soft substance under my grip, and my face heats up uncontrollably as this amazing opportunity is presented before me finally.*
+Chocoa: "Hmm. Please, Ichi-chan. I doubt I can wait much longer."
+Ichigo: "A-all right. I-I’ll do my best..."
+*I respond meekly but inside I’m beyond joyous.*
+*I knead Chocoa’s full bosom and I feel like a dirty old man as my breathing gets even more intense from the sensation of this girl’s boobs squeezed between my fingers.*
+Chocoa: "O-oh...yes...Mmm...Ichi-chan...keep going..."
+*I bite my lower lip as I continue to massage Chocoa’s body and soon, remembering how good it felt for me, I pinch at her hardened nipples and give them a teasing tug.*
+Chocoa: "Ahh! Ghh! Gentler, Ichi-chan...Teehee!"
+Ichigo: "So...Chocoa-san is sensitive?"
+Chocoa: "I suppose I am. Hmm."
+*I love the sounds she makes. They cause me to be even more anxious and I want to hear Chocoa’s voice again and again.*
+*I pursue my purpose and knead over and over, mixing the motion with little nipple massages and pinches.*
+Chocoa: "Mmm...mm...mm...ah...hah...y-yes...yes Ichi-chan...hmm..."
+*My movements match her breathing and groans. Any bit of nervousness is lost within me and I’m led simply by my desire for Chocoa’s body and her pleasure.*
+*Eventually, I even go so far as to place my tiny mouth overtop of Chocoa’s swollen wet nipple and I suck while licking in a circular fashion as my other hand moves about the remaining breast.*
+Ichigo: "Mmm...mm...mm...mm...mm..."
+Chocoa: "Ah...aha! Hmg...hm...mm...Hmm!"
+*Our two voices begin to sing together and I can’t wait any longer.*
+*I take my free hand and trace downward through the curvaceous form of Chocoa and begin lining her most sensitive spot like she did mine.*
+*The reaction is even better than mine.*
+Chocoa: "Ahh! Ahh! Oho...Ichi-chan...hah...hah...you’re really going to...?"
+Ichigo: "I...I want to. Is that okay?"
+Chocoa: "Oh, yes, Ichi-chan. Please! It would...make this moment...even more...delightful..."
+*We’re both out of breath and the way Chocoa has to try and catch some air in between her words bewitches me further.*
+*I feel a sticky substance along with soap and water as soon as I start massaging Chocoa’s womanhood and it fills me with joy!*
+*I’m doing it! I’m actually making her feel good like she did for me!*
+*I hesitate no more and allow my fingers to touch her and line her crevice before pushing into her in a shallow fashion every time I go by with my strokes.*
+Chocoa: "Ah...ah...ah...Mmm...mm...Oh, Ichi-chan...Ichi-chan...Yes..."
+*I love the way she calls my name! Her soft voice is even more sensual as she tips her head back and pushes her fingers through my wet hair.*
+*I keep on sucking on each of her breasts, allowing my free hand to keep the one not being tickled by my tongue occupied with circles and kneading.*
+*I’m in ecstasy at the notion of making Chocoa feel so good and wonder if she’s experiencing the same thing I had.*
+Chocoa: "Mmm...hmm...hah...hah...hah...ghh...heh..."
+*Her noises push me deeper into a realm of pleasure I didn’t even know existed.*
+*I bring my hand from between her legs and watch as she looks at me with an expression I could laugh at if I wasn’t so enraptured in desire.*
+Chocoa: "Bad, Ichi-chan! You can’t just stop like that!"
+*She giggles nervously as I allow my natural sort of snippy personality to shine in my sharp and focused eyes.*
+*I bring my hand that is covered in Chocoa’s juices to my mouth and lick it erotically, sucking on my fingers one at a time and twirling my tongue around them all the while.*
+*Without another thought, I get onto my knees and I hear Chocoa’s voice sound apprehensive for the first time ever, I think.*
+Chocoa: "I-Ichi-chan...w-whatever are you doing?"
+Ichigo: "I want...I want to taste you, Chocoa-san."
+Chocoa: "Oh my! Y-you aren’t serious are you? T-that’s somewhat - Aha!"
+*I don’t even let Chocoa finish. I’m too aroused. I can’t control myself.*
+*I take hold of her gorgeous thighs and begin licking between her legs.*
+*My tongue strokes Chocoa’s natural fissure, and she grips at my head as her knees bend and her body arches toward me.*
+*I glance up and see her reddened face and squinting eyes and it pushes me further.*
+*I taste every part of her womanhood and morph my tongue as necessary to leave no inch of her untouched.*
+*The shower continues to beat down on both of us, and I feel the drips from Chocoa’s face falling onto my head as I work more and more.*
+Chocoa: "Ghh...hah...hah...hah...ah...ah...ahh! Ahh! Hmm...mmm...!"
+*Chocoa’s attempt to mask her pleasure makes me smile inside.*
+*I’m getting more aroused by the second as her body’s natural lubrication is swallowed by my mouth.*
+*I lick and poke, trace and puncture over and over, each movement gaining approval by Chocoa through her gasps and forced breaths.*
+Chocoa: "Y-yes...yes, Ichi-chan...d-don’t stop...Hmm...mm...mm...mmm!"
+*I won’t stop. I can’t stop. I’m completely addicted to the act.*
+*I love the taste of Chocoa’s fluids and I’m hooked on her noises of glee.*
+*This was supposed to be about Chocoa, but I feel like I’m drawing just as much pleasure from the experience.*
+*I even go so far as to reach down between my own legs and play with myself as I continue to push Chocoa further and further.*
+Ichigo: "Mmm...mm...mm...mm...Hmm!"
+Chocoa: "Yes...mm...hah...hah...ah! Oh...o-oh...Ichi-chan...Ichi...chan...!"
+*My tongue is deep inside her now. I wrap it around and then persist to dip it in and out over and over again.*
+*Her fluids are dripping down the sides of my mouth as I continue to do this and her groaning becomes more fierce.*
+Chocoa: "O-oh...oh...ohh! Gah! Hah! Hah! Hah!"
+Ichigo: "Hmm. Mmm. Mm. Mm. Mm...mm...mm...mm..."
+*Her grip on my head is tightening and I know she’s just about there.*
+*Her hips are swaying with my tongue and I move my one hand from her leg and switch places with my mouth.*
+*I dip two of my fingers deep inside of her and continue the motion my tongue was performing. My mouth needed to be free for something else.*
+*I squint my eyes open and see what I desire.*
+*Her bud is swollen and ready. I’m even more so. *
+*I place my lips overtop of the most sensitive part on Chocoa’s body and suck deeply before licking it over and over.*
+Chocoa: "Oh...! Oh, Ichi-chan! Ichi-chan! Ichi-chan!"
+Chocoa: "T-that’s...so...good...! Hah! Hah! Ghaa...I...I think...I’m almost..."
+Ichigo: "Mmm. Mm...mm...mm...mwa..."
+*I suck on her bud and flick it a couple more times while my fingers enter and exit out of her completely soaked crevice even faster.*
+*Chocoa’s whole body begins to convulse and I know I’ve almost done it.*
+*While my other hand continues to pleasure myself, I push forward to give Chocoa that amazing feeling she provided me.*
+*I’m tasting her womanhood completely and my fingers slide in and out of her easily.*
+*I can barely even feel the hot shower sprinkling us anymore. I’m in another world once more.*
+Chocoa: "Y-yes...yes...yes...Ichi-chan...Hmm...Mmm!"
+Chocoa: "Hah...hah...ah...ah...ahh! Ahh! Mmm!"
+*Chocoa’s voice gets higher and higher. I’ve never heard her so loud before and the fact she’s allowing so much emotion to spill before me brings me even more joy.*
+Chocoa: "D-don’t stop! Ichi-chan...! Ichi-chan...I’m almost...there...!"
+*I won’t stop, Chocoa. I want you to feel this.*
+*I want to give you the same pleasure you gave me. Finally, I know it’s time to hold back no more.*
+*I suck her bud into my mouth once again and lick it with my tongue a few times as I had before, but instead of releasing it I nibble with my teeth as gently but surely as I possibly can.*
+*Meanwhile, my fingers go even deeper than ever into Chocoa and I know almost instantly it’s working.*
+Chocoa: "Gah! Ohh! Ohh! Ahh! Ahh! Ahh! Mmm! Mmm...hah!"
+*Chocoa’s whole body tightens and then it’s as if she’s being shocked by little sparks as she convulses like I did.*
+*Her grip on my head tightens beyond reason but I don’t care whatsoever.*
+*In a strange way, the feeling is good because it’s a result of her going into a rapturous state like I was able to.*
+Chocoa: "Gah! Hah! Hah! Oh! Yes! Yes! Ichi-chan...! Yes! Yes! Yeees!"
+*My mouth is soon flooded with liquid and I drink as much of it in as I can, but the pressure is too much and more than half of it sprays onto my face and upper body.*
+*It’s warm and sticky, and I love it.*
+*I wipe it over my stomach and look up to find Chocoa coming down to her knees in front of me.*
+*She’s breathing heavily along with me and her cheeks are completely flushed.*
+*I’ve never ever seen her embarrassed before and I have to admit it was completely adorable!*
+Ichigo: "Was it...okay?"
+Chocoa: "Ichi-chan...I didn’t think...I’ve never felt...you did quite well. Teehee."
+Ichigo: "Really?"
+Chocoa: "Yes. Very, very well. Thank-you."
+Ichigo: "W-well...I needed to repay you after all, didn’t I?"
+Chocoa: "Oh? I...suppose so."
+*I got shy out of nowhere. I felt the need to give a reason for what I just did. But truthfully...I did it because...*
+Chocoa: "Well, then, I suppose we’re even, hmm?"
+Ichigo: "Y-yeah..."
+Chocoa: "Hurray! Well, you best clean yourself off, Ichi-chan."
+Ichigo: "W-what about you?"
+Chocoa: "I’m dandy. Nothing some tissue won’t fix. I’ve hogged the shower long enough I think, don’t you?"
+*Was it just me or did Chocoa sound...upset? It was hard to tell with her but...*
+Ichigo: "Okay. Um...all right. I’ll clean up then and go to bed."
+*What was with this awkwardness suddenly?*
+Chocoa: "It is getting a little late. That’s a good idea, Ichi-chan."
+Chocoa: "I shall see you in the morning! Bright and early! Fight! Fight!"
+*I watch as Chocoa takes a towel and leaves the washroom, gently closing the door behind her.*
+*I’m left with the shower beating down on me and Chocoa’s fluids seeping over my body and into the drain.*
+*Something was wrong.*
+*That’s not how something like this ends. What had I said though? What...did I need to do?*
+*Despite how much I had on my mind, I managed to get a decent amount of sleep.*
+*I mean, how couldn’t I after all the excitement from the night before?*
+*Even though, the way Chocoa had acted after our...moment...confused and bothered me.*
+*She wasn’t one to get down easily and I’ve known her for a while now, so something about the way she spoke and moved was...off.*
+*Maybe it was just my imagination.*
+*Maybe I was just being overly paranoid. That was probably it.*
+*Besides, we were just playing, right?*
+*There was no way Chocoa actually had feelings for me or anything. She’s totally out of my league...*
+*I got myself up as usual and put on some work clothes for the day and decided to wear my favourite pair of underwear.*
+*I’m not really sure what possessed me to do this, but it was fun anyway.*
+*Maybe tonight Chocoa and I could...No! No, no! I can’t think like that!*
+*It was a one time thing...or something that shouldn’t happen all the time.*
+*Chocoa always had men asking her out over the counter, so I’m sure someday she’ll find one she actually likes.*
+*She IS really pretty after all. Who wouldn’t fall head over heels for her?*
+*A-anyway, I best get out and help Chocoa with the preparations for the day.*
+*I walk down the hall and past the washroom when my heart skips a beat.*
+*My mouth starts to water and my heart speeds up from just barely thinking about the taste of Chocoa and the erotic sounds she had made because of me.*
+*I shake my head and try to stay focused though.*
+*I couldn’t keep getting distracted like this! We had a job to do!*
+*I enter into the bakery part of the building and my nose is instantly filled with the aroma of the most delicious sweets and pastries I can think of.*
+*I glance to the counter and see Chocoa placing some freshly made buns under it and behind the glass display.*
+*I just stare at her body as she does this... and the way her butt is arched upward from the position she needs to take in order to accomplish her task...*
+*...I think of the feeling of that same part of her in my hands and I subconsciously grip at the air.*
+*I want to say something but I’m nervous.*
+*How should I act? Should I comment on what happened?*
+*No. No! That would be bad. I don’t want to seem giddy and excited or else I’ll come across as immature and inexperienced.*
+*But what should I say? How should I act? Should I just pretend it never happened?*
+*Oh my gosh! I have no idea!*
+*Suddenly, Chocoa perks up and looks in my direction with that same gentle smile of hers.*
+Chocoa: "Ah! Good morning, Ichi-chan!"
+Chocoa: "I hope you had a delightful sleep. I know I certainly did."
+Chocoa: "That lovely orgasm you gave me last night tired me right out!"
+*S-she just went ahead and said it!*
+*I-I guess I shouldn’t be surprised but I didn’t expect her to be THAT forward! Now how do I react? Oh...*
+Ichigo: "I-I slept really well too."
+Chocoa: "I bet! Two orgasms in one night is rather exciting, don’t you think? I’m surprised you didn’t sleep in!"
+Ichigo: "W-would you stop saying that?"
+Chocoa: "Saying what, Ichi-chan?"
+Ichigo: "T-that word..."
+Chocoa: "Word? What word?"
+Ichigo: "O...or...o-o...."
+Chocoa: "Oh? Hmm. I didn’t think I said “oh” that much...Perhaps I do! Oh! Oh my! I can’t seem to stop!"
+Ichigo: "Not that! Or...or...{size=-8}orgasm..."
+Chocoa: "What was that? I think my hearing might be going!"
+Ichigo: "{size=+10}Orgasm!"
+Chocoa: "Oh! _Orgasm!_ But it’s just a word, and the truth, isn’t it?"
+Chocoa: "My, my! Does it make you uncomfortable?"
+Ichigo: "A-a little..."
+Chocoa: "Do you...regret what happened?"
+Ichigo: "No! Not at all!"
+*Chocoa seemed to smile pretty brightly after my quick denial. Her face softened then and that same distant look came over her eyes.*
+Chocoa: "Well, that’s good. Neither do I..."
+Ichigo: "Chocoa-san...is...something wrong?"
+*She seemed to hesitate before opening her tempting lips to speak once more.*
+Chocoa: "Nothing is wrong Ichi-chan. We should enjoy our day, hmm?"
+Chocoa: "I’m sure we’ll have lots of customers because it’s Valentine’s Day! Put on your fighting bandana because things might get crazy!"
+Ichigo: "R-right! I’ll do my best!"
+Chocoa: "That’s all we can ask, Ichi-chan. That’s all we can ask."
+*How dramatic. At least Chocoa was trying to act 'normal', but still, something just wasn’t right.*
+*You would think we’d be closer after what happened but she almost felt further away...*
+*I didn’t get a lot more time to think about things through. As Chocoa predicted, our day was busy the moment the shop was opened.*
+*Hoards of people were placing custom orders and cleaning the place right out. It was insane!*
+*Chocoa never lost her composure even when I started to get really irritated with some people. I guess that’s why she liked to take the counter for most of the day.*
+*She must’ve known it’d be stressful for me and my short temper.*
+*Either way, lunch was skipped and we took turns making a quick supper in the kitchen when it seemed like the crowd was dying for a bit.*
+*By about 8:00pm, when we closed, we were finally able to breathe again.*
+*I had flour and other crumbs all over my apron while Chocoa remained seemingly perfect in stature somehow.*
+*I didn’t even care though. I was exhausted from making so many things and helping so many customers.*
+*Chocoa went to the sign and flipped it gracefully. We removed our aprons together and placed them in the hamper.*
+*As she stripped off the piece of fabric, I chanced a glance at her voluptuous body and sighed inwardly.*
+*Everything seemed so normal again. Everything I guess...was back to normal.*
+Chocoa: "Whew! We did quite well today, didn’t we, Ichi-chan? Hurray for money! This month’s rent shan’t be a problem!"
+Ichigo: "That was crazy...I can’t believe how busy it got!"
+Chocoa: "Well, I suppose the fact we do custom-made pastries is a fun thing that most enjoy."
+Ichigo: "I-I guess so, huh?"
+Chocoa: "Hmm...you look rather tired though, Ichi-chan, maybe you should turn in for the night early?"
+Ichigo: "I might. It was a pretty hectic day, wasn’t it?"
+Chocoa: "Indeed! Quite possibly the busiest day of the year in fact! You did very well though, Ichichan!"
+Chocoa: "Your skills have improved vastly, I believe!"
+Ichigo: "R-really?"
+Chocoa: "Of course! I’m quite taken back by how hastily you learn all my secrets!"
+Ichigo: "T-thank-you. But I’m nothing compared to you."
+Chocoa: "I beg to differ! Anyway, now you’re just saying silly things because of your fatigue. I’ll finish with the clean up, all right?"
+Ichigo: "Well...okay."
+Chocoa: "Good night, Ichi-chan!"
+Ichigo: "Good night...Chocoa-san..."
+*I go to my room and barely convince myself to change into my pajamas. Once I manage to though, I plop into bed and stare at the ceiling as my eyelids grow more and more heavy.*
+*It must’ve been my imagination. Maybe I was just being weird because of what happened.*
+*Chocoa seemed normal I guess so there’s no reason for me to be worried about anything.*
+*But what was this emptiness in my heart? Was it really possible that I could...?*
+*No. I need to stop being silly. Chocoa was like a sister to me. She’s my best friend and sister.*
+*I was mixing up my emotions. She likes to tease me and that’s all that was last night. Just her having fun with me.*
+*So then...why did I go back? Why did I seek Chocoa out again and act totally out of character?*
+*Because...I was excited? Because I was aroused?*
+*No...I went back because...because...*
+*I must’ve dozed off for a second since I was snapped awake by something.*
+*I’m not sure what it was right away since I was disoriented at first, but I listened more intently and it almost sounded like someone breathing sharply or...?*
+*I got out of bed nervously and went towards the sound. I soon understood that it was coming from Chocoa’s room and I instantly started to panic.*
+*Was she in pain? Was she hurt?*
+*I couldn’t waste any more time! I dashed into her bedroom, pushing open the already ajar barricade and stared at Chocoa as her wet eyes gazed back at mine.*
+*Down her cheeks were streams of water and her cheeks were flushed. My heart sank and I immediately went to her bedside, kneeling beside it and looking up at her.*
+Ichigo: "Chocoa-san! Are you all right?"
+Chocoa: "Ah...hic...Ichi-chan. Good night, to you. Teehee. It appears you caught me in a bit of an embarrassing situation."
+Ichigo: "What happened?"
+*My mind was racing. For Chocoa to cry what could have possibly occurred? It must’ve been terrible!*
+Chocoa: "Oh...I suppose I _am_ crying aren’t I?"
+*I don’t say anything and move up on the bed beside my best friend. I can feel my own eyes watering just by the sight of her being upset.*
+*When had I become so emotionally attached?*
+Chocoa: "Ah. It’s nothing at all, Ichi-chan...just a bad dream."
+Ichigo: "A...bad dream?"
+Chocoa: "Yes. I dreamt I...um...had turned into a giant cake which was quite fun at first...until I realized I no longer could bake anything. Terrible, don’t you think?"
+Ichigo: "Y-yeah...that is bad."
+Chocoa: "I awoke quite shaken up and apparently I was affected enough to cry, don’t you see?"
+Ichigo: "Uh huh."
+*Was Chocoa...lying to me? I got a sudden sinking feeling in my stomach she was hiding something again, and this time I felt like maybe she was doing it to...protect me?*
+*Either way, Chocoa was shaking and clearly more upset than she wanted me to know. I glanced to her bed and my heart leapt at the thought that crossed my mind.*
+*Before I knew it, I was asking something I had only fantasized about up until this point...*
+Ichigo: "Did you...want me to stay with you tonight?"
+*Chocoa’s eyes widened and she stared at the floor before she smiled hesitantly and waved her hands frantically.*
+Chocoa: "Ah! No, no! That’s okay, Ichi-chan! I’m fine. Really..."
+*I didn’t believe her and I wasn’t going to leave her in such a state. Something was wrong and...and I had to find out what.*
+Ichigo: "Chocoa-san...are you...lying to me?"
+Chocoa: "Am I l-lying? Why would you ask that?"
+Ichigo: "Because...ever since last night...I don’t know, I feel like something’s...wrong."
+Chocoa: "O-oh..."
+Ichigo: "Is everything okay?"
+*I watched her eyes dart to and fro before she tried to smile.*
+*Chocoa succeeded at first but then her face construed... and even as she beamed gently in my direction, I watched in horror as tears began to fall from her beautiful visage.*
+Ichigo: "C-Chocoa-san...?"
+Chocoa: "I’m sorry Ichi-chan...! I’m so sorry!"
+*What was happening? Why was she crying now? Chocoa!*
+Ichigo: "W-why? What’s wrong?"
+*I place my hand on her shoulder and she shudders at the touch. I recoil in pure confusion and bite my lower lip in anticipation.*
+Ichigo: "Chocoa-san...?"
+Chocoa: "I’m such an awful person, Ichi-chan! I’m the worst!"
+Ichigo: "W-what? No! Why would you say something like that!?"
+Chocoa: "B-because...Ichi-chan...ever since I first saw you...I...I’ve...I feel like I’ve taken advantage of you!"
+*W-what!? What is she talking about? My mouth hangs open as I watch the ever resilient and strong Chocoa break down before me.*
+*I don’t even know what to say but stammer words of disbelief.*
+Chocoa: "Ichi-chan...! I’m so sorry! I’m...I’ve...I do believe that I have loved you since the moment we met!"
+Chocoa: "Ridiculous, isn’t it? I feel like a snake! I brought you into my house and then...yesterday...I finally couldn’t resist any more! I feel so terrible and...!"
+Ichigo: "No! No, no, no! Chocoa...! Don’t feel bad! It’s the same for me!"
+*Oh my gosh! It’s the exact same! The moment I saw her...! I can’t believe this! What are the chances?*
+*We were both fretting about the same thing...!*
+*As I watch Chocoa break down more and more before me I don’t know what to do!*
+*It should be simple -- I just need to tell her she’s wrong and that...and that...But I can’t! My lips won’t work! My voice is frozen!*
+*I don’t know how to talk anymore! I can only think of one thing! One thing to stop Chocoa from making such ridiculous accusations!*
+*I don’t hesitate! My heart is souring and I...I...!*
+Chocoa: "You needed shelter and safety and all I could see was...Mmph! Mmm! Mmm..."
+*I kiss her. It’s all I could think of and truthfully...all I’ve wanted to do for a long time, I finally realize.*
+*Her lips are just as soft as I imagined. Maybe even softer.*
+*I can taste her salty tears and she’s reluctant at first but soon her lips are dancing with mine and I’m crying as well. Crying in joy I think...*
+Ichigo: "Hmm...mmph...ah...mmm..."
+Chocoa: "Umg...ah...mmm...mm...mm...Ichi-chan...?"
+*We part and I smile as wide as I think I ever have.*
+*I’ve never been so happy before in my life. I finally feel alive and...loved.*
+Ichigo: "I’m...I feel the same way..."
+*Her eyes instantly start to light up.*
+*I’ve done it. I’ve made Chocoa feel better!*
+Chocoa: "You...are? Truly?"
+Ichigo: "I’m completely and truly! I’m so in love with you it’s not even funny!"
+Chocoa: "Oh...! T-that’s...a funny phrase, isn’t it?"
+Chocoa: "Teehee! Are you sure though? I was so sneaky...and..."
+Ichigo: "I was just as sneaky. I can’t say I was completely innocent. I mean...you’re so beautiful and..."
+Chocoa: "Ah! Then perhaps we can both be sorry together?"
+*We clasp are hands together and I nod while blushing some. I allow my eyes to blink over Chocoa’s body that is hidden under her pajamas and my heart is speeding up.*
+Ichigo: "S-so then...I guess...we’re...u-um..."
+Chocoa: "Why, we’re lovers now, aren’t we?"
+*Chocoa finished my sentence while wiping her eyes. We’re both at an emotional high and can’t help but say some silly things out of pure excitement and relief.*
+Ichigo: "Y-yeah..."
+Chocoa: "Well, then, I suppose we best have sex then, hmm?"
+Ichigo: "W-what...!?"
+*I react that way but really...truly...it’s exactly what I wanted! I can already feel my chest tightening.*
+Chocoa: "Unless you’re too tired, but truthfully Ichi-chan, I’ve been imagining what we experienced together last night all day..."
+*...and truly desire to try some more things with you now that I can do so without any restraints! Teehee!*
+Ichigo: "M-me too...actually...Chocoa-san’s so skilled and..."
+Chocoa: "Oho! Ichi-chan isn’t any less skilled! I’ll have you know, I am not an easy one to arouse but you did so in such a seamless fashion!"
+Chocoa: "Perhaps you have an advantage since you’re so cute but I just couldn’t help but come so quickly last night!"
+Ichigo: "Y-you...say such things so easily..."
+Chocoa: "It’s nothing to be embarrassed about now that we’re officially lovers!"
+Ichigo: "I-I guess..."
+*Suddenly, I feel Chocoa undoing my front buttons and I smile shyly while my cheeks flush.*
+Chocoa: "Now then, I’m sorry to cut our conversation short, but I’m rather excited and am more than ready to begin fondling every inch of your adorable body!"
+Ichigo: "O-okay...but only if I can do the same to you!"
+*We both giggle as we lay on Chocoa’s bed together, slowly exposing each other’s breasts and pink nipples in a matter of seconds.*
+*I breathe shakily as I take in the sight of Chocoa’s full bosom once more.*
+Ichigo: "Yours are so much...bigger than mine..."
+Chocoa: "Oh? Really? I happen to love the size of yours, Ichi-chan!"
+*She begins kneading my breasts and I’m extra sensitive to her touch.*
+Ichigo: "Ah...! Oh...ah...hah...hah...y-you...too...!"
+*I cross arms with Chocoa and begin massaging her breasts that I can’t fully grip with the size of my tiny hands.*
+Chocoa: "Mmm...! Yes...this is the touch...I’ve been wanting...ahh! Oh...oh...oh...y-yes...!"
+*We continue to grope one another’s chest and groan together in unison.*
+*My tone is higher pitched and my sounds come out in short wisps of pleasure while Chocoa’s softer voice is soothing in her almost dream-like murmuring.*
+Chocoa: "Hmm...mm...mm...y-you’re so good Ichi-chan...so...so g-good..."
+Ichigo: "C-Chocoa-san too...Mmm...ah...ah...ah! Hah...!"
+*I can’t hold in the saliva dripping from my mouth and I allow my craving to overtake me.*
+*I lean in and begin sucking on Chocoa’s hard pink nipples like an oversized baby.*
+*I’m circling the base of her areola and teasing the tip with every bit of desire constantly building in my body.*
+*Her noises entice me further and I’m massaging her other breast with my hand continuously.*
+Chocoa: "A-ahh! Mmm...n-no fair Ichi-chan...! I-I...wanted to taste yours...Mmm...! Ah...hah...hah..."
+*I feel Chocoa still trying to massage my less impressive boobs but she soon appears to give up--*
+*--and my whole stomach quivers at the touch of her hands stroking it gently and moving to the rim of my pajama bottoms.*
+*I wait in anticipation, going so far as to hold my breath.*
+Chocoa: "Oh...ah...ah...Ichi-chan...do you...want me to...?"
+*She’s teasing me. I know this and I love it. It’s fun.*
+*This is fun. I smile bashfully nonetheless and wonder if she gets off on me begging for more. I’m sure she does.*
+*I’d be the same. I give in to her spurring, taking a momentary break from sucking her wonderful breasts.*
+Ichigo: "I-I do...I want you...to touch me..."
+Chocoa: "Mmm...mm...mm...do you...really? Ah...hah...oh..."
+Ichigo: "Please Chocoa-san...please...! Touch my most...precious area...I want you...I want you to..."
+Chocoa: "Mmm...hm...Okay, then. Because you asked me so nicely, Ichi-chan."
+Chocoa: "I’ll make you...hah...hah...I’ll make you feel really nice."
+*Once more I pause briefly with her hard nipple in my mouth and feel her hand pull my bottom pajamas down to reveal my favourite pair of panties.*
+*My legs are shaking in anticipation and there’s already a damp spot between them, darkening the color of my fabric.*
+Chocoa: "Mmm...you’re already...so wet..."
+Ichigo: "When Chocoa-san is touching me...I can’t help it...Please...go on. I can’t wait any longer...!"
+Chocoa: "So demanding all of a sudden! Teehee! Ichi-chan is bossy when she’s horny. Are you, Ichi-chan?"
+*I didn’t know Chocoa had such a sadistic side to her. It’s playful though so I shouldn’t be too surprised.*
+*I push my hips into her hand and lower my voice into a faint whisper.*
+Ichigo: "I’m so horny Chocoa-san...do anything you want...to me..."
+*I can’t believe what I’m saying but Chocoa’s eyes light right up and she actually even licks her lips as her hand enters my panties and begins teasing my overly sensitive lips.*
+*I groan instantly, losing my purpose on Chocoa’s body and instead placing my lips over hers once more, pushing my tongue to meet her own and swirling it around and around in a dance of ecstasy.*
+Ichigo: "Oh...oh...hmm...mmm...Hah! Ahhh! Mmm...mm...mm...Hmm!"
+*I alternate between kissing Chocoa and moaning in perfect pleasure, her hand already completely soaked as it lines and teases my sensitive spot that pulsates in a blend of longing and agony.*
+*I eventually glance down and see that Chocoa’s hips are moving in rhythm with my own.*
+Ichigo: "Does Chocoa-san...ah...hah...want to be...mmm...Hmm...touched...too?"
+*I tease as she did me. Unfortunately for me though, Chocoa isn’t so easy to play with in that way.*
+Chocoa: "Mmm...I want Ichi-chan’s fingers touching me over and over again. Mmm...hmm..."
+*She makes noises of pleasure just by watching my hips and body moving with her intent.*
+Chocoa: "I can’t wait another moment...hah...Ichi-chan...caress my precious spot!"
+Ichigo: "A-all right. I...hah...o-oh...I...will..."
+*I manage to pull Chocoa’s pajama bottoms down as she lies beside me and continues to finger between my legs.*
+*I’m drooling as I can barely focus on the task I’ve set out to accomplish.*
+*When Chocoa’s underwear is revealed, I’m not surprised by how sexy it is with the lace and frills.*
+*It’s playful and seductive at the same time. Just like her.*
+*I handle the material a bit before entering and feeling the undeniably perfect surface of her most private and sensitive part.*
+*She’s just as wet as me and I bask in the glory of our unified act of give and take.*
+Chocoa: "O-oh...y-yes...yes...yes...Ichi-chan...your fingers...f-feel so good...hah...hah...Ahh! Hmm...mmm...!"
+Ichigo: "Y-yours too...! I...I can’t get enough...oh...oh...hah..."
+Chocoa: "Kiss me more Ichi-chan...hah...ah...I love kissing you..."
+*I nod barely with my eyes partially open and we’re entering each other’s mouths once more with our tongues.*
+*Our lips lock and smack, play and tug at one another as our nipples poke and prod during the movements of our bodies.*
+*My fingers are now completely thrusting in and out of Chocoa’s ever moister fissure as hers are mine.*
+*It’s a perfect harmonious act of sexual release and I wouldn’t be surprised if anyone outside could hear our unrestrained noises of rapturous bliss.*
+Ichigo: "Mmm...mmm...hmm...oh...Mmm...oh...ah...hah...mmm...!"
+Chocoa: "Ichi...chan...Ichi...hah...hmm...mmm...mmm...!"
+*I was in heaven. My body rubbed against Chocoa’s and hers moved in sync with mine as our fingers pleasured the other and our mouths were locked in open acceptance.*
+*I could feel my legs getting soaked as I neared the feeling that trumped anything else the world had to offer.*
+*Suddenly though, Chocoa stopped and withdrew her hand from my panties much to my disdain.*
+*I actually moaned in desperation as she moved from the bed and stood up with her liquids also seeping down her thighs.*
+*Chocoa begins mischievously as she removes her pajamas and underwear so she was completely naked now.*
+*I subconsciously do the same, wanting to continue where we were so very much. I even go so far as to start touching myself in anticipation and longing.*
+Ichigo: "W-what are...you doing?"
+Chocoa: "I want to feel even more connected to Ichi-chan..."
+Chocoa: "Are you ready, Ichi-chan?"
+*I see that Chocoa is blushing as she goes into the top drawer of her dresser.*
+*She digs through what must’ve been her underwear before withdrawing something white and red wrapped in plastic.*
+Ichigo: "W-what is that...?"
+Chocoa: "It’s quite possibly the best sweet ever made. I created it myself in a fit of madness I suppose."
+*She lies next to me once again and unwraps the thing. Now that I have a closer look I realize it’s like a double sided dildo and candy merged together.*
+*My eyes widen at the spectacle.*
+Chocoa: "You see, Ichi-chan, I want to have sex with you. This is a candy that is quite special..."
+*Chocoa throws the wrapper to the ground and begins sucking on the thick long circular white and red thing and the sight of her doing so instantly arouses me more than ever.*
+*I can hear myself moaning in pure desire.*
+*Without even thinking, I begin sucking the other end and I’m surprised by how good it tastes and how flexible it is. It really was some kind of strange masterpiece.*
+*As our mouths suck and lick the delicious treat, we’re touching one another again in preparation for the penetration.*
+*I’m a little nervous by the size of it, but I’m more so excited about the idea of being connected to Chocoa in such a way.*
+Ichigo: "Hmm...mmm...hah...I-it’s...yummy...hah...ah..."
+Chocoa: "Mmm...mmm...mmm...I-I know...mmm?"
+*We continue doing this for a time before Chocoa removes her mouth first and I follow suit.*
+*She then smiles at me gently and brings the candy down between her legs, forcing my fingers out of the way as she begins allowing her other lips to wrap around it.*
+*I’m hypnotized by the sight as she pushes the long sweet into her body, and even more intrigued with the way Chocoa’s face flushes and her eyes roll up with her mouth opening in seeming pain and joy.*
+Ichigo: "D-does it hurt...?"
+Chocoa: "N-no...Ichi-chan...it feels...s-so...good...go...hah...on..."
+*I nod and feel Chocoa’s hand come out of me as I inch closer and begin navigating the other end of the sweet near my crevice.*
+*It looks so big but the desire to be one with Chocoa in such a way pushes away any doubt, and soon I’m attempting to penetrate myself with the other end of Chocoa’s master creation.*
+*I grit my teeth and feel water welling up in my eyes as my resolve keeps me strong. It hurts a bit but I keep trying, rubbing myself a bit to lube up the treat more.*
+*Soon, Chocoa’s fingers are playing with my bud and I keel into her a bit as I begin to feel the candy breaking into my body.*
+Ichigo: "A-ah...Umg...uh...hah...ahh! Hah...hah..."
+Chocoa: "Ichi-chan is so tight...hah...ah...still...but...almost..."
+*Chocoa persists at playing with me and in another moment or two we are perfectly connected by a long and flexible red and white candy.*
+*The scenario couldn’t get better in one million years.*
+Ichigo: "I-it’s...hah...in...Chocoa-san..."
+Chocoa: "Oh...y-yes...now...we can...we can..."
+*Chocoa begins moving her hips and instantly the large pressure within me is shifting around and tickling all the sensitive spots in my body I didn’t even know existed.*
+*I lean back a bit and clench my mouth shut at the foreign but amazing sensations coursing through my innards now.*
+Ichigo: "Ahh...! Hah...oh...o-oh...Hmm...!"
+Chocoa: "I-Ichi-chan...as well...hah...ah...move...Mmm...! Move with...me...!"
+*I nod while biting at my bottom lip still and tentatively begin shifting my hips in rhythm with Chocoa’s.*
+*I feel awkward at first but quickly the pleasure is having its way with both Chocoa and I, and we become unified in our desire to make the other feel as good as possible.*
+Chocoa: "T-that’s it...hah...hah...Ichi-chan...Ghh...! Ichi-chan is pushing...inside of...me...! Hah...oh...o-ohh...!"
+Ichigo: "Chocoa-san...hah...ah...too...! Ohh...! Hah...I...I didn’t know...this...Hmg...! Could feel...so...so amazing...! Hah...!"
+*The candy treat is now easily pushing in and out of both Chocoa and I. The swishing as well as sloshing sound makes me even more aroused than I already am.*
+*As Chocoa and I thrust our hips toward each other and force the connection between us to navigate its way within our bodies...*
+*...I feel Chocoa’s hand wrap around my back and force my form even closer to hers so that soon our swollen buds are grinding together every time we move our lower halves a certain way.*
+*Once again, just when I think I can’t feel any better, Chocoa easily proves me wrong.*
+Ichigo: "O-oh...we’re...w-we’re touching...!"
+Chocoa: "Hah...hah...! Oh, y-yes...Ichi-chan’s most delicate...hah...ah...! Most delicate spot is rubbing...ooh...ghh...against mine...!"
+Ichigo: "I-it feels...so good...ah...hah...Chocoa-san...it feels so good...!"
+Chocoa: "I can’t...get enough...of Ichi-chan...hah...ooh... oh...ohh...!"
+Ichigo: "Chocoa...san....!"
+*I move my face to Chocoa’s and begin kissing her passionately once more, as our hips continue to consistently rock into one another and shift into rubbing for a moment before thrusting once more.*
+*I take my breasts and force them to tickle Chocoa’s and she does the same as our mouths tangle and our tongues taste each other’s saliva over and over again.*
+Chocoa: "Mmm...Ichi-chan...hah...are you...are you almost...?"
+*Chocoa breaks apart from my kissing and I know my whole body is overheating from the workout it’s getting.*
+*I stare into her flushed expression as her head moves along with our mingling souls.*
+Ichigo: "Y-yes...I-I can barely...hold it in...much longer...hah...ah...ah..."
+Chocoa: "I-I want to...I want to try...and come with you...Ichi-chan..."
+Ichigo: "M-me too...hah...o-oh..."
+*We leave it at that. Once more, our mouths are locked and our bodies are pleasuring each other mutually and perfectly with no misunderstandings whatsoever.*
+*I take my hands from my breasts and move them to Chocoa’s bud where I begin teasing her.*
+Chocoa: "O-ohh! Y-yes...t-that’s g-good...hah...ah...!"
+Ichigo: "Chocoa doesn’t waste any time returning the favour and I immediately know I can’t handle much more of this. I’m going to explode in a matter of seconds if this keeps up!"
+Ichigo: "A-ahhh! O-oh...Chocoa-san...Chocoa...san...hah...ahh! Ghh! I-I’m going to...I’m about to...!"
+Chocoa: "A-a little longer...I-I’m almost...hah...ah...ah...mmm...Mmm...!"
+*I try and hold on. I want to come with Chocoa so badly but the feeling is too much.*
+*Chocoa’s nipples poking at mine. Her lips and tongue touching my own here and there.*
+*The feeling of her candy treat sliding back and forth out of me and into her. The way our crevices rub and caress each other’s.*
+*I can’t take any more! My body is tingling and the waves are coming. My stomach is twitching and my butt is tightening.*
+Ichigo: "C-Chocoa...san...! Hah...ah...Ghaa...! I-I...I’m..."
+Chocoa: "I-it’s okay...ahh...! M-me too...! Go on Ichi-chan...l-let’s come...together...!"
+Ichigo: "Mmg...! Hah...ah...ah...oh...oh...oh...oh...hah...ah...ah...ahh...!"
+Chocoa: "Heh...hah...mm...mm...mm...Hmm...! Hah...ah...ah...oh...oh...ohhh...!"
+*I start before Chocoa by a split second. I feel the juices pouring out of me as the little electrical shocks force my body to flinch as our thrusts slow.*
+*Chocoa soon joins me and the movement stops all together, except for our bodies convulsing in the most wonderful simultaneous rapture I could ever imagine.*
+Ichigo: "Ahhhh...! Ohhhh....! Ah! Ah! Mmg! Hah...hah..."
+Chocoa: "Ohhh...! O-ohhh...! Y-yes...yes...! Hah...ah...ah...heh..."
+*We collapse into each other’s arms and kiss one last deep and emotional kiss as our stomachs continue to recoil every so often.*
+*I’m rubbing Chocoa’s smooth and beautiful side while she caresses my face and we simply smile at one another.*
+Ichigo: "U-um...t-that was..."
+Chocoa: "I must say...I can’t ever remember feeling so very...very good..."
+Ichigo: "Y-yeah...me too."
+Chocoa: "Might I make the claim once more Ichi-chan...that I love you?"
+*I nod sheepishly, both our faces still flushed and breathing partially stressed.*
+Ichigo: "I love you too...Chocoa-san..."
+*She smiles mischievously as she tends to do and then reaches down between us to remove her amazing sweet creation.*
+*As it is taken out of me, I flinch and feel more liquid seeping from my sensitive spot.*
+Ichigo: "Mmg...T-that thing was...neat..."
+Chocoa: "Wasn’t it? I’m so glad I allowed myself a moment of partial insanity when creating such a little toy."
+Chocoa: "But Ichi-chan, I’ll have you know that the best part about this is yet to come. You see..."
+*She places the end of the white and red sweet that had been inside me into her mouth and sucks on it seductively.*
+*I eye her lips as they engulf a portion of the treat before she removes it and winks at me.*
+Chocoa: "Come now, Ichi-chan. It’s better if we eat it at the same time, wouldn’t you agree?"
+*I nod and waste little more time as I take in the side that had penetrated Chocoa and taste her delicious fluids, along with the sweet treat that tastes of strawberry and cream.*
+*The combination is glorious and I feel my body heating up almost right away once more.*
+*It doesn’t take us long to consume the long thick creation and when our mouths inevitably meet in the middle--*
+*--we kiss of course because...well, we’re lovers now.*
+*Something comes to me then and I start to panic though.*
+Ichigo: "B-but...! But if we just ate that then...?"
+Chocoa: "Oho! No need to be concerned Ichi-chan! I know how to make another! Perhaps a different flavour next time? Maybe cookies and cream or vanilla? Hmm..."
+Ichigo: "They both sound delicious."
+Chocoa: "Don’t they? Perhaps I should begin selling them! What do you think?"
+Ichigo: "U-um...I don’t know about that. Do we really want to become a strange bakery like that?"
+Chocoa: "Ah. You’re right of course."
+Ichigo: "B-besides...I kinda want it to be our little secret...I guess..."
+Chocoa: "Oh. Yes. That as well. I tend to agree. I want it to be just Ichi-chan’s and my little fun time. Teehee!"
+*I beam to Chocoa and can’t help but continue smiling as the two of us remain naked in her bed.*
+*We change the sheets, cuddle in once more together and embrace each other tightly as our eyes drift open and closed.*
+Ichigo: "I’m so glad...I came here, Chocoa-san..."
+Chocoa: "Me too, Ichi-chan..."
+Ichigo: "Oh...I’ve been meaning to ask...now that we’re lovers...could you tell me...your real name?"
+Chocoa: "Ah. I suppose that would be a grand thing to add to our next session. The thought of Ichi-chan screaming my real name is an arousing scene indeed!"
+Ichigo: "Y-yeah..."
+Chocoa: "Well, then. There is no choice. Are you ready, Ichi-chan? My name is..."
+*I wait in anticipation but don’t hear anything. I’ve lost myself to sleep. I’m exhausted and drained of all energy.*
+*I don’t even realize I’ve fallen unconscious. But even when I do understand that I missed out on hearing Chocoa’s real name, I won’t worry because...we’re together now.*
+*I’ve found someone I love and who loves me.*
+*I work in a bakery and I am the assistant manager in it. That’s me. Pretty impressive, right?*
+*I think so too. I couldn’t be more happier. My life...is sweet.*
