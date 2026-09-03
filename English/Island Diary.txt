@@ -1,4 +1,4 @@
-====================evc001.txt.json====================
+﻿====================evc001.txt.json====================
 Ryou: And... done!
 Ryou: Phew...
 *Blue skies, blue seas, and a deep green forest.*
@@ -482,7 +482,7 @@ Momo: Wow! It's so good!
 *That's good enough for me.*
 *I head to the forest with Momo again the next day.*
 Momo: This one's a little bitter.
-Ryou: Oof...\nWe might have to cook this one to smooth out the taste.
+Ryou: Oof...We might have to cook this one to smooth out the taste.
 *Gathering food is still our top priority, but we're on the lookout for anything else we can use.*
 *I don't know how long I'm going to be stuck here.*
 *So I'm keeping my eyes open for anything I can use for my daily necessities.*
@@ -1554,7 +1554,7 @@ Ryou: Did you have fun?
 Kuro: Hm? W-Well... A little bit.
 *Kuro looks satisfied despite her harsh judgment.*
 Ryou: Did you used to play with Moca and Momo? You know, before you moved out.
-Kuro: Yeah.\nAlthough neither of them really liked moving their bodies that much...
+Kuro: Yeah.Although neither of them really liked moving their bodies that much...
 *Momo's a little too absent-minded for sports, whereas Moca didn't seem the type to go out unless absolutely necessary...*
 Kuro: But for the most part, they played with me when I said I wanted to play...
 Ryou: ...Isn't it lonely out here by yourself?
@@ -1733,7 +1733,7 @@ Ryou: So there's no need for us to despair. Right?
 Kuro: ...You're right.
 Momo: Kuro...!
 Kuro: Yeah... There's no need for us to end up like the notebook's owner... I never thought of that before...
-Moca: That's right.\nIf we put our heads together, I'm sure we can make something even better...!
+Moca: That's right.If we put our heads together, I'm sure we can make something even better...!
 Momo: Yeah, yeah! I'll help too!
 *Momo, Kuro, and Moca draw close to each other and hold one another's hands.*
 *Good.*
@@ -2070,7 +2070,7 @@ Moca: I just let it dry out... It lasts longer when you do it that way...
 *Moca is smart as usual.*
 Momo: I just ate it raw...
 Kuro: Me too...
-Ryou: Uhh...\nI don't think you should eat the river fish raw...
+Ryou: Uhh...I don't think you should eat the river fish raw...
 Momo: What?!
 Kuro: Really?!
 *I'll definitely need to cook my fish, anyway.*
@@ -2436,7 +2436,7 @@ Momo: Time for a taste test!
 Ryou: It should be safe, but go ahead.
 Momo: Sure. Munch.
 Momo: Mm! It's tender and delicious!
-Ryou: Good to know.\nLet's all dig in.
+Ryou: Good to know.Let's all dig in.
 Moca: Let's eat...
 Kuro: Let's eat!
 *I take a bite out of the steaming fiddlehead.*
@@ -2552,7 +2552,7 @@ Ryou: Yes! And I know I asked how your night was, but that's not what I meant...
 *I realize I'm panicking and take a deep breath.*
 Ryou: Huff... As I was saying, I wanted to ask you if there's any problems with the house that we can work on now that we're going to live in it.
 Moca: I see. So that's what you meant...
-Kuro: M-My thoughts?\nIt's a lot better than living in a tree, that's for sure.
+Kuro: M-My thoughts?It's a lot better than living in a tree, that's for sure.
 Momo: It's a lot cozier than my cave too!
 Moca: I keep thinking about the broken parts of the wall... We should probably fix it up as soon as possible. At least, that's what I think...
 Ryou: Uh-huh.
@@ -3111,7 +3111,7 @@ Momo: Sniff, sniff... Heheh. She says that, but Moca was staring out at the beac
 *Momo smiles while wiping her tears and sniffling.*
 Moca: Momo?! I-I didn't...
 *Moca blushes and shakes as the truth comes out.*
-Kuro: Heeheehee!\nI knew you were worried about us.
+Kuro: Heeheehee!I knew you were worried about us.
 Moca: N-No! I... I...
 Moca: Pyaaaaaaaa!
 *Moca lets her out her usual cry as she escapes back into the house.*
@@ -3373,7 +3373,7 @@ Kuro: What's that, Momo?! Ryou, are you all right?
 Moca: C-Can you hear us? Are you hungry?
 *I open my eyes and see the three girls staring at me intently with worry painted on their faces.*
 Ryou: Yeah... I'm... fine.
-Ryou: Right... I passed out after coming home yesterday...\nHuff, huff...
+Ryou: Right... I passed out after coming home yesterday...Huff, huff...
 Momo: Oh, thank goodness...
 Kuro: Ryou's not out of the woods yet. He still doesn't look well.
 Moca: You're right... Excuse me...
@@ -3975,7 +3975,7 @@ Moca: Once it reaches the end, the yarn will turn over itself, and...
 Ryou: Moca! Did you just invent basic weaving?!
 Moca: Pyaa?!
 *My surprise seems to have scared her.*
-Moca: I thought it'd be nice to have more towels,\nso...
+Moca: I thought it'd be nice to have more towels,so...
 Moca: But if we have more of these, we can make clothes too, can't we...?
 Kuro: Wow... I don't know what to say...
 Kuro: Moca! I wanna make clothes, too!
@@ -4052,7 +4052,7 @@ Moca: Urk.
 Moca: I-I told you that this took the longest to manufacture out of all the iterations...
 Ryou: Well, it takes as long as it takes. At least we can make our own fabric now instead of relying on whatever washes up. I think you did a good job.
 Moca: Pyaaa, Ryou...
-Kuro: I guess you're right.\nLet's try making fabric that's big enough for clothes next time.
+Kuro: I guess you're right.Let's try making fabric that's big enough for clothes next time.
 Kuro: We still have to see if it's good enough to be worn.
 Ryou: Right. Anyway, let's make a bucket for now.
 Momo: A bucket?
@@ -4087,7 +4087,7 @@ Ryou: Yeah, go for it!
 *The girls are giggling as they play on this bright day.*
 Ryou: Get ready, Moca.
 *I receive the ball from Momo and get ready to pass it to Moca.*
-Moca: Pyaaa?! W-Wait...!\nAh?!
+Moca: Pyaaa?! W-Wait...!Ah?!
 Kuro: Ahahahaha!
 *Kuro lets out a pleased guffaw before looking around and nodding in satisfaction.*
 Kuro: I thought making swimsuits for all of you with the little fabric we had was going to be impossible, but it looks like it's holding up well enough.
@@ -4158,15 +4158,15 @@ Kuro: My? My what?
 Momo: W-Well, uh, um... Your b...
 Kuro: Buh?
 Momo: Boobs!
-Kuro: Boo... Ghnyaaa?!\nWh-What happened?!
+Kuro: Boo... Ghnyaaa?!Wh-What happened?!
 Moca: The same thing's happening to you, Momo...!
 Ryou: You too, Moca!
 Moca: Pyaaaaa?!
 Momo: Yours is falling apart too, Ryou!
 Ryou: Nuooooh?!
-*Cloth No.3 was soaked in water during its manufacture,\nso we thought it would be water resistant.*
+*Cloth No.3 was soaked in water during its manufacture,so we thought it would be water resistant.*
 *But it seems that saltwater is its primary weakness.*
-Kuro: What now, Moca?!\nThis is all we wore when we left the house!
+Kuro: What now, Moca?!This is all we wore when we left the house!
 Momo: Fuaaaa?! We don't have anything to change into!
 Moca: How am I supposed to... I don't know... Sniff, uuuu...
 Moca: Pyaaaa, pyaaaaa.
@@ -4219,7 +4219,7 @@ Momo: No! I want this to hatch! And I'm going to be its mother and raise it!
 Ryou: All right... But what kind of egg is it?
 Momo: I don't know...
 Kuro: I've never seen an egg this big, either...
-Moca: Hmm...\nI don't think the notebook says anything about an egg like this...
+Moca: Hmm...I don't think the notebook says anything about an egg like this...
 Ryou: So we don't know what's going to come out of it.
 Momo: Ryou... Please?
 Ryou: Eh, sure I guess.
@@ -4439,7 +4439,7 @@ Moca: I'd like to make a proper bed... I can imagine myself just curling up and 
 *Although after some trial and error, we finally managed to make it feel decent...*
 *We still have some problems with production, but we've finally managed to make fabric.*
 *This might be a good opportunity to figure out a way to make a bed.*
-Ryou: Right, I see.\nI knew asking you guys would yield a lot of suggestions.
+Ryou: Right, I see.I knew asking you guys would yield a lot of suggestions.
 Ryou: What about you, Momo?
 Momo: Me?
 Ryou: Is there anything you'd like to make life more convenient?
@@ -4470,7 +4470,7 @@ Momo: Won't it burn us?
 Ryou: The water won't be so hot that it burns, of course. It'll feel quite good, actually.
 Kuro: It'll feel good...?
 Moca: Kuro's thinking about dirty stuff again...
-Kuro: I-I am not!\nYou're the pervert for pointing it out, Moca!
+Kuro: I-I am not!You're the pervert for pointing it out, Moca!
 Moca: N-No...!
 Momo: If it feels good, I wanna try it!
 Ryou: Hang on, let me think. I don't know if we have the technology to make it yet.
@@ -4546,7 +4546,7 @@ Kuro: Do we need to go around this, too?
 Ryou: Hmm... According to the notebook's map, the hot springs is still further ahead. We should be out of the forest soon enough.
 Kuro: I can climb over this no problem. What do you think?
 Moca: S-So we have to go over this...? Really...?
-Ryou: We'll be fine.\nA rope can get us over this in no time.
+Ryou: We'll be fine.A rope can get us over this in no time.
 Momo: Fuaaa! I can climb this too if we have a rope!
 Moca: Right. All we need is a rope...
 Ryou: Lucky for us, we have a rope. Kuro, take the rope and go ahead.
@@ -4670,10 +4670,10 @@ Ryou: H-Huh...? Where...
 Momo: Fuaaa! Ryou's awake! Thank goodness!
 *Momo wails as she hugs me.*
 Kuro: Phew... You overheated in the hot springs and fainted. You don't remember?
-Ryou: Hot springs... Right.\nI remember all of us going into the hot springs together.
+Ryou: Hot springs... Right.I remember all of us going into the hot springs together.
 Kuro: Th-That's it? You don't remember anything after that?
-Ryou: Not really...\nWait, how am I back home already?!
-Moca: Momo panicked,\nand then she carried you all the way home...
+Ryou: Not really...Wait, how am I back home already?!
+Moca: Momo panicked,and then she carried you all the way home...
 Ryou: D-Did she...? Getting to the hot springs wasn't easy...
 Kuro: And the way home was rough too, although Moca put some wedges down along the way to make going back a little easier.
 Kuro: Going back was only half as exhausting.
@@ -4785,7 +4785,7 @@ Kuro: How'd it go with the house? Is it strong enough now?
 Ryou: Honestly, I'm a little worried about the rooftop.
 Momo: It was already broken by the time we got here...
 Ryou: Exactly. According to the notebook, the writer had to shelter in a cave the last time there was a storm.
-Kuro: What?!\nSo the house wasn't built to survive a storm?!
+Kuro: What?!So the house wasn't built to survive a storm?!
 Ryou: Not entirely. But he figured he could always reattach a new roof, so he reinforced the house's foundations and walls before the storm hit.
 Kuro: So if we do that...
 Moca: That won't work... There's four of us here...
@@ -4941,7 +4941,7 @@ Moca: Pyaaa...
 Momo: We'll cover the cave entrance right away, so just hang tight.
 Moca: Pyaaaaaa! Pyaaaa, pyaaaaa...
 Kuro: Moca! Can you please stop crying?
-Moca: But, but... I'm so scared...\nPyaaaa!
+Moca: But, but... I'm so scared...Pyaaaa!
 Moca: Judging by the storm's strength, even the writer of the notebook never got hit with one this bad... How am I supposed to be okay?
 Kuro: Look, I'm... No, wait...
 Kuro: Momo and Ryou... No, that's not right either...
@@ -4957,7 +4957,7 @@ Kuro: I was really happy when you said you didn't want to be alone earlier...
 Moca: Wh-What?
 Kuro: Th-This is too embarrassing to say more than once, so listen up!
 Moca: O-Okay...
-Kuro: When you said you didn't want to leave us... leave me...\nI was so happy...
+Kuro: When you said you didn't want to leave us... leave me...I was so happy...
 Kuro: So... Stop crying in that corner by yourself.
 Kuro: If you have to cry, d-do it against my chest...
 Moca: Kuro...

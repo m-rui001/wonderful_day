@@ -1,4 +1,4 @@
-Girl: ...I need to go now.
+﻿Girl: ...I need to go now.
 Boy: Okay, take care.
 Girl: Hic...
 Boy: Hey, don't cry. I told you, didn't I? No tears today.
@@ -738,7 +738,7 @@ I hear a voice that seems to be on the verge of explosion...
 Masaya: N...?
 Before I have time to figure out what she means...
 She finally erupts.
-Rika/Masaya: Noooooooooooo!\nWhaaaaaaaaaaaaaaaaaaaaaat?!
+Rika/Masaya: Noooooooooooo!Whaaaaaaaaaaaaaaaaaaaaaat?!
 Rika: Noooooooooooo!
 Masaya: Whaaaaaaaaaaaaaaaaaaaaaat?!
 Wait, sure I'm surprised, but why the hell am I screaming?
@@ -2592,9 +2592,9 @@ The bus was incredibly dusty because of the years of neglect, but we'd cleaned i
 Madoka: Yeah, I think you're right. If we keep adding equipment little by little, it'll look like a proper clubroom in no time.
 Misaki: Phew... Finally done! Now I want something sweet.
 Mashiro: Let's grab something at a convenience store on our way back. Wait, Asuka-senpai?
-Asuka: ......\n.........\n............
+Asuka: ...........................
 Misaki: Hm? Asuka?
-Asuka: ......\n.........\n............
+Asuka: ...........................
 She's wiping a window frame with some crazy concentration.
 Masaya: Asuka?
 Asuka: Eeek!
@@ -2646,7 +2646,7 @@ Asuka: I see... Hm, do men have any advantage?
 Masaya: Yeah. Their heavier weight.
 Misaki: Aren't you contradicting yourself?
 Masaya: Ever heard of Newton's first law? Basically, it's more difficult to change a heavy object's trajectory. When a light object tries to stop an approaching heavy object head-on, it gets pushed off to the side, right?
-Misaki: In other words, the heavier a person, the harder they are to stop?\n...Madoka, spare me any weird jokes about my weight.
+Misaki: In other words, the heavier a person, the harder they are to stop?...Madoka, spare me any weird jokes about my weight.
 Madoka: Come on, you don't need to warn me!
 Mashiro: S-So, um... it's a bit... e-embarrassing to ask this, since you'll probably think I'm having funny thoughts, but...
 Misaki: Oh, no way! Do I smell a dirty question? Yaaay, listen up, guys! Mashiro's gonna ask a <i>really</i> pervy question now!
@@ -2720,7 +2720,7 @@ Aoi: Yeah. A junior league match from a couple years back. Keep watching and tel
 Asuka: But I only just started FC, so I doubt anything I say will mean much.
 Aoi: Just watch.
 Asuka: Okay.
-Asuka: ......\n...This girl's form is really beautiful.
+Asuka: .........This girl's form is really beautiful.
 Aoi: Hahaha! Now that's funny! I guess it's no surprise you mistook him for a girl with the long hair... That's Masaya.
 Asuka: Huh? Oh, you're right. His face looks mostly the same! That's Masaya-san! Wow, Masaya-san looks pretty cute with long hair.
 Aoi: Agreed. Sucks that people made fun of it so much, since I'm sure that means he'll never let it grow out again.
@@ -3436,7 +3436,7 @@ Mashiro: I can't help it! You're just <i>so</i> cute right now!
 Nice work, Mashiro! Now, all Misaki has to do is listen to her, and...
 Madoka: Sucks, right? If she just lowered her knee some more, you'd get a ringside view of her breasts.
 Masaya: Yeah, but there's still a chance that she...
-Madoka: ......\n...Wow, you've got some nerve saying that.
+Madoka: .........Wow, you've got some nerve saying that.
 That's way off base. I'm just so startled that I have no clue how to react.
 Masaya: Kgh... How much hush money is this gonna take?
 Madoka: Why don't you start by moving your face away from the window...?
@@ -5296,11 +5296,11 @@ I need to own up to my mistakes. Ichinose must be pretty mad at me, since she ca
 Gotta apologize, and fast.
 Rika: Um...
 I have to bow my head and say sorry before she blows up!
-Rika/Masaya: I'm sorry!\nSorry!
+Rika/Masaya: I'm sorry!Sorry!
 Masaya: Sorry!
 Rika: I'm sorry!
 Having bowed our heads at the same time, we both go...
-Rika/Masaya: ...What?<T 0>\nHuh?
+Rika/Masaya: ...What?<T 0>Huh?
 Masaya: ...Huh?
 Rika: ...What?
 The two of us exchange glances.
@@ -6075,11 +6075,11 @@ We haven't talked since last night.
 I've been meaning to apologize, but I figured I could wait until we both got home.
 Still, I'm not going to look a gift horse in the mouth. May as well take care of it now, since this chance has fallen right into my lap.
 And so, the first words that leave my mouth are--
-Rika/Masaya: Th-Thank you!<T 0>\nI'm sorry!
+Rika/Masaya: Th-Thank you!<T 0>I'm sorry!
 Masaya: I'm sorry!
 Rika: Th-Thank you!
 Having bowed our heads at the same time, we both go...
-Rika/Masaya: What...?<T 0>\nHuh?
+Rika/Masaya: What...?<T 0>Huh?
 Masaya: Huh?
 Rika: What...?
 Puzzled looks appear on both of our faces.
@@ -7237,7 +7237,7 @@ How'd I even manage that?!
 Mashiro: You're amazing, Misaki-senpai! A <i>total</i> genius!
 Misaki: I'm not too happy to hear that, but thanks anyway.
 Here are the results of our first MonEat session.
-Misaki: Surprisingly talented.\nAsuka: Will be good given enough practice.
+Misaki: Surprisingly talented.Asuka: Will be good given enough practice.
 Me: Has trouble even pressing the right buttons.
 That's pretty depressing.
 I didn't know I was this bad... No, wait, I know I'm at least average!
@@ -11452,7 +11452,7 @@ And that's his one shot of beating any opponent.
 Masaya: That's why I think you're the only one of us who could beat Shindou-san. It's still a long shot, though.
 Shion: ...I understand.
 Hm, odd... I expected him to be a lot more excited after this little pep talk.
-I was sure my speech would help him...\n...Is he gonna be okay?
+I was sure my speech would help him......Is he gonna be okay?
 No, this is no time to start doubting myself. As his second, I need to cheer him up!
 Masaya: So yeah, Prez, let's make you the champion!
 Shion: Hmph... Champion... Now that has a nice ring to it!
@@ -16161,7 +16161,7 @@ Mashiro: Roger, Dodger!
 Masaya: Okay. We'll now commence Operation Ultimate Asuka Kurashina!
 Asuka: I-I'll do my best to unleash my potential!
 Masaya: Okay, I'll assign your roles and positions now.
-Misaki/Mashiro/Shion: Sounds good!\nGotcha!
+Misaki/Mashiro/Shion: Sounds good!Gotcha!
 Misaki: Sounds good!
 Mashiro: Sounds good!
 Shion: Gotcha!
@@ -22477,7 +22477,7 @@ Mashiro: Haaah... Haaah... Haaah...
 Mashiro: Haaah...
 Mashiro: Why am I so stupid...?
 Mashiro: I'm sorry, Senpai. I want you to coach me. I'm sorry, Senpai. I want you to coach me.
-Mashiro: Alright, today will be the day I apologize.<T 0>\n...But it's not because I <i>like</i> him. I still don't know that for sure yet.
+Mashiro: Alright, today will be the day I apologize.<T 0>...But it's not because I <i>like</i> him. I still don't know that for sure yet.
 Mashiro: Senpa--
 Asuka: Coach, let's do the thing again today!
 Masaya: Well, I am your coach... so if it gets you motivated for practice, I guess I should.
@@ -23030,7 +23030,7 @@ Asuka and Mashiro have already been swimming for a long time, so I doubt they'll
 I'm their coach. My job is to support my players, even from the shadows. No need to go reveal myself to them. I'll just leave.
 Oh, a text?
 I have a bad feeling about this... but I'll check anyway.
-Sender: Mashiro Arisaka\nSubject: Senpai\nThink again, perv.
+Sender: Mashiro ArisakaSubject: SenpaiThink again, perv.
 Masaya: ......
 I drop my shoulders in shame as I feel my pride as a coach dwindling.
 Damn, she caught me...
@@ -23040,7 +23040,7 @@ I don't notice her looking my way down there on the beach, so maybe she's trying
 Masaya: Oh?
 Upon closer inspection, I see a scroll bar.
 After scrolling down endlessly, I find the rest of the message.
-I think that was really nice\nLike that you helped us\nYou should let me thank
+I think that was really niceLike that you helped usYou should let me thank
 Masaya: Why the weird incomplete sentences? This supposed to be some cryptic message?
 Or a joke, maybe?
 Guess I'm just not good enough as a coach to earn her sincerity.
@@ -23129,8 +23129,8 @@ Masaya: Uh, what was that?
 Mashiro: Oh, nothing. What were you saying...? Coaching?
 Masaya: Yeah, your message. You were trying to tell me I'm not a good enough coach, right? Hence the incomplete "thank you."
 I think back on her message.
-Sender: Mashiro Arisaka\nSubject: Senpai\nThink again, you perv
-I think that was really nice\nLike that you helped us\nYou should let me thank
+Sender: Mashiro ArisakaSubject: SenpaiThink again, you perv
+I think that was really niceLike that you helped usYou should let me thank
 Masaya: I really do have a lot to learn. It did hurt a bit, but... Wait, on second thought, I guess you were just trying to cheer me up, weren't you?
 Mashiro: No, the weird phrasing and incomplete sentences were just a ploy to get you to direct your attention to something else, like maybe a hidden meaning in the words...
 Masaya: Thanks, Mashiro. I'll work harder from here on out.
@@ -24957,14 +24957,14 @@ I pick up my phone for no particular reason, and that's when I notice.
 Masaya: Oh, a message from Mashiro.
 Things like this make the fact that I have a girlfriend now seem more real.
 Warm affection swirls around in my chest from thinking about her as I check the message.
-56 minutes ago\nSender: Mashiro Arisaka
-Subject: Senpai?\nHi.\nCan I call you if you're not busy?
-47 minutes ago\nSender: Mashiro Arisaka
-Subject: I'm sorry\nIt's okay if you're busy.\nFeel free to just ignore my last text.
-42 minutes ago\nSender: Mashiro Arisaka
-Subject: Um, I'm just checking...\nYou are getting my messages, right?\nIf so, can you please reply? That would make me really happy.
-39 minutes ago\nSender: Mashiro Arisaka
-Subject:\nFeel free to reply whenever.\nI'll be up late tonight.
+56 minutes agoSender: Mashiro Arisaka
+Subject: Senpai?Hi.Can I call you if you're not busy?
+47 minutes agoSender: Mashiro Arisaka
+Subject: I'm sorryIt's okay if you're busy.Feel free to just ignore my last text.
+42 minutes agoSender: Mashiro Arisaka
+Subject: Um, I'm just checking...You are getting my messages, right?If so, can you please reply? That would make me really happy.
+39 minutes agoSender: Mashiro Arisaka
+Subject:Feel free to reply whenever.I'll be up late tonight.
 Masaya: Nooooooooo, Mashiro!
 I hit the call button in a panic.
 Those warm feelings in my chest quickly changed into anxiety...
@@ -27824,12 +27824,12 @@ Masaya: Yeah.
 We link hands as we take to the sky.
 There isn't a cloud in the starry sky above us. I'd never think it was just raining if I hadn't seen it with my own two eyes.
 Masaya: Start with some stretches.
-Rika/Misaki/Mashiro: Okay! <T 0>\nOkaaay! <T 0>\nOkaaaaaay!
+Rika/Misaki/Mashiro: Okay! <T 0>Okaaay! <T 0>Okaaaaaay!
 Rika: Okay!
 Misaki: Okaaay!
 Mashiro: Okaaaaaay!
 Masaya: When you're done, do some field flying. After that, we'll move to your next set of twenty.
-Rika/Misaki/Mashiro: Okay! <T 0>\n Okaaay! <T 0>\n Okaaaaaay!
+Rika/Misaki/Mashiro: Okay! <T 0> Okaaay! <T 0> Okaaaaaay!
 Rika: Okay!
 Misaki: Okaaay!
 Mashiro: Okaaaaaay!
@@ -27859,7 +27859,7 @@ I think back on what happened last night as I listen to Madoka.
 Masaya: Hm...?
 As soon as Rika and I part in front of her house, I get a text.
 Wondering what it could be, I open it.
-Sender: Rika Ichinose\nSubject: Thank you very much\nThank you for everything today. Sleep well.
+Sender: Rika IchinoseSubject: Thank you very muchThank you for everything today. Sleep well.
 Masaya: ......
 Masaya: ...Talk about diligent.
 I know Rika well, so I didn't expect much else.
@@ -27871,10 +27871,10 @@ I'm not trying to criticize her at all. If anything, this text encapsulates what
 Masaya: Though I <i>do</i> kinda wish she'd be a little less formal in texts.
 Right as I say that, another text arrives.
 I open it immediately.
-Sender: Rika Ichinose\nSubject: N/A\n(Blank)
-(Blank)\n(Blank)\n(Blank)
-(Blank)\n(Blank)\n(Blank)
-(Blank)\n(Blank)\nI love you.
+Sender: Rika IchinoseSubject: N/A(Blank)
+(Blank)(Blank)(Blank)
+(Blank)(Blank)(Blank)
+(Blank)(Blank)I love you.
 Masaya: ......
 Masaya: Yeah, I'm <i>definitely</i> saving this. No way I'll risk this getting deleted.
 I imagine it took her a long time to work up the courage to send this text.
@@ -31316,7 +31316,7 @@ Masaya: Yeah, let's do it on three.
 Asuka: Okay. Here goes nothing! One, two, three!
 Asuka counts up, then...
 
-Asuka/Masaya: Huh...?!<T 0>\nAh...!
+Asuka/Masaya: Huh...?!<T 0>Ah...!
 Asuka: Have a match with me!
 Masaya: Have a match with me!
 Asuka: Huh...?!
@@ -36689,8 +36689,8 @@ The screen reads call ended.
 But the soft sound of Mashiro's kiss still lingers in my mind.
 ...Actually, that's the first time she's hung up instead of the other way around.
 I turn my phone on again and find a certain text message.
-Sender: Mashiro Arisaka\nSubject: Senpai\nThink again, perv.
-I think that was really nice\nLike that you helped us\nYou should let me thank
+Sender: Mashiro ArisakaSubject: SenpaiThink again, perv.
+I think that was really niceLike that you helped usYou should let me thank
 ...I mean, sure, this text is super stilted and unnatural.
 Masaya: But who the hell would spot that hidden message?
 Even though I see it now, it still seems far too hard.
@@ -41714,7 +41714,7 @@ Masaya: Stop! Stop! Time out, break!
 Misaki looks up at me blankly.
 Misaki: Huh? Are you gonna cum already? W-Wow, I'm amazing! Go ahead and cum, then!
 Masaya: No, no! I'm not!
-Misaki: How many times do I have to tell you not to be embarrassed?! \nMwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah!
+Misaki: How many times do I have to tell you not to be embarrassed?! Mwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah!
 Masaya: Hmph!
 I chop straight down on Misaki's head, which makes her release my dick with a pop.
 Misaki: Y-You hit me! You hit me while I was sucking you off! Th-This is domestic violence!

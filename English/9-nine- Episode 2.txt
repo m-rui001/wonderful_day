@@ -1,4 +1,4 @@
-*Everyone has a few memories they hold especially dear.*
+﻿*Everyone has a few memories they hold especially dear.*
 *Things they can't forget. Things they mustn't forget.*
 *It goes without saying, but...*
 *I have some too.*
@@ -9199,7 +9199,7 @@ Kakeru: "Cheer up, huh?"
 *.........*
 Ghost: "Congratulations, onii-chan."
 Ghost: "Now you're a murderer too."
-Kakeru and Sora: "Ngh..."\n"Oh, you're up!"
+Kakeru and Sora: "Ngh...""Oh, you're up!"
 Kakeru: "..."
 Kakeru: "Sorry. How long was I out?"
 Sora: "I dunno. I just got back, so probably no more than ten minutes?"

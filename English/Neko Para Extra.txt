@@ -1,4 +1,4 @@
-Chocola: G-Good morning... to you...
+﻿Chocola: G-Good morning... to you...
 Vanilla: Good morning...
 Shigure: Good morning, Chocola, Vanilla.
 Shigure: Did you get any sleep last night?
@@ -84,9 +84,9 @@ Kashou: But no being picky, you hear?
 Kashou: You two are growing girls, after all.
 Chocola: O-Okay, understood...
 Vanilla: Mm-hmm, in that case...
-Chocola & Vanilla: Mm, ahm...\nMm, ahm...
-Chocola & Vanilla: Mmgh, mmgh, mmgh...\nMmgh, mmgh, mmgh...
-Chocola & Vanilla: Mm...!\nMm...!
+Chocola & Vanilla: Mm, ahm...Mm, ahm...
+Chocola & Vanilla: Mmgh, mmgh, mmgh...Mmgh, mmgh, mmgh...
+Chocola & Vanilla: Mm...!Mm...!
 Kashou: How is it?
 Chocola: Um... I-It's good, yes...
 Vanilla: Mm-hmm... It's really good...
@@ -109,8 +109,8 @@ Maple: Oh, yes please.
 Cinnamon: Oka~y, you get the first sip of the batch, May-chan~♪
 Maple: Thanks. Black tea is awesome, but green tea makes a traditional meal complete, yes siree♪ Ssp, ssp...
 Maple: Yowwwwwwccch hooooooootttt!!!
-Chocola & Vanilla: ...\n...
-Chocola & Vanilla: ...Hehe.\n...Hehe.
+Chocola & Vanilla: ......
+Chocola & Vanilla: ...Hehe....Hehe.
 Kashou: Chocola, Vanilla?
 Chocola: ...Oh, Kashou-san.
 Vanilla: Um, what is it? What's the matter...?
@@ -118,7 +118,7 @@ Kashou: Well, it's not really a matter of 'what', you see.
 Kashou: I'm going out, so I was wondering if you guys wanted to come along.
 Chocola: G-Going out, now...?
 Vanilla: By come along, do you mean us...?
-Chocola & Vanilla: ...\n...
+Chocola & Vanilla: ......
 Kashou: ......
 Kashou: ...I mean, I'm not trying to force you or anything.
 Kashou: But, I figured it would be more fun than just lounging around the house all day.
@@ -162,7 +162,7 @@ Shop Clerk: Yes, very well done, you two♪
 Shop Clerk: Well then, Kashou-chan, be sure to drop by again, okay?
 Shop Clerk: I'll give you a freebie to celebrate your return back to Japan♪
 Shop Clerk: Okay, see you around~♪
-Chocola & Vanilla: ...\n...
+Chocola & Vanilla: ......
 Kashou: Our family has lived here a long time, so we have a lot of acquaintances.
 Kashou: Pretty much everyone gets what I mean when I say you're both cats of ours.
 Chocola: Oh, r-right...
@@ -171,7 +171,7 @@ Kashou: I mean, you don't really have to 'try' any harder than you are.
 Kashou: The both of you can and will get along with everyone fine in due time, I'm sure.
 Chocola: R-Right...
 Vanilla: Mm-hmm...
-Chocola & Vanilla: ...\n...
+Chocola & Vanilla: ......
 Chocola: Um, Kashou-san...?
 Chocola: Kashou-san, did you go somewhere...?
 Kashou: Ah, right. It's called studying abroad.
@@ -181,15 +181,15 @@ Chocola: Study...?
 Vanilla: Specialized, France...?
 Kashou: Aah, erm, yeah...
 Kashou: I guess the gist of it is, I went overseas to study and I just came back.
-Chocola & Vanilla: ...???\n...???
+Chocola & Vanilla: ...???...???
 Kashou: A little hard for kittens to understand, huh?
 Kashou: Chocola, Vanilla, you'll both learn in time.
 Kashou: Basically, it just so happens that my parents are away from home, as well.
 Kashou: I had good timing coming back when I did in order to watch over Shigure and you guys.
-Chocola & Vanilla: Y-Yes...\nMm-hmm...
+Chocola & Vanilla: Y-Yes...Mm-hmm...
 Kashou: Well, in any case...
 Kashou: Welp, let's go to today's destination, the shrine.
-Chocola & Vanilla: Shrine?\nShrine?
+Chocola & Vanilla: Shrine?Shrine?
 Chocola: Erm, Kashou-san, um...?
 Vanilla: What should we be doing...?
 Kashou: This is called 'yakubarai', or 'cleansing of the bad luck'.
@@ -240,13 +240,13 @@ Kashou: I'm superstitious for good luck. I'll take anything I can.
 Kashou: Even though I'm not the type to go asking God for favors.
 Chocola: Next year?
 Vanilla: Superstitious?
-Chocola & Vanilla: ...???\n...???
+Chocola & Vanilla: ...???...???
 Kashou: Personal matter; don't sweat it.
 Kashou: Also, you don't have to rely on God...
 Kashou: I'll protect both of you, Chocola and Vanilla.
 Kashou: Knowing that, you don't have to be so scared.
 Kashou: Small steps are fine, so let's be a happy family, okay?
-Chocola & Vanilla: Kashou-san...\nKashou-san...
+Chocola & Vanilla: Kashou-san...Kashou-san...
 Chocola: ...Yes.
 Chocola: I hope we all become a happy family soon.
 Vanilla: I'll try the best I can, too.
@@ -433,7 +433,7 @@ Chocola: Master? Where are we going today?
 Vanilla: I didn't hear either. Master, you're relatively heavy-handed.
 Kashou: They said that the temperature would be going up quite a bit today.
 Kashou: So, I figured we might as well take the chance to bring you guys somewhere you've never been before, Chocola, Vanilla.
-Chocola & Vanilla: We've never been before?\nWe've never been before?
+Chocola & Vanilla: We've never been before?We've never been before?
 Coconut: Wow! Wowie!
 Coconut: This is such a big pond! Look, look, Onee-chan! This is so big!
 Azuki: Dummy, this isn't a pond. This is called the ocean.
@@ -632,7 +632,7 @@ Cinnamon: The screen is positively flesh-colored~!! Haah haaah. Ahh, hhah, huahh
 Maple: Wh-Why are you saying that and looking at it like you're caught in a trance?!
 Maple: Stop it, I say! I'll break you!
 Shigure: So, how is it, Maple? Are you managing the iPon okay?
-Maple & Cinnamon: Nyaaaaaah?!!!\nNyaaaaaah?!!!
+Maple & Cinnamon: Nyaaaaaah?!!!Nyaaaaaah?!!!
 Shigure: Hm? What is with those reactions?
 Maple: N-Nothing at all!
 Maple: The iPon is so simple! I've got everything from the internet to Tsuri down pat!
@@ -649,7 +649,7 @@ Cinnamon: I just told you to look up some maps! I swear~!!
 Shigure: Quit it! The two of you looked at them together, didn't you?!
 Shigure: I'm going to be restricting the features! It will not be coming off until I give you permission!
 Shigure: Also, there will be no snacks for either of you for the time being!
-Maple & Cinnamon: I-I'm sorry!!\nI-I'm so sorry~!!
+Maple & Cinnamon: I-I'm sorry!!I-I'm so sorry~!!
 ================================================================================
 Coconut: Onee-chan, Onee-chan♪
 Coconut: Onee-chan, Onee-chan♪
@@ -839,7 +839,7 @@ Chocola: It's been two months since the two of us have become your cats, Master!
 Vanilla: Our time as kittens was short.
 Vanilla: That's why I think you should play with us even more.
 Kashou: C'mon, I'm always playing with you guys. Who's a good couple of girls~
-Chocola & Vanilla: Purr, purr, purr~♪\nPurr, purr, purr~♪
+Chocola & Vanilla: Purr, purr, purr~♪Purr, purr, purr~♪
 Shigure: Hmm! Ahem!
 Shigure: It's December, right? And you know what that means, right?
 Kashou: Huh?

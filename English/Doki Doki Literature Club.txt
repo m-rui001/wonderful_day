@@ -1,4 +1,4 @@
-Sayori: "Heeeeeeeyyy!!"
+﻿Sayori: "Heeeeeeeyyy!!"
 *I see an annoying girl running toward me from the distance, waving her arms in the air like she's totally oblivious to any attention she might draw to herself.*
 *That girl is Sayori, my neighbor and good friend since we were children.*
 *You know, the kind of friend you'd never see yourself making today, but it just kind of works out because you've known each other for so long?*
@@ -1395,7 +1395,7 @@ Monika: "..."
 Monika: "..."
 Monika: "Um..."
 Monika: "Hey, <USER>..."
-Monika: "Why don't we\nstep outside for\na little bit?"
+Monika: "Why don't westep outside fora little bit?"
 Monika: "Okay?"
 Monika: "Sorry about that..."
 Monika: "They really shouldn't have tried to get you involved."

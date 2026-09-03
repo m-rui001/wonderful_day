@@ -1,4 +1,4 @@
-Chocola: Meowelcome!
+﻿Chocola: Meowelcome!
 Vanilla: Welcome to La Soleil.
 Chocola: Will you be staying with us or taking it to go?
 Female Customer: I'll be eating in~
@@ -349,7 +349,7 @@ Azuki: So they helped you get the ball rolling, huh?
 Kashou: I don't think I've come close to replicating their flavor, but... I can at least honor them in name.
 Cinnamon: Hah~ What would the sweets prepared by someone Kashou-san holds so dearly taste like, I wonder~
 Coconut: I-I bet they're really yummy...
-Coconut & Cinnamon: "Slurp.\nSlurp."
+Coconut & Cinnamon: "Slurp.Slurp."
 *My cakes still don't hold a candle to my mentor's. They said that they already taught me everything, but...*
 *In that case, what is it that I'm lacking?*
 *If I can make really delicious Western-style cakes one day, then maybe even dad will finally give me his approval? That has been my thought process, at least.*
@@ -2670,7 +2670,7 @@ Kashou: Thank you very much. I know I asked this of you suddenly... and I brough
 Beignet: With meals, the more the merrier. Besides, you two are family, aren't you?
 Shigure: Yes!
 Beignet: Then, help yourselves.
-Everyone: "Time to eat.\nTime to eat."
+Everyone: "Time to eat.Time to eat."
 *Hors d'oeuvre serve to enrich one's appetite and mood.*
 *The portion size is small, designed to make you enjoy their visual beauty.*
 *Mentor has prepared scallops topped with mini shrimp and caviar sandwiching sliced pieces of baby tomatoes.*
@@ -3103,7 +3103,7 @@ Shigure: Oh, so will I.
 Fraise: Please, leave cleanup to us, Pâtissière.
 Beignet: Thank all of you.
 Kashou: All right, I'll clean up the kitchen. I'll leave the counter and storefront to you guys.
-Shigure & Fraise: "Understood.\nUnderstood."
+Shigure & Fraise: "Understood.Understood."
 Fraise: ......
 *As they clean, Fraise addresses Shigure.*
 Fraise: Um, excuse me...

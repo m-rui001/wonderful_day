@@ -1,4 +1,4 @@
-*Scarcely half a month has passed since the new term began and I became a second-year.*
+﻿*Scarcely half a month has passed since the new term began and I became a second-year.*
 *And yet this has been perhaps the most eventful fifteen days of my entire life.*
 *It all started at the festival.*
 *A while back, there was this anime called "Mobius Ring, the Cycle of Reincarnation".*
@@ -737,7 +737,7 @@ Renya: "That you're actually a spy?"
 Kakeru: "No, geez. I—"
 Kakeru: "..."
 Kakeru: "I've fallen in love with Senpai!"
-Ghost＆Renya: "..."\n"..."
+Ghost＆Renya: "...""..."
 *It feels like time's slowed to a crawl.*
 *Both Ghost, who hasn't visibly shown any emotion other than irritation this whole time, and Takamine, who's been keeping up his chuuni persona, look absolutely floored.*
 *This was probably the last thing either one of them was expecting.*
@@ -7795,7 +7795,7 @@ Haruka: "......"
 Sora: "..."
 Haruka: "..."
 Sora: "Yeah."
-Sora & Haruka: "Yuckkkk!!"\n"Ewww..."
+Sora & Haruka: "Yuckkkk!!""Ewww..."
 ================================================================================
 Kakeru: "'Sup."
 Sora: "Hey."
@@ -8016,14 +8016,14 @@ Kakeru: "Ooooh..."
 *Before my eyes is a huge box.*
 *A box you enter to take a photograph and mark it up to be all cutesie.*
 *That's right... what people call a Purikura machine.*
-*The thing that party-going girls love.\nThe thing that makes your eyes look bigger and stuff.*
+*The thing that party-going girls love.The thing that makes your eyes look bigger and stuff.*
 Haruka: "Have you ever, ta-taken one?"
 Kakeru: "No... never..."
 Haruka: "R-right... Sorry. Uh, Niimi-san... I don't think you like this sort of thing, but..."
 Haruka: "Um. Purikura's not popular anymore, and it's not something you take and brag about..."
 Haruka: "But... I wanted to try it once..."
 *Maybe she feels apologetic to me, because her voice is getting quieter and quieter.*
-*True... this is a high bar.\nI really hate this sort of thing.*
+*True... this is a high bar.I really hate this sort of thing.*
 *But... can I say that out loud? That I hate it?*
 *I'm pretty sure Senpai is also the type of girl who thinks this is embarrassing, too.*
 *It probably took a huge amount of courage to invite me.*
@@ -8036,7 +8036,7 @@ Kakeru: "Yes. Let's do it!"
 Haruka: "T-Thank you very much! So..."
 Kakeru: "Shall we take a picture?"
 *Timidly, we approach the box.*
-*Luckily, it isn't crowded today...\nActually, there's not a soul around.*
+*Luckily, it isn't crowded today...Actually, there's not a soul around.*
 *Let's take these photos while we still can!*
 Haruka: "Ummm... Just in case, I rehearsed for this a bit..."
 *She taps the touch panel set on the outside.*
@@ -8120,7 +8120,7 @@ Kakeru: "Ughh! I'm hideous! ...I look hideous with my eyes all big and round lik
 Haruka: "Cute..."
 Kakeru: "Huh?! ...Really? This is kinda amazing. What's 'Add Atmosphere' do?"
 Haruka: "Looks like you can change the lighting... Amazing..."
-*We're completely baffled by the multitude of options...\nBut while I'm still feeling a little embarrassed, this is starting to get a bit fun.*
+*We're completely baffled by the multitude of options...But while I'm still feeling a little embarrassed, this is starting to get a bit fun.*
 *Senpai seems to be full of curiosity about the whole thing and keeps tapping various parts of the touch panel.*
 *...Suddenly, Senpai's hands stop.*
 Haruka: "I'd like to add many different decorations... but since we went to all the trouble to take these photos, maybe I should just leave them like this..."
@@ -8152,7 +8152,7 @@ Kakeru: "How'd they turn out? Whoa."
 *Peering over her shoulder, I'm shocked at the sight of my overly airbrushed face.*
 *Senpai looks pretty cute... but me? That's another person.*
 Haruka: "Um..."
-*Senpai starts looking around for something.\nWith a gasp, she rushes over to a small table nearby.*
+*Senpai starts looking around for something.With a gasp, she rushes over to a small table nearby.*
 *Using the scissors there, she neatly divides the pictures up.*
 Haruka: "H-here. This is yours."
 Kakeru: "Thank you."
@@ -8210,8 +8210,8 @@ Koumoto: "Hey, what up? Ain't that cold?"
 Koumoto's friend: "Huh? Who's this chick?"
 Koumoto: "We went to elementary and middle school together. Guess you could say she was like my... protegee? Underling? Anyway, I was always looking out for her."
 Haruka: "..."
-*From the way Senpai is looking down at her feet, Koumoto's friend can probably tell they hadn't had a positive relationship.\nHer face is scrunched up like she's incredibly uncomfortable.*
-*...How to deal with this.\nPeople like this, if you handle them poorly, are likely to stick to you like glue...*
+*From the way Senpai is looking down at her feet, Koumoto's friend can probably tell they hadn't had a positive relationship.Her face is scrunched up like she's incredibly uncomfortable.*
+*...How to deal with this.People like this, if you handle them poorly, are likely to stick to you like glue...*
 *Since they're clearly looking down on us, I guess we've no choice but to show them what we got...*
 Kakeru: "Can you please move?"
 Koumoto: "Wha? Why?"
@@ -8237,7 +8237,7 @@ Koumoto: "Huh? You think this crap is important?"
 Haruka: "..."
 *Senpai is glaring squarely at Koumoto as he laughs derisively.*
 *...The hand I'm holding is trembling.*
-*I could have backed her up.\nI could have jumped in and taken the photos back by force.*
+*I could have backed her up.I could have jumped in and taken the photos back by force.*
 *But... I decide to see how this plays out for just a bit more.*
 Haruka: "...!"
 Haruka: "Over and over and over... You took my things, hid them..."
@@ -8272,7 +8272,7 @@ Kakeru: "Don't you have something to say?"
 Koumoto: "Wha?!"
 Kakeru: "You heard me."
 Koumoto: "Ow!!!"
-Koumoto's friend: "Hurry up and apologize, Koumoto.\nYou're being super lame right now."
+Koumoto's friend: "Hurry up and apologize, Koumoto.You're being super lame right now."
 Koumoto: "..."
 Koumoto: "I'm sorry."
 Kakeru: "I can't hear you!"
@@ -8383,7 +8383,7 @@ Kakeru: "But..."
 Haruka: "It's fine... Because whenever I look at them... I'll remember what happened today."
 Haruka: "How I... was able to stand up and face what I'm afraid of."
 Haruka: "So, I like these. For once, I was able to protect the most important thing to me."
-*Taking off her smartphone cover, she looks steadily at the photo attached to her phone.\nShe caresses it with her finger.*
+*Taking off her smartphone cover, she looks steadily at the photo attached to her phone.She caresses it with her finger.*
 Haruka: "It's just like Yuuki-chan said... Even without using the power of my Artifact... I can change myself."
 Kakeru: "For an instant, I thought my personality had changed."
 Haruka: "I thought about you and Ghost-san, and I tried to imitate how you were acting."
@@ -8425,7 +8425,7 @@ Haruka: "S-S-Sorry! My voice did something weird there!"
 Haruka: "I-I get it! Y-You mean, as a f-friend. Right? That's what you mean! I get it!"
 Kakeru: "No. As a girl."
 Haruka: "Hya?!"
-*Now she makes a sound like she's on a kid's superhero show.\nI can't help but laugh.*
+*Now she makes a sound like she's on a kid's superhero show.I can't help but laugh.*
 *Senpai's eyes are flitting all over the place. She checks in her bag, opens her bottle of tea, closes it again. She's acting totally weird.*
 Haruka: "Uh. But, wait. Huh? Wha? Um... Huh?!"
 Haruka: "U-Uh. I... There's the curry, and I also tend to get lost in my own delusions... I only ever do things that make people back away from me! I think it'd absolutely never work!"
@@ -8477,7 +8477,7 @@ Haruka: "......!"
 Haruka: "I like you, too. I love you...!"
 Haruka: "Please, make me your princess!"
 *Senpai smiles with tears pouring down her face.*
-*She had already confessed to me once, but...\nRight now, I could breathe a sigh of relief.*
+*She had already confessed to me once, but...Right now, I could breathe a sigh of relief.*
 *The mere ten seconds before I heard her response had left me full of unease.*
 *How many days had I put my answer on hold?*
 *Now I feel a sense of guilt.*
@@ -8495,7 +8495,7 @@ Haruka: "Yes! Despite all that I am, please stay by my side... my prince!"
 *Not wanting to break the moment, I try holding out a bit more...*
 *But I get too fidgety and I can't do this anymore.*
 *This really just isn't me.*
-*The way I confessed to Senpai must stay a secret, no matter what.\nEspecially to my evil little sister.*
+*The way I confessed to Senpai must stay a secret, no matter what.Especially to my evil little sister.*
 *While feeling a bit reluctant about it, I let go of Senpai's hand and stand up, looking at my feet in embarrassment.*
 *And then...*
 Kakeru: "Huh?"
@@ -8573,7 +8573,7 @@ Haruka: "Ooooohhhh!!"
 *There's no way I wouldn't get pumped for this!*
 Haruka: "Um. So, thanks for having me."
 Kakeru: "P-Please go right in!"
-*Senpai takes off her shoes and enters the living room.\nI follow a moment later.*
+*Senpai takes off her shoes and enters the living room.I follow a moment later.*
 Haruka: "..."
 *For some reason, she raises her hands and does a victory pose.*
 *I just said I understood her feelings, but... Senpai is way too much of a free spirit...*
@@ -8581,7 +8581,7 @@ Haruka: "..."
 Haruka: "To think that this day would come... Thank you, God!"
 Kakeru: "Senpai?"
 Haruka: "...!"
-*When I peer at her face, she seems to snap back to reality...\nOr at least I think she does, but then her weird behavior continues.*
+*When I peer at her face, she seems to snap back to reality...Or at least I think she does, but then her weird behavior continues.*
 Haruka: "Um. I did contact my home!"
 Kakeru: "Oh, yeah, I saw you were using your phone just now."
 Haruka: "Yes! I notified my mother that I got a boyfriend!"
@@ -8630,7 +8630,7 @@ Kakeru: "...I'll go heat up the water!"
 Haruka: "S-Sorry..."
 ================================================================================
 Haruka: "..."
-*I get out of the bath, change into my clothes and go to the living room.\nHaruka is already dressed, too, and is now squatting near the table.*
+*I get out of the bath, change into my clothes and go to the living room.Haruka is already dressed, too, and is now squatting near the table.*
 *But she's not in her usual uniform... Instead, she's wearing the shirt I had on before we got in the bath.*
 *She put it on willingly, not because I asked her to or anything.*
 *...*
@@ -8761,17 +8761,17 @@ Haruka: "Just now. I've occupied myself with watching you sleep since then. You'
 Kakeru: "...You're making me blush."
 Haruka: "Heehee."
 *She smiles, then ruffles my hair.*
-*I throw my arms around Haruka and bury my face into her chest.\nI just wanted to do it. No particular reason.*
+*I throw my arms around Haruka and bury my face into her chest.I just wanted to do it. No particular reason.*
 Haruka: "You're actually quite the baby, Kakeru-san."
 Kakeru: "No one's ever wanted to indulge me before, so..."
 Haruka: "I see. There, there."
 *She pets my head again.*
-*You know,\nI'm not usually happy about being treated like a child...*
+*You know,I'm not usually happy about being treated like a child...*
 Kakeru: "But damn this feels nice..."
 Haruka: "When did you start living by yourself?"
 Kakeru: "Freshman year, must've been..."
-Haruka: "Are you starved for attention\nbecause you've been living alone for so long?"
-Kakeru: "Probably.\nI need some... compassion. Is that the right word?\nI'm not a hundred percent sure."
+Haruka: "Are you starved for attentionbecause you've been living alone for so long?"
+Kakeru: "Probably.I need some... compassion. Is that the right word?I'm not a hundred percent sure."
 Haruka: "Compassion... Is that what you want?"
 Haruka: "In that case, perhaps I can provide it better this way."
 *Haruka's tone of voice shifts.*
@@ -8779,33 +8779,33 @@ Haruka: "In that case, perhaps I can provide it better this way."
 Kakeru: "I don't think playing around with people is very compassionate..."
 Haruka: "Aah, so is that what you want?"
 Kakeru: "I get flustered when you take the initiative..."
-Haruka: "You've been taking the lead this whole time.\nNow it's my turn."
+Haruka: "You've been taking the lead this whole time.Now it's my turn."
 Kakeru: "It'd make for a nice change of pace, I guess."
 Haruka: "Come, feel free to indulge yourself."
-Kakeru: "Now that you're telling me to go for it...\nI'm not sure how to."
+Kakeru: "Now that you're telling me to go for it...I'm not sure how to."
 Haruka: "You could reduce your mental age."
 Kakeru: "...So you want me to babble like a baby?"
 Haruka: "Can you do it?"
 Kakeru: "I don't think I can lose that much of myself..."
-Haruka: "All right, how about you keep your vocabulary,\nbut start acting like a baby?"
+Haruka: "All right, how about you keep your vocabulary,but start acting like a baby?"
 Kakeru: "Act like a baby? Hmm..."
 Haruka: "You seem to have a sufficient amount of reason left in you."
-Kakeru: "Forgetting myself to the point of being a baby...\nThat's a tall order..."
+Kakeru: "Forgetting myself to the point of being a baby...That's a tall order..."
 Haruka: "In that case."
-*Haruka smiles seductively\nwhile thumbing one of the buttons on her shirt.*
+*Haruka smiles seductivelywhile thumbing one of the buttons on her shirt.*
 *Slowly, she undoes each button, one by one...*
 Haruka: "Maybe now you can more readily give in to your instincts."
 Kakeru: "..."
 *My words are caught in my throat.*
-*But without needing to hear me speak,\nHaruka knows I won't be repelled by this or reject her.*
-*I must be making one hell of a face right now.\nI can feel it.*
+*But without needing to hear me speak,Haruka knows I won't be repelled by this or reject her.*
+*I must be making one hell of a face right now.I can feel it.*
 *I can't quite put it into words, but...*
 *...*
 *It's great. Awesome!*
 Haruka: "Come on."
 Kakeru: "What?"
 *Haruka pats her lap.*
-*I'm so dumbfounded\nthat she has to smile and pat her lap again to prompt me to come.*
+*I'm so dumbfoundedthat she has to smile and pat her lap again to prompt me to come.*
 Haruka: "Come on. On my lap."
 Kakeru: "...I can rest my head on it?"
 Haruka: "Yes."
@@ -8816,7 +8816,7 @@ Kakeru: "Oh... Nice."
 *Well, it can't be helped.*
 *Getting to lay your head on your girlfriend's lap is every man's dream!*
 Kakeru: "Don't mind if I do..."
-*I get up and clumsily make my way to Haruka...\nMy heart pounds as I rest my head on her lap.*
+*I get up and clumsily make my way to Haruka...My heart pounds as I rest my head on her lap.*
 ================================================================================
 Kakeru: "Oooh..."
 *Now this is one hell of a view... if you could call it that.*
@@ -9233,7 +9233,7 @@ Haruka: "That's exactly what I want!"
 Kakeru: "R-Right... I'll do my best."
 Haruka: "Okay! Oh, I'll start stripping! That's what you want, right?!"
 *Haruka starts taking off her shirt a little bit too enthusiastically, if I'm being honest.*
-*We've only just had sex for the first time...\nand this is like our second day of officially dating each other...\nbut she's completely lost all sense of shame.*
+*We've only just had sex for the first time...and this is like our second day of officially dating each other...but she's completely lost all sense of shame.*
 *Haruka sure is greedy when it comes to sex...*
 *N-Not that I'm complaining! I can't wait to get started!*
 Haruka: "Th-There! All nude!"

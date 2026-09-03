@@ -1,4 +1,4 @@
-====================01_01.ks.json====================
+﻿====================01_01.ks.json====================
 Mover: Thank you very much! I'm heading out now!
 Kashou: ... Phew, this should be most of the boxes then.
 *I wiped the sweat off my forehead with my arm...*
@@ -1046,7 +1046,7 @@ Kashou: Hmm, so that's it?
 Kashou: Now then, next I need to work on the pie dough--
 Chocola & Vanilla: Stare~ ♪ C'mon c'mon c'mon!!
 Kashou: ...... Did you two want to have a taste?
-Chocola & Vanilla: Meow, just as expected of Master~ ♪\nMeow, as expected of Master♪
+Chocola & Vanilla: Meow, just as expected of Master~ ♪Meow, as expected of Master♪
 *I handed the custard-covered spatula over to them.*
 Chocola: Munch, mmm...
 Chocola: It's so goooood! It tastes good, Master~ ♪
@@ -1202,7 +1202,7 @@ Kashou: ... Not that she can hear you.
 *Well, to see them that hopeful for customers did pain me a bit as their owner.*
 Kashou: Well, since we just started, we should be patient--
 Female Customer: Excuse me.
-Chocola & Vanilla: M-Meow, w-welcommmmme!!\nM-Meow, w-welcome!!
+Chocola & Vanilla: M-Meow, w-welcommmmme!!M-Meow, w-welcome!!
 Female Customer: Hyaaaaah?! Wh-Wh-What is going on?!
 Chocola: W-What would you like to meowrder?!
 Chocola: Ah, o-our special is that... that thing! Uhm, that!! Cake!!
@@ -1443,7 +1443,7 @@ Kashou: ......
 *The only accurate thing Vanilla said was that this was a normal day for the Minaduki family.*
 *But it did make me think that things would be better outside instead.*
 Shigure: Okay, no more fighting now~
-All: Humph!Hm?Huh?\nHoe?Yes!Yes.
+All: Humph!Hm?Huh?Hoe?Yes!Yes.
 Shigure: Just what do you think you're doing, fighting on the day of Nii-sama's new start?
 Shigure: As a Bell-carrying catgirl of the Minaduki family, you ought to be ashamed!
 Chocola: Chocola and Vanilla don't have a Bell yet, though.
@@ -1743,7 +1743,7 @@ Chocola: ...??
 Fly: Bzzzzzzzzzzzzz~
 Coconut: ............
 Chocola: ???
-Shocola & Coconut: Ouch?!\nMeow!!
+Shocola & Coconut: Ouch?!Meow!!
 Chocola: Uwaaahn! Coco-chan cat-punched Chocola~! Myaaahn, that's mean~!
 Coconut: S-Sorry, Chocola! I just...!
 Vanilla: That was pretty intense. I guess you could say that it can't be helped since you're a catgirl. There, there.
@@ -1892,7 +1892,7 @@ Kashou: By the way, what these fingers touched earlier was blue cheese.
 Chocola & Vanilla: Unyaaaaahhh...!!
 Kashou: Okay, you failed the Flehmen response test, as well.
 Kashou: Okay, next.
-Chocola & Vanilla: Guhhmeooow?!\nMeooow?!
+Chocola & Vanilla: Guhhmeooow?!Meooow?!
 Chocola: Ahh... A-Ahhh... M-Master... Auuuuuh~
 Vanilla: Hiss! Just what are you doing?! Hiss!
 Kashou: Clapping-in-the-face test, also failed.
@@ -2057,7 +2057,7 @@ Chocola: So that Master will be even happier... Chocola will work hard...!
 *She wasn't like her usual feverish and energetic self.*
 *It was almost as if--*
 Vanilla: Chocola?
-Chocola & Vanilla: Meoooooowwww?!\nMeoowww?!
+Chocola & Vanilla: Meoooooowwww?!Meoowww?!
 Kashou: Uwahh?!
 Chocola: Y-You surprised Chocola! You really did!! What are you trying to do, Vanilla? Sheesh!!
 Vanilla: Oh, this is what you'd call a false accusation. Or an unfounded suspicion.

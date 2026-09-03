@@ -1,4 +1,4 @@
-====================001・アーサー王ver1.07.ks.json====================
+﻿====================001・アーサー王ver1.07.ks.json====================
 *Sir.*
 Masaomi: ......
 *Sir?*
@@ -2335,7 +2335,7 @@ Lena: Nice to meet you. I'm Lena Liechtenauer.
 Yoshino: It's a pleasure to make your acquaintance. I'm Tomotake Yoshino.
 *Lena-san once again holds out her hand.*
 *Tomotake-san then shyly reaches for it, when...*
-Yoshino, Lena: Hyaah!?\nKyaah!?
+Yoshino, Lena: Hyaah!?Kyaah!?
 Mako: Y-Yoshino-sama? Is something the matter?
 Yoshino: Oh, no. It was just a static shock.
 Lena: That really was a shock.
@@ -4416,7 +4416,7 @@ Masaomi: Dieeeee!
 *My fist sinks into it, as if I've just punched a pile of mud.*
 *The cursed spirit writhes in pain, struggling to escape my fist.*
 *If it had a mouth, it'd probably be screaming.*
-Yoshino, Lena: Kyaa!?\nAwawah!?
+Yoshino, Lena: Kyaa!?Awawah!?
 Masaomi: Stop struggling!
 *I plunge my fist even deeper into the thing in an attempt to keep it from attacking.*
 *The cursed spirit spasms, as if in the middle of its death throes.*
@@ -10843,7 +10843,7 @@ Masaomi: Err... Umm...
 *But seeing as her ears are bright red,*
 *I imagine her face is similarly tomato-hued.*
 *Half hysterical, she shouts her request again.*
-Yoshino: Please\nTake MY VIRGINITY!
+Yoshino: PleaseTake MY VIRGINITY!
 *I receive another mental blow.*
 *But thankfully, this one jolts my brain back into working order.*
 Masaomi: H-Hold on a second!
@@ -12582,7 +12582,7 @@ Yoshino: Tha-bump?
 Mako: Correct! Her heart goes all pitter patter, tha-bump, and ooey gooey!
 Yoshino: Could you maybe give me a less abstract example?
 Mako: Right, let me see... Her heart goes tha-bump when he gets patty patty, pushy pushy, and tilty tilty!
-Yoshino: Patty patty? Pushy? Tilty...?\n...? Huh???
+Yoshino: Patty patty? Pushy? Tilty...?...? Huh???
 Yoshino: Could you maybe give me examples that are easier to understand? Without all the weird lingo?
 Mako: Ah, right. Forgive me. Let's see... What I mean is...
 Mako: (Oh no, oh no! All my knowledge comes from manga. What should I tell her!?)
@@ -14601,7 +14601,7 @@ Masaomi: *sip*
 *Just as I take my first sip from the fresh cup, Roka-nee finally returns from the back.*
 Roka: Sorry for the wait! We're finally done. Phew!
 Masaomi: Done... with what? Where's Hitachi-san?
-Roka: What do you mean "where"?\n...Huh? Where did she go!?
+Roka: What do you mean "where"?...Huh? Where did she go!?
 *She rushes back behind the curtain.*
 Roka: What're you doing, Hitachi-san?
 Mako: I-I can't go out looking like this!
@@ -15911,7 +15911,7 @@ Mako: Yes, we did. Although that time it was me not meeting your eyes.
 Mako: So... What's going through your head this time?
 Masaomi: Well, um, you know...
 Masaomi: Coming all the way out here, where no one's around... I thought maybe you had something in mind other than lunch...
-Mako: Other than lunch?\n...Ahah, I see, I see.
+Mako: Other than lunch?...Ahah, I see, I see.
 Mako: You were thinking something naughty.
 Masaomi: ...Well, yeah.
 *The grin on her face tells me she had no such intentions.*
@@ -17903,7 +17903,7 @@ Murasame: I'll be leaving now. Farewell, Master.
 Koharu: Onii-chan, where are you going?
 Rentarou: You've still got food left.
 Masaomi: I'll finish the rest of it with my moody god-spirit thing.
-Koharu, Rentarou: Huh?\nWhat?
+Koharu, Rentarou: Huh?What?
 *I follow after Murasame-chan with my lunch, leaving my two confused cousins hanging.*
 Masaomi: Heeey, Murasame-chaaaan!
 *I glance around the hallway.*
@@ -18728,7 +18728,7 @@ Murasame: All I ask is for a show of good faith.
 Murasame: 1,000,100,000,000 yen should be enough to earn my forgiveness.
 Masaomi: "Good faith," my ass! You're just trying to extort me!
 *What are you, the yakuza?*
-*Also, what's with the almost-round-but-not-quite number of 1,000,100,000,000?\n...Actually, wait.*
+*Also, what's with the almost-round-but-not-quite number of 1,000,100,000,000?...Actually, wait.*
 Masaomi: Now that I think about it, you're the one who stole my precious first kiss, Murasame-chan!
 Murasame: Wh-What!?
 Masaomi: You have no right hounding me about taking responsibility!
@@ -18745,7 +18745,7 @@ Murasame: Grrrrr! You are far more a pervert than I, Master!
 Mako: Arichi-san, could you lend―
 Mako: Wait, why are you playing around at such a busy time?
 *Shit. Hitachi-san caught us screwing around.*
-Murasame, Masaomi: My apologies...\nSorry...
+Murasame, Masaomi: My apologies...Sorry...
 *Both of us hang our heads in shame.*
 Mizuha: Hello there.
 Roka: Good evening.
@@ -19812,7 +19812,7 @@ Yasuharu: After all, you're the one who came up with the idea.
 Yasuharu: And the town leaders want to keep the town's youth at the heart of the project, to help train the next generation.
 *Wait, next generation?*
 Masaomi: But I'm not even part of this town, am I?
-Yoshino, Mako, Murasame: "That's not true at all!"\n"That's not true at all!"\n"That's simply untrue!"
+Yoshino, Mako, Murasame: "That's not true at all!""That's not true at all!""That's simply untrue!"
 *The three girls simultaneously shake their heads.*
 Yoshino: No one here thinks of you as an outsider, Arichi-san!
 Murasame: And if anyone did, I would cut them down myself with Murasamemaru!
@@ -20742,7 +20742,7 @@ Murasame: ......
 Murasame: Hm?
 *Murasame-chan slowly opens her eyes.*
 *Her limbs twitch a little.*
-Yoshino, Yasuharu, Masaomi: "Murasame-sama!"\n"Murasame-sama!"\n"Murasame-chan!"
+Yoshino, Yasuharu, Masaomi: "Murasame-sama!""Murasame-sama!""Murasame-chan!"
 *The three of us shout simultaneously.*
 *Murasame-chan has returned to being human.*
 Murasame: Master...?
@@ -20863,7 +20863,7 @@ Masaomi: ......
 *I'm so happy I could cry.*
 *Murasame-chan's here, right next to me.*
 ====================308・ムラサメちゃんルート０８ver1.2.ks.json====================
-Lena, Koharu, Rentarou: Murasame-chan has returned to being human!?\nMurasame-sama's human again!?\nMurasame-sama's human again!?
+Lena, Koharu, Rentarou: Murasame-chan has returned to being human!?Murasame-sama's human again!?Murasame-sama's human again!?
 *It's lunch break.*
 *I've just finished telling the other members of the revitalization committee about what happened yesterday.*
 Rentarou: Wait, Masaomi!
@@ -22581,7 +22581,7 @@ Murasame: I hope you are ready to say ahh, Master.
 Masaomi: I-I can feedeth mineself!
 *Now I'm sounding like Lena-san.*
 *Really though, it'd be embarrassing if Murasame-chan fed me in front of everyone.*
-Yoshino, Mako, Yasuharu: "Hehehe."\n"Ahah."\n"Hahaha!"
+Yoshino, Mako, Yasuharu: "Hehehe.""Ahah.""Hahaha!"
 *After dinner, I take a bath and head straight to bed.*
 *I don't want to move any more than I have to.*
 Murasame: Master, at least pull the covers over yourself.
@@ -24672,7 +24672,7 @@ Masaomi: Whoa!?
 *Two new cursed spirits leap at me from either side.*
 *I contort my torso in a desperate attempt to dodge.*
 *Their tentacles whizz by inches from my face.*
-Masaomi: Haha, missed me!\n.........Oh.
+Masaomi: Haha, missed me!.........Oh.
 *I failed to notice one last cursed spirit standing right in front of me.*
 *Shit, I'm too unbalanced to dodge again!*
 *The only way I can protect Lena-san is by shielding her with my body.*
@@ -25064,7 +25064,7 @@ Lena: I don't really know what's going on, but we have to beat that big thing, r
 Masaomi: Lena-san?
 Murasame: Master! Our only option is to force our way through!
 Masaomi: Ngh! Gotcha! We won't let this oversized dog beat us!
-Lena, Masaomi: "Yaaaaaaaaaaaahhhh!"\n"Ooooooooooooohhhh!"
+Lena, Masaomi: "Yaaaaaaaaaaaahhhh!""Ooooooooooooohhhh!"
 *Murasamemaru plunges even deeper into the cursed spirit.*
 *Meanwhile, Tomotake-san and Hitachi-san strike at other parts of the monster.*
 *Slowly, the spirit's resistance starts to falter.*
@@ -27666,7 +27666,7 @@ Mako: I-I know you're not the kind of p-person who'd―Mmmph!?
 Murasame: How is it, Mako? Describe the taste to me!
 Mako: ......
 Murasame: Well? You need to speak to describe it. Go on!
-Yoshino: It looks like Mako's finally seeing how it feels to be on the other end of the stick, Arichi-san.\n......Mako?
+Yoshino: It looks like Mako's finally seeing how it feels to be on the other end of the stick, Arichi-san.......Mako?
 Mako: ......
 Mako: ............
 Mako: ......
@@ -27800,7 +27800,7 @@ Masaomi: ...Lena-san?
 Lena: Yep, that's exactly right!
 *You liar! You were totally making an "I have no idea what these guys are talking about" face a second ago!*
 Lena: A-Anyway, I brought a bunch of other snacks from my hometown for you guys to try too!
-Yoshino, Mako: ...Huh?\n......
+Yoshino, Mako: ...Huh?......
 *Tomotake-san's face goes pale, while Hitachi-san's so terrified her legs are trembling.*
 Lena: Oh, it'll be fine. Even foreigners say ginger cookies are delicious.
 Koharu: O-Oh, it's just regular ginger cookies? I think I'll try one then.
@@ -28130,7 +28130,7 @@ Masaomi: B-But my main goal is still for everyone to have fun!
 Mako: Don't worry, I know.
 Mako: I've been hoping for a chance to get to know Lena-san better myself.
 Masaomi: So, that's a yes, I take it?
-Masaomi: What about you, Tomotake-san?\n...Tomotake-san?
+Masaomi: What about you, Tomotake-san?...Tomotake-san?
 Yoshino: Nn... Nnn!
 *Tomotake-san glances around the room and spins around a few times, all while flapping her arms up and down. It looks like she's doing some kind of strange dance.*
 *Is this some kinda skit?*
@@ -29678,7 +29678,7 @@ Masaomi: I mean, they're in the same country... But yeah, I guess I haven't talk
 Lena: Hehehe. You're worried about me calling my parents even though you're not calling yours. You're weird.
 Masaomi: Ahaha... You've got a point. I guess I should call them more often.
 Lena: Japanese has a saying for this, doesn't it? No news is hood news.
-*You mean, no news is good news?\n...At least she's using the saying right this time.*
+*You mean, no news is good news?...At least she's using the saying right this time.*
 Lena: Hey, Masaomi...
 Masaomi: Hm?
 Lena: ~~
@@ -30404,7 +30404,7 @@ Lena: I can read it all if I try, but it takes a lot of time.
 Lena: Ehehe. Thanks, Masaomi.
 *Plus, I'm looking forward to cuddling with Lena while we get everything sorted out.*
 Masaomi: Hm? Hang on, does this inn have a router?
-Masaomi: Does it even have internet access?\n...Hell, does anyone in Hoori?
+Masaomi: Does it even have internet access?...Hell, does anyone in Hoori?
 Lena: What are you saying?
 Lena: Shinatsu Manor has free Wi-Fi.
 Masaomi: You mean like the kind they have at train stations?
@@ -31763,7 +31763,7 @@ Mako: I suppose that's true.
 *I just have to do what I can.*
 Murasame: Very well! Let us start by taking the fragment out of Master.
 Murasame: From there, we will transplant it into Lena.
-Lena, Masaomi: "Okay!"\n"Gotcha!"
+Lena, Masaomi: "Okay!""Gotcha!"
 *Lena and I step into the rope circle, while everyone else sits around it.*
 Genjuurou: I just have to hold on to this, right?
 Yasuharu: Yes, that should be sufficient, Genjuurou-san.
@@ -33131,7 +33131,7 @@ Masaomi: (S-Save me, Koharu!)
 Koharu: Hm? Oh, jeez... Onii-chan, don't stare at me like that. You're making me blush!
 Masaomi: (Noooo!)
 Masaomi: Um, it's matcha flavored ice cream with sweet dumplings and, um...
-Koharu: Hm?\n...Oh!
+Koharu: Hm?...Oh!
 Koharu: It's a colorful parfait with matcha-flavored ice cream and a topping of sweet dumplings and soy flour cookies.
 Koharu: It comes with extra matcha powder on the side so you can adjust it to your tastes, making it perfect for people who don't want something too sweet.
 Foreign Tourist C: Oh! Okay, I'll try that.
@@ -33309,7 +33309,7 @@ Koharu: I'm not copying you!
 Masaomi: You two are like peas in a pod.
 Koharu, Rentarou: We are NOT!
 Masaomi: See, you just synced up perfectly.
-Rentarou, Koharu: "Grr..."\n"Ngh..."
+Rentarou, Koharu: "Grr...""Ngh..."
 *The two of them grumble at my amused observation.*
 Rentarou: So, have you quit training with Gramps, then?
 Masaomi: Not entirely. I'm putting a pause on our after-school training for now.
@@ -33370,7 +33370,7 @@ Roka: They're all yours.
 *With that, she heads over to the waiting customer.*
 Masaomi: We don't wanna cause trouble for Roka-nee, okay?
 Masaomi: So shut your traps and drink your tea.
-Koharu, Rentarou: "Okaaay."\n"Fiiine."
+Koharu, Rentarou: "Okaaay.""Fiiine."
 Rentarou: Well, it's about time for me to take off.
 Masaomi: I'll stay a bit longer.
 Koharu: I'll stay with you.
@@ -34438,7 +34438,7 @@ Koharu: He's still as kind and earnest as he always was. But unlike back then, h
 Roka: It's like, now this is a real man, you know!?
 Koharu: Right! That's exactly it, Onee-chan!
 Roka, Koharu: ......
-Roka, Koharu: "Hehe, ahahah!"\n"Heh, hahaha!"
+Roka, Koharu: "Hehe, ahahah!""Heh, hahaha!"
 Roka: We really feel exactly the same, huh? No wonder we could tell. Haah...
 Koharu: Yeah, there was no way we wouldn't notice.
 Roka: Honestly, what a brat, making both of us fall for him at the same time!
@@ -34482,7 +34482,7 @@ Koharu: I-I have f-feminine wiles of my own! J-Just wait till you see what I'm h
 Roka: K-Koharu-chan, did you just say you're gonna get naked?
 Koharu: Oh, no! Th-Th-Th-That was just a figure of speech!
 Koharu, Roka: ......
-Koharu, Roka: "Ehehe, ahaha!"\n"Hehe, hahaha!"
+Koharu, Roka: "Ehehe, ahaha!""Hehe, hahaha!"
 Roka: Okay. Let's both do our best, then... on our own.
 Koharu: Yeah. Let's do our best, Onee-chan.
 ====================507・サブ－選択肢ver1.00.ks.json====================
@@ -34495,7 +34495,7 @@ Masaomi: Koharu?
 *Upon exiting the inn, I'm greeted by Koharu bouncing happily over to me.*
 Lena: Good morning, Koharu!
 Koharu: Good morning to you too, Lena-senpai.
-Masaomi: Morning.\n...Hang on, what are YOU doing here?
+Masaomi: Morning....Hang on, what are YOU doing here?
 Koharu: I felt like walking to school with you, Onii-chan.
 Masaomi: Did you need something from me?
 Koharu: Nope, I didn't.

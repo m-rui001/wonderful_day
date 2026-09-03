@@ -1,4 +1,4 @@
-====================1stact_Grani and the Knights' Treasure.xlsx====================
+﻿====================1stact_Grani and the Knights' Treasure.xlsx====================
 ???: ...
 ???: (...It burns...)
 ???: (...It hurts...)
@@ -4378,7 +4378,7 @@ Skadi: ......
 Skadi: (Ægirian) It's the rotted seagrass that clings most to one's leg.
 Skadi: I never thought it would be the annoyance of worthless bounty hunters that remained ever unchanging.
 ====================act18side_Lingering Echoes.xlsx====================
-*'The Sky is blue and fine,\nThe Breeze lilts by in Song;\nThe River murmurs clear,\nMy Heart is filled with Hope.\nThe Mist parts overnight,\nThe Earth welcomes Dawn's Light;\nPraise be Leithanien,\nWhere free Men find their Home.'\n—Lied des klaren Himmels (1078)*
+*'The Sky is blue and fine,The Breeze lilts by in Song;The River murmurs clear,My Heart is filled with Hope.The Mist parts overnight,The Earth welcomes Dawn's Light;Praise be Leithanien,Where free Men find their Home.'—Lied des klaren Himmels (1078)*
 Hibiscus: (According to the map, I shouldn't be far from the Rhodes Island branch office now.)
 Hibiscus: (Got held up a bit coming into Vyseheim, but if I just hurry up, I can hopefully make it there before I'm late...)
 Passionate Infected: Hold it right there!
@@ -7354,13 +7354,13 @@ Theresis: The tower you built with life has collapsed, just like another Kazdel.
 Theresis: And at this moment, we stand here—in a new tower, in a new opportunity.
 Theresis: Look at Londinium today. You only just presided over the meeting of the kings. How can you not have realized?
 Theresis: Not even before the useless war between us began, were the Sarkaz so close to unity.
-*「I'll return to the city's outer barracks soon,\nYour Majesty Theresa.」*
-*「I understand, Nachzehrer King.\nOur meeting here will be as brief as possible.」*
-*「You're always in such a hurry, Nachzehrer.\nYou don't want to get together with us?」*
-*「I haven't the time to spare, Vampire.\nA hundred thousand are stationed outside Londinium.\nNot I nor my soldiers can spare a second of complacency.」*
+*「I'll return to the city's outer barracks soon,Your Majesty Theresa.」*
+*「I understand, Nachzehrer King.Our meeting here will be as brief as possible.」*
+*「You're always in such a hurry, Nachzehrer.You don't want to get together with us?」*
+*「I haven't the time to spare, Vampire.A hundred thousand are stationed outside Londinium.Not I nor my soldiers can spare a second of complacency.」*
 *「His head will have to stay on his neck for a moment longer. Don't add the city's Victorian Army to our troubles.」*
-*「Fine enough. That said,\ndon't you feel that some still haven't been put to use?」*
-*「Do you speak of myself, Vampire?\nI have great affairs upcoming, don't I, Your Highnesses?」*
+*「Fine enough. That said,don't you feel that some still haven't been put to use?」*
+*「Do you speak of myself, Vampire?I have great affairs upcoming, don't I, Your Highnesses?」*
 *「Of course. Control of Londinium is inseparable from the efforts of us all.」*
 *「Has there been word from the Messenger you sent, Confessarius?」*
 *「By Manfred's tireless urging, the Lich is now fast on the way to Londinium.」*

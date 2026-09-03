@@ -1,4 +1,4 @@
-Sophitia: "Why, good afternoon. Or perhaps, good evening?"
+﻿Sophitia: "Why, good afternoon. Or perhaps, good evening?"
 Sophitia: "I suppose it's Kakeru's World's Eye being imperfect that's to blame. It's quite hard trying to find you. I'm glad that I was able to safely open a connection again."
 Sophitia: "Just a moment ago—well, it might not be a moment ago to you, but... Oh well, the minor details aren't really important."
 Sophitia: "I know I said our conversation was over, but before you leap headlong into meddling with fate, there is something that I need to confirm with you."
@@ -284,7 +284,7 @@ Satsuki: "Everyone's here, right? Well, I don't really have any announcements to
 *I won't know what's going to happen in the future anymore.*
 Kakeru: "..."
 *I have a rocky road ahead of me, but I have no choice but to settle each problem one by one.*
-*First, I'll talk to Yuuki after school.\nThe rest comes after that.*
+*First, I'll talk to Yuuki after school.The rest comes after that.*
 Yoichi: "I really wish they had janitors to do the cleanup duty instead."
 Kakeru: "I hear you, man."
 *Yoichi's complaints go in one ear and out the other as I sweep the hallway.*
@@ -313,7 +313,7 @@ Kakeru: "Is this about a lost item?"
 Satsuki: "Oh, you're a good guesser."
 Kakeru: "Oh, no, I mean, we talked yesterday about possibly turning it in to you, that's all."
 *I make up a convincing enough excuse.*
-*I need to be more careful about this.\nOtherwise, I'll go jumping the gun to avoid any pointless back-and-forths due to me having prior knowledge.*
+*I need to be more careful about this.Otherwise, I'll go jumping the gun to avoid any pointless back-and-forths due to me having prior knowledge.*
 Satsuki: "Niimi-kun, have you noticed anything out of the ordinary?"
 Miyako: "N-No, um...!"
 Satsuki: "You showed that thing to Niimi-kun, right?"
@@ -333,7 +333,7 @@ Miyako: "Right. I heard that the shrine's sacred relic shattered yesterday. I th
 *I could try to cheer her up and say, "That power simply came to you by chance. Don't worry about it." But I don't think...*
 *Oh, right. I'm supposed to walk home with her after this, if I remember right.*
 *Would giving her a quick rundown on the way and having her join me in my talk with Yuuki work out?*
-*No reason to wait until the fire, I suppose.\nIf I can move things ahead of schedule, I should.*
+*No reason to wait until the fire, I suppose.If I can move things ahead of schedule, I should.*
 Satsuki: "Hey, Niimi-kun, where are your manners?"
 Kakeru: "Huh? What do you mean?"
 Satsuki: "You've been spacing out like you don't care."
@@ -1405,7 +1405,7 @@ Kakeru: "Grk!"
 *I don't have a way to kill him either.*
 *In that case, I'll just have to restart.*
 *But where do I go back to?*
-*When did Iris come into contact with him?\nWhen would I be able to steal his Artifact safely?*
+*When did Iris come into contact with him?When would I be able to steal his Artifact safely?*
 *I just have to rely on trial and error until I find out.*
 *In this branch... I've lost.*
 Crazed Male Student: "Gaaaaaaaaaaaaaaaaaaaaah!!"
@@ -1441,7 +1441,7 @@ Kakeru: "It's looking that way, yeah."
 Noa: "..."
 *Yuuki purses her lips tight.*
 *Her eyes shoot down for a split second, too.*
-*Is she afraid of killing?\nOr is it a different emotion?*
+*Is she afraid of killing?Or is it a different emotion?*
 *A scummy thought runs through my head for a split second.*
 *I think to myself that I can probably use this situation to figure out what's weighing on Yuuki's mind.*
 *...That's so fucked up, dammit.*
@@ -1801,7 +1801,7 @@ Noa: "..."
 *I stare at Yuuki as she walks off into the distance.*
 *Her tale, huh?*
 *Now that there's been an irregularity, I don't have the slightest idea of what will happen from here on out.*
-*But I'll make it through this.\nI'm going to ensure that our tales have a happy ending. Yuuki's, mine, and everyone else's.*
+*But I'll make it through this.I'm going to ensure that our tales have a happy ending. Yuuki's, mine, and everyone else's.*
 *We'll fight victorious. As a team.*
 *I'm too spent to go out somewhere to eat, so I sadly munch away at a premade meal I bought at the convenience store.*
 *That's when my phone starts to vibrate.*
@@ -1813,7 +1813,7 @@ Renya: "You're Kakeru Niimi-kun, I presume?"
 *It seems that Yoichi already put in a good word for me.*
 Kakeru: "You're Takamine. Err, the upperclassman from school, right?"
 *I almost slip up and talk to him in the same way as my memory from another branch, so I scramble to correct myself.*
-*I've really got to be careful.\nIf I leave him with a bad or disrespectful first impression, everything is going to fall through.*
+*I've really got to be careful.If I leave him with a bad or disrespectful first impression, everything is going to fall through.*
 Renya: "Yoichi told me that you wanted to speak with me."
 Kakeru: "Erm, how much did he tell you, if you don't mind?"
 Renya: "That a man by the name of Kakeru Niimi wanted to talk to me. That is the extent of what Yoichi told me."
@@ -1853,7 +1853,7 @@ Renya: "I need to think of your codename as well. Heh heh heh, this is so very t
 Kakeru: "No, we can do without."
 Renya: "Don't be so reserved. I will come up with a fitting codename for you."
 Kakeru: "..."
-*...I very clearly said no, though.\nThis guy's mental fortitude is just as insane as Yoichi's—albeit in different aspects.*
+*...I very clearly said no, though.This guy's mental fortitude is just as insane as Yoichi's—albeit in different aspects.*
 Kakeru: "Yes, um, as for why I wished to speak to you..."
 Renya: "Enough with your formal tone. We are on the same side. Speak freely."
 Kakeru: "Okay, if you insist. There's a girl named Haruka Kosaka in your class, right?"
@@ -1949,7 +1949,7 @@ Kakeru: "..."
 Kakeru: "Dang, the food's ice cold now."
 *I take my food to the kitchen.*
 *I pop it in the microwave and close the door.*
-*I blankly stare at the container as it slowly revolves inside.\nI think to myself.*
+*I blankly stare at the container as it slowly revolves inside.I think to myself.*
 *Maybe there is an infinite number of options.*
 *There might be a few right answers or only one.*
 *Or there very well might not even be one.*
@@ -2005,7 +2005,7 @@ Kakeru: "..."
 *Did she actually become a User at this point in the other branches, too?*
 *When she said that she gained her Artifact after the fire, was she just giving a random answer without much thought?*
 *Or has her Artifact been with her the whole time and she just never noticed it in the other branches?*
-*Knowing Sora, any of those could be possible...\nThis girl's life is the epitome of random, after all.*
+*Knowing Sora, any of those could be possible...This girl's life is the epitome of random, after all.*
 Sora: "Hey, what? Can we not with the silence? You're freaking me out."
 Kakeru: "Man, you were supposed to be telling me this tomorrow, though."
 Sora: "Huh...? No, seriously, you're freaking me out. Quit saying stuff even more cryptic than me. It's scary."
@@ -2047,7 +2047,7 @@ Kakeru: "Boy... how did you ever turn out like this?"
 Sora: "Come on! Quit it!! God!"
 Yoichi: "Ooh, Kakeruuu! Let's eat lunch!"
 Kakeru: "Sure."
-*Lunchtime.\nLike usual, I eat my food with Yoichi.*
+*Lunchtime.Like usual, I eat my food with Yoichi.*
 Kakeru: "By the way, I forgot to tell you this morning."
 Yoichi: "Tell me what?"
 Kakeru: "Thanks for getting in contact with Takamine."
@@ -2398,7 +2398,7 @@ Noa: "..."
 Sora: "..."
 Miyako: "..."
 Haruka: "..."
-*I need to step in soon.\nAt least, that's what all their eyes are screaming at me.\n(Yoichi is totally bored and playing on his phone.)*
+*I need to step in soon.At least, that's what all their eyes are screaming at me.(Yoichi is totally bored and playing on his phone.)*
 *Okay, I don't want these two to break out into a real fight, so I should step in to stop—*
 Noa: "Fine. Allow me to set things straight. I'll take a guess as to why you're set on the name Rig Veda."
 Renya: "Heh. In that case, I, too, shall voice my guess as to why YOU chose the name Valhalla Society."
@@ -3881,7 +3881,7 @@ Kakeru: "...Why are you getting all bashful all of a sudden?"
 Noa: "..."
 *She pulls the hem of her shirt and fidgets.*
 *I knew it. This girl IS a natural ingenue.*
-*Actually, it makes sense.\nShe is pretty ditzy and impulsive. I guess she suddenly mellowed out.*
+*Actually, it makes sense.She is pretty ditzy and impulsive. I guess she suddenly mellowed out.*
 *Still, I wish she would stop it with the blushing and fidgeting. *
 *It's getting to me.*
 Noa: "I-In any case, I'm going to indulge myself until I'm no longer ashamed to look like this."
@@ -4684,7 +4684,7 @@ Sora: "What? But what?"
 Kakeru: "Oh, sorry."
 *I cut off my thoughts.*
 *I consider explaining this to the others, but I feel like I'm still overlooking something important, so I don't.*
-*I'll talk to Sophie about it first.\nIf we just rush at Iris with reckless abandon, it'll be total destruction in the truest sense.*
+*I'll talk to Sophie about it first.If we just rush at Iris with reckless abandon, it'll be total destruction in the truest sense.*
 Kakeru: "I was thinking if there was something else we could do, but I can't come up with anything."
 Noa: "Then it's about time to end the war council."
 Kakeru: "Yeah. Thanks for coming, everyone."
@@ -4794,7 +4794,7 @@ Kakeru: "Yeah, I hear that. She's getting closer to forming that link with each 
 Sophitia: "Yes, there's that as well, but when was it that you fought with Iris in the other branches?"
 Kakeru: "Huh? Oh crap!"
 *That's right. I let something crucial slip my mind!*
-*We fought Iris... next month.\nMay 4th. *
+*We fought Iris... next month.May 4th. *
 *If she observed the events of that day, then...*
 Kakeru: "Noa's ability is out of the bag...!"
 Sophitia: "Iris has been toying with you since she considers you all garbage."

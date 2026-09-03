@@ -1,4 +1,4 @@
-====================00_prologue1.bs5====================
+﻿====================00_prologue1.bs5====================
 Girl: It's gold.
 Girl: It is golden.
 Me: It's definitely gold!
@@ -27548,7 +27548,7 @@ Reina: Mm, yeah, you do tend to rely on convenience stores for it.
 Sylvia: I've heard of oden before.
 Elle: Was it that snack food of sorts where you put konjac, daikon, and fish cakes onto a skewer in order then eat them?
 Ouro: It's a little different.
-Reina: △ ← A chain like this, right?\n○ Nobody actually makes it this way in real life.\n□
+Reina: △ ← A chain like this, right?○ Nobody actually makes it this way in real life.□
 Ouro: If you do, the broth dribbles down and gets it all sticky, and the daikon in the middle breaks apart easily, which makes it pretty tough to eat. Basically only Chib*ta does it.
 Reina: ...The setting behind Chib*ta in "-san" has him grow into an adult who becomes an oden vendor, but he didn't eat it this way, right?
 Ouro: It's pretty sad when he doesn't, huh?
