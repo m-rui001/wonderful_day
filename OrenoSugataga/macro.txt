@@ -1,0 +1,46 @@
+﻿@action id=カメラ action=ActionShock width=50 height=50 cycle=200
+@action id=メッセージ action=ActionShock width=50 height=50 cycle=200
+@emotion id=%id type=はてな target=%target|こめかみ左
+@emotion id=%id type=はてなF target=%target|こめかみ左
+@emotion id=%id type=びっくり target=%target|こめかみ左
+@emotion id=%id type=びっくりF target=%target|こめかみ左
+@emotion id=%id type=ぽわぽわ target=%target|顔
+@emotion id=%id type=キラキラ target=%target|顔
+@emotion id=%id type=キラン target=%target|こめかみ左
+@emotion id=%id type=ハート01 target=%target|顔
+@emotion id=%id type=ハート02 target=%target|顔
+@emotion id=%id type=ピヨピヨF target=%target|頭
+@emotion id=%id type=汗 target=%target|こめかみ左
+@emotion id=%id type=会話01a target=%target|顔
+@emotion id=%id type=会話01b target=%target|顔
+@emotion id=%id type=後光 target=%target|顔
+@emotion id=%id type=後光F target=%target|顔
+@emotion id=%id type=怒り01 target=こめかみ左
+@emotion id=%id type=怒り02 target=こめかみ右
+@emotion id=%id type=怒り03 target=こめかみ左
+@emotion id=%id type=怒り04 target=こめかみ右
+@emotion id=%id type=汗飛び01x2 target=%target|顔
+@emotion id=%id type=汗飛び01Lx2 target=%target|顔
+@Char file=fancy01 id=霧 type=screen order=1000 trans=%trans|255 free
+@action id=カメラ action=ActionQuake width=%width|10 height=%height|10 cycle=%cycle|2000 count=-1
+@action id=カメラ action=ActionQuake width=%width|50 height=%height|50 cycle=%cycle|2000 count=-1
+@action id=カメラ action=ActionShock width=%width|50 height=%height|50 cycle=%cycle|200
+@action id=カメラ action=ActionShock width=%width|100 height=%height|100 cycle=%cycle|200
+@action id=カメラ action=ActionShock2 width=%width|50 height=%height|50 zoom=%zoom|16 accel=2 relay=12 cycle=%cycle|500
+@action id=カメラ action=ActionShock2 width=%width|100 height=%height|100 zoom=%zoom|32 accel=2 relay=24 cycle=%cycle|500
+@action id=メッセージ action=ActionShock width=%width|50 height=%height|50 cycle=%cycle|200
+@action id=メッセージ action=ActionShock width=%width|50 height=%height|50 cycle=%cycle|200
+@action id=メッセージ action=ActionShock width=%width|100 height=%height|100 cycle=%cycle|200
+@action id=メッセージ action=ActionShock width=0 height=%height|50 cycle=%cycle|200
+@action id=メッセージ action=ActionShock width=%width|100 height=0 cycle=%cycle|200
+@eyecatch 右 voice=%voice bg=%bg char=%char
+@Char file=回想01 id=回想枠１ type=screen order=1000 free
+@Char file=回想02 id=回想枠２ type=screen order=1000 free
+@action id=カメラ action=ActionShock width=50 height=50 cycle=200
+@action id=カメラ action=ActionShock width=50 height=50 cycle=200
+@action id=カメラ action=ActionShock width=50 height=50 cycle=200
+@action id=黒うさ action=ActionAdvBow height=%height|5 cycle=%cycle|1500 count=%count|-1
+@filter file=BG25_loop layertype=透過無し order=300
+@filter file=BG25_loop layertype=透過無し order=300
+@filter file=BG25_loop layertype=透過無し order=300
+@char id=カード file=%file|card0001l type=screen x=%x|0 order=1000
