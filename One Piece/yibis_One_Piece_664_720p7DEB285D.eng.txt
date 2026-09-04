@@ -1,0 +1,44 @@
+Caption: Riku's Revolutionary Army Base
+Caption: Flower Hill
+Caption: (Current Location)
+Caption: m 0 0 l 250 0 250 145 0 145
+Caption: trading port
+Caption: m 0 0 l 280 0 280 103 0 103
+Caption: m 0 0 l 280 0 280 103 0 103
+Caption: m 0 0 l 280 0 280 103 0 103
+Caption: m 0 0 l 280 0 280 103 0 103
+Caption: m 0 0 l 280 0 280 103 0 103
+Caption: m 0 0 l 280 0 280 103 0 103
+Caption: m 0 0 l 280 0 280 103 0 103
+Caption: m 0 0 l 280 0 280 103 0 103
+Caption: m 0 0 l 280 0 280 103 0 103
+Caption: m 0 0 l 280 0 280 103 0 103
+Caption: m 0 0 l 280 0 280 103 0 103
+Caption: m 0 0 l 280 0 280 103 0 103
+Caption: Doflamingo Family (Diamante Army ♦ Commander)
+Caption: Señor Pink
+Caption: Underground passage
+Caption: Trébol Army (Special Ability Team)
+Caption: Sugar
+Caption: Violet
+Caption: Giolla
+Caption: Diamante Army (Martial artists)
+Caption: Lao G
+Caption: Machvise
+Caption: Señor Pink
+Caption: Dellinger
+Caption: Pica Army (Commando unit)
+Caption: Gladius
+Caption: Buffalo and Baby 5
+Caption: Top commander, Vergo
+Caption: Commander Monet
+Ace: When we become pirates, we might not be crewmates on the same ship...
+Ace: but our bonds will keep us connected as brothers!
+Ace: No matter where we are or what we do, our bond will not be broken!
+Ace: With this, starting today, we're...
+Ace: brothers!
+Franky: I'll cause a huge ruckus while I'm there!
+Usopp: So we won't have to worry about the martial artists!
+Usopp: Hang in there, Franky!
+Thunder Soldier: Just you wait, Doflamingo!
+Thunder Soldier: I will take you down, even if it costs me my life!

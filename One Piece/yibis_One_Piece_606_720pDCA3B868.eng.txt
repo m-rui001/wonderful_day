@@ -1,0 +1,50 @@
+Marine: Shigan: Finger Gun
+Text(botcenter): Corridor linking Towers A & B
+Text(botcenter): Corridor linking Towers A & B
+Text: Inside Tower B
+Text: Central Staircase in Tower B
+Text: Tower B, Gas Balloon-ship Launch Pad
+Text: Caesar's Office
+Text(top): Tower B, 3rd Floor
+Text(bot): Near the Biscuits Room
+After a fierce battle, the Straw Hat Pirates\Nhave finally entered the New World,
+the strongest sea, ruled by the Four Emperors.
+The crew has landed on Punk Hazard,\Nan island split between fire and ice.
+There they were captured by Caesar Clown, who controls the island...
+and thrown into a cage and forced to face\Nhis weapon of mass destruction, Land of Death.
+But thanks to the cleverness of Law, one of the Seven Warlords of the Sea, they escaped from the cage.
+They head for Tower R, Door 66.
+But Caesar made his Land of Death flow into the laboratory itself.
+SecondaryMarines: Hurry!
+Vergo: Welcome.
+Vergo: I've heard rumors about you, Commodore Smoker.\NI look forward to working with you.
+Vergo: The men in G-5 are rough around the edges\Nand they aren't all that bright.
+Vergo: But once you get to know them,\Nyou'll see that they're better than their reputation.
+Vergo: Before long, I'm sure you'll come to see them as your cute subordinates.
+Tashigi: Where's Vice-Admiral Vergo?
+Marine: He ain't here.
+Tashigi: Where is he?
+Marine: Don't worry.  Vice-Admiral Vergo quietly goes to visit his hometown, now and again.
+Marine2: He's got a sick little sister.
+Woman: And you call yourselves marines?!
+Pike: It's not like there was a direct connection between our cannons hitting your house and it being...
+Woman: What kind of excuse is that?!
+Vergo: My apologies.
+Vergo: I must take responsibility for my subordinates' actions.
+Woman: Oh, I see.
+Woman: Then I blame you for this!
+Marine: Hag!
+Marine2: Don't overstep your place!
+Vergo: I understand.
+Vergo: Whatever I must do to make up for it, I will.
+Marine: Vice-Admiral Vergo.
+Tashigi: Vice-Admiral Vergo,
+Tashigi: About the kidnapped child bulletin that was posted the other day...
+Vergo: Yes, I looked into it,\Nbut it turns out it was just a shipwreck.
+Vergo: In other words, a false report.
+Tashigi: A false report?
+Vergo: It's the same with all parents,\Nno one can easily accept the death of a child.
+Vergo: It gives them hope\Nto think that their child was just kidnapped.
+Vergo: If you become a parent one day,\Nthen you'll also understand.
+Tashigi: So that's what happened?
+Vergo: Yes, that's what happened.

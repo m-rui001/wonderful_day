@@ -1,0 +1,1485 @@
+It's not like we've seen
+the end of the world with our own eyes.
+That's why we gotta cast off - together, we can!
+Sailing from sea to sea,
+in search of the greatest treasure of all...
+Everybody's laughing at us,
+saying it's nothing but a fairy tale.
+The beating of our hearts is our only compass.
+Just keep pretending that you know everything!
+Textbooks are nothing but guidelines.
+Both the rain and your tears'll dry up someday...
+Raise your head, hoist the anchor!
+...once the storm in your heart's passed by.
+Take the helm and clutch victory!
+Once the winds of tomorrow start to blow...
+The sky is clear, so unfurl the sails and open your heart!
+...I wanna meet somebody!
+Truth is stranger than fiction, isn't it?
+Don't pretend you can't see it.
+Common sense is only what the majority says it is!
+It's not like we've seen
+the end of the world with our own eyes.
+So let's go, Captain I'll-Do-It-My-Way!
+Whaddya mean, "no can do"?
+We haven't even started yet!
+I wanna know it all!  Now, yes, we can!
+Yes, we can!  You can!  This moment...
+We can!  I can!  With this feeling of freedom...
+Now...  Now, oh yes, we can!
+Yes, we can!
+Caption: Kurau City, Mokomo Dukedom
+Caption: m 0 0 l 500 0 500 100 0 100
+Caption: m 0 0 l 200 0 200 100 0 100
+Caption: Search for Marco
+Caption: Search for Marco
+Caption: Search for Marco
+Caption: Search for Marco
+Caption: Search for Marco
+Caption: Search for Marco
+Caption: Search for Marco
+Caption: Search for Marco
+Caption: Search for Marco
+Caption: Search for Marco
+Caption: Search for Marco
+Caption: m 0 0 l 500 0 500 250 0 250
+Caption: m 0 0 l 200 0 200 150 0 150
+Caption: Team
+Caption: Team
+Caption: Team
+Caption: Team
+Caption: Team
+Caption: Team
+Caption: Team
+Caption: Team
+Caption: Team
+Caption: Team
+Caption: Team
+Caption: Nekomamushi
+Caption: Nekomamushi
+Caption: Nekomamushi
+Caption: Nekomamushi
+Caption: Nekomamushi
+Caption: Nekomamushi
+Caption: Nekomamushi
+Caption: Nekomamushi
+Caption: Nekomamushi
+Caption: Nekomamushi
+Caption: Nekomamushi
+Caption: m 0 0 l 500 0 500 250 0 250
+Caption: m 0 0 l 500 0 500 250 0 250
+Caption: m 0 0 l 500 0 500 250 0 250
+Caption: m 0 0 l 500 0 500 250 0 250
+Caption: Search for Marco
+Caption: Team
+Caption: Team
+Caption: Nekomamushi
+Caption: Nekomamushi
+Caption: m 0 0 l 500 0 500 250 0 250
+Caption: m 0 0 l 500 0 500 250 0 250
+Caption: m 0 0 l 500 0 500 250 0 250
+Caption: m 0 0 l 500 0 500 250 0 250
+Caption: Search for Marco
+Caption: Team
+Caption: Team
+Caption: Nekomamushi
+Caption: Nekomamushi
+Caption: m 0 0 l 500 0 500 250 0 250
+Caption: m 0 0 l 500 0 500 250 0 250
+Caption: m 0 0 l 500 0 500 250 0 250
+Caption: m 0 0 l 500 0 500 250 0 250
+Caption: Search for Marco
+Caption: Team
+Caption: Team
+Caption: Nekomamushi
+Caption: Nekomamushi
+Caption: m 0 0 l 500 0 500 250 0 250
+Caption: m 0 0 l 500 0 500 250 0 250
+Caption: m 0 0 l 500 0 500 250 0 250
+Caption: m 0 0 l 500 0 500 250 0 250
+Caption: Search for Marco
+Caption: Team
+Caption: Team
+Caption: Nekomamushi
+Caption: Nekomamushi
+Caption: m 0 0 l 500 0 500 100 0 100
+Caption: Zou
+Caption: Zou
+Caption: Zou
+Caption: Zou
+Caption: Zou
+Caption: Zou
+Caption: Zou
+Caption: Zou
+Caption: Zou
+Caption: Zou
+Caption: Zou
+Caption: m 0 0 l 200 0 200 150 0 150
+Caption: Team
+Caption: Team
+Caption: Team
+Caption: Team
+Caption: Team
+Caption: Team
+Caption: Team
+Caption: Team
+Caption: Team
+Caption: Team
+Caption: Team
+Caption: Inuarashi
+Caption: Inuarashi
+Caption: Inuarashi
+Caption: Inuarashi
+Caption: Inuarashi
+Caption: Inuarashi
+Caption: Inuarashi
+Caption: Inuarashi
+Caption: Inuarashi
+Caption: Inuarashi
+Caption: Inuarashi
+Caption: m 0 0 l 500 0 500 250 0 250
+Caption: Zou
+Caption: Team
+Caption: Team
+Caption: Inuarashi
+Caption: Inuarashi
+Caption: m 0 0 l 500 0 500 250 0 250
+Caption: Zou
+Caption: Team
+Caption: Team
+Caption: Inuarashi
+Caption: Inuarashi
+Caption: m 0 0 l 500 0 500 250 0 250
+Caption: Zou
+Caption: Team
+Caption: Team
+Caption: Inuarashi
+Caption: Inuarashi
+Caption: m 180 188 l 548 153 717 137 772 134 879 132 981 132 982 13 298 43 209 65 158 107
+Caption: Whole Cake Island
+Caption: Whole Cake Island
+Caption: Whole Cake Island
+Caption: Whole Cake Island
+Caption: Whole Cake Island
+Caption: Whole Cake Island
+Caption: Whole Cake Island
+Caption: Whole Cake Island
+Caption: Whole Cake Island
+Caption: Whole Cake Island
+Caption: Whole Cake Island
+Caption: m 232 512 l 332 534 372 540 468 552 546 564 646 576 713 584 966 593 968 716 178 688
+Caption: Team Luffy
+Caption: Team Luffy
+Caption: Team Luffy
+Caption: Team Luffy
+Caption: Team Luffy
+Caption: Team Luffy
+Caption: Team Luffy
+Caption: Team Luffy
+Caption: Team Luffy
+Caption: Team Luffy
+Caption: m 261 317 b 265 316 272 309 279 305 292 300 305 300 318 307 325 311 328 314 331 317 338 318 334 317 341 317 343 316 345 313 342 305 338 294 322 282 298 281 286 280 271 283 258 295 251 308 250 315 253 317
+Caption: m 99 316 b 162 316 217 317 243 317 248 307 253 300 259 295 265 289 270 287 275 284 281 281 292 281 297 282 304 282 312 283 317 285 322 287 329 291 335 297 338 300 343 304 347 318 370 319 390 319 412 319 414 291 415 274 416 248 410 245 402 238 398 237 297 237 173 235 99 238
+Caption: Whole Cake Island
+Caption: Team Luffy
+Caption: Team Luffy
+Caption: m 261 317 b 265 316 272 309 279 305 292 300 305 300 318 307 325 311 328 314 331 317 338 318 334 317 341 317 343 316 345 313 342 305 338 294 322 282 298 281 286 280 271 283 258 295 251 308 250 315 253 317
+Caption: m 99 316 b 162 316 217 317 243 317 248 307 253 300 259 295 265 289 270 287 275 284 281 281 292 281 297 282 304 282 312 283 317 285 322 287 329 291 335 297 338 300 343 304 347 318 370 319 390 319 412 319 414 291 415 274 416 248 410 245 402 238 398 237 297 237 173 235 99 238
+Caption: Whole Cake Island
+Caption: Team Luffy
+Caption: Team Luffy
+Caption: m 322 68 b 255 116 122 210 56 257 l 3 89 237 2
+Caption: Wano Country
+Caption: Wano Country
+Caption: Wano Country
+Caption: Wano Country
+Caption: Wano Country
+Caption: Wano Country
+Caption: Wano Country
+Caption: Wano Country
+Caption: Wano Country
+Caption: Wano Country
+Caption: Wano Country
+Caption: m 592 612 l 921 520 1047 481 1236 414 1279 570 732 719 589 717
+Caption: Team Kin'emon
+Caption: Team Kin'emon
+Caption: Team Kin'emon
+Caption: Team Kin'emon
+Caption: Team Kin'emon
+Caption: Team Kin'emon
+Caption: Team Kin'emon
+Caption: Team Kin'emon
+Caption: Team Kin'emon
+Caption: Team Kin'emon
+Caption: Team Kin'emon
+Caption: m 1004 255 l 1014 249 b 1022 248 1031 247 1039 249 l 1049 249 b 1058 253 1066 257 1072 263 1075 268 1078 273 1076 282 l 1068 282 b 1064 280 1059 277 1055 274 1051 271 1046 268 1043 267 1031 266 1025 268 1022 269 1018 271 1016 272 1012 275 1009 276 1005 282 1000 286 l 988 284 b 987 281 989 271 999 259
+Caption: m 981 203 l 1072 198 b 1098 198 1148 198 1174 199 l 1172 215 b 1172 231 1172 264 1173 280 1150 281 1102 282 1084 282 1078 275 1074 263 1061 256 1054 250 1045 250 1032 248 1020 248 1009 251 1000 258 993 264 988 268 983 285
+Caption: m 1025 282 l 1035 281 1037 270 b 1037 263 1014 268 1018 276
+Caption: Wano
+Caption: Country
+Caption: Team Kin'emon
+Caption: Team Kin'emon
+Caption: Whale Forest
+Caption: Guardians' Quarters - Outskirts
+Caption: Zou - Main Gate
+Luffy: Kame: Turtle
+Zunisha: Just this once...
+Zunisha: Give me permission!
+Momonosuke: Make Jack go away!
+Zunisha: Understood!
+Nami: It's like a magic wand!
+ko
+n
+os
+e
+k
+a
+nh
+a
+n
+a
+n
+ko
+ko
+no
+no
+se
+se
+ka
+ka
+i
+i
+no
+no
+ha
+ha
+te
+te
+na
+na
+n
+n
+te
+te
+k
+k
+on
+on
+om
+om
+ed
+ed
+e
+e
+m
+m
+it
+it
+a
+a
+w
+w
+a
+a
+k
+k
+ko
+ko
+no
+no
+me
+me
+de
+de
+mi
+mi
+ta
+ta
+wa
+wa
+ke
+ke
+ja
+ja
+na
+na
+i
+i
+d
+d
+ak
+ak
+a
+a
+r
+r
+a
+a
+t
+t
+a
+a
+b
+b
+id
+id
+a
+a
+t
+t
+su
+su
+nd
+nd
+ak
+ak
+da
+da
+ka
+ka
+ra
+ra
+ta
+ta
+bi
+bi
+da
+da
+tsu
+tsu
+n
+n
+da
+da
+ki
+ki
+mi
+mi
+to
+to
+we
+we
+can!
+can!
+u
+u
+m
+m
+ik
+ik
+a
+a
+r
+r
+a
+a
+u
+u
+mi
+mi
+o
+o
+m
+m
+at
+at
+a
+a
+n
+n
+u
+u
+mi
+mi
+ka
+ka
+ra
+ra
+u
+u
+mi
+mi
+o
+o
+ma
+ma
+ta
+ta
+ni
+ni
+ka
+ka
+ke
+ke
+te
+te
+h
+h
+i
+i
+to
+to
+t
+t
+s
+s
+un
+un
+a
+a
+g
+g
+in
+in
+o
+o
+t
+t
+ak
+ak
+a
+a
+hi
+hi
+to
+to
+tsu
+tsu
+na
+na
+gi
+gi
+no
+no
+ta
+ta
+ka
+ka
+ra
+ra
+sa
+sa
+ga
+ga
+shi
+shi
+ni
+ni
+son
+son
+n
+n
+an
+an
+o
+o
+yu
+yu
+me
+me
+m
+m
+on
+on
+o
+o
+g
+g
+a
+a
+ta
+ta
+son
+son
+na
+na
+no
+no
+yu
+yu
+me
+me
+mo
+mo
+no
+no
+ga
+ga
+ta
+ta
+ri
+ri
+da
+da
+to
+to
+d
+a
+re
+mo
+g
+a
+w
+a
+r
+at
+t
+da
+da
+re
+re
+mo
+mo
+ga
+ga
+wa
+wa
+ra
+ra
+tte
+tte
+i
+i
+ru
+ru
+ke
+ke
+do
+do
+mu
+mu
+ne
+ne
+n
+n
+ot
+ot
+a
+a
+k
+k
+a
+a
+b
+b
+ur
+ur
+i
+i
+d
+d
+ak
+ak
+e
+e
+g
+g
+a
+a
+mu
+mu
+ne
+ne
+no
+no
+ta
+ta
+ka
+ka
+bu
+bu
+ri
+ri
+da
+da
+ke
+ke
+ga
+ga
+ra
+ra
+shi
+shi
+n
+n
+ba
+ba
+n
+n
+sh
+sh
+it
+it
+t
+t
+a
+a
+k
+k
+ab
+ab
+u
+u
+r
+r
+is
+is
+shi
+shi
+tta
+tta
+ka
+ka
+bu
+bu
+ri
+ri
+shi
+shi
+te
+te
+ro
+ro
+yo
+yo
+ky
+ky
+o
+o
+u
+u
+ka
+ka
+s
+s
+h
+h
+on
+on
+a
+a
+nte
+nte
+sag
+sag
+kyo
+kyo
+u
+u
+ka
+ka
+sho
+sho
+na
+na
+n
+n
+te
+te
+sa
+sa
+guide
+guide
+book
+book
+a
+mem
+on
+a
+m
+id
+a
+m
+oi
+t
+su
+ka
+wa
+a
+a
+me
+me
+mo
+mo
+na
+na
+mi
+mi
+da
+da
+mo
+mo
+i
+i
+tsu
+tsu
+ka
+ka
+wa
+wa
+ya
+ya
+mu
+mu
+k
+a
+o
+o
+a
+ge
+r
+o
+i
+k
+a
+r
+i
+ka
+ka
+o
+o
+o
+o
+a
+a
+ge
+ge
+ro
+ro
+i
+i
+ka
+ka
+ri
+ri
+o
+o
+a
+a
+ge
+ge
+ro
+ro
+ko
+ko
+k
+k
+or
+or
+o
+o
+n
+n
+o
+o
+ar
+ar
+a
+a
+sh
+sh
+i
+i
+g
+g
+a
+a
+su
+su
+ko
+ko
+ko
+ko
+ro
+ro
+no
+no
+a
+a
+ra
+ra
+shi
+shi
+ga
+ga
+su
+su
+gi
+gi
+ta
+ta
+na
+na
+ra
+ra
+k
+k
+a
+a
+j
+j
+it
+it
+or
+or
+es
+es
+a
+a
+a
+a
+k
+k
+ka
+ka
+ji
+ji
+to
+to
+re
+re
+saa
+saa
+ka
+ka
+chi
+chi
+to
+to
+re
+re
+as
+h
+it
+a
+no
+k
+az
+e
+ga
+f
+u
+ku
+ashi
+ashi
+ta
+ta
+no
+no
+ka
+ka
+ze
+ze
+ga
+ga
+fu
+fu
+ku
+ku
+ko
+ko
+ro
+ro
+ni
+ni
+wa
+wa
+h
+a
+r
+eb
+a
+r
+eh
+o
+oh
+a
+r
+em
+u
+ha
+ha
+re
+re
+ba
+ba
+re
+re
+ho
+ho
+o
+o
+ha
+ha
+re
+re
+mu
+mu
+ne
+ne
+o
+o
+ha
+ha
+re
+re
+da
+r
+e
+k
+a
+n
+i
+a
+i
+t
+a
+ku
+da
+da
+re
+re
+ka
+ka
+ni
+ni
+a
+a
+i
+i
+ta
+ta
+ku
+ku
+na
+na
+ru
+ru
+n
+n
+da
+da
+so
+so
+u
+u
+z
+z
+ou
+ou
+t
+t
+s
+s
+u
+u
+ka
+ka
+n
+n
+a
+a
+i
+i
+k
+k
+ot
+ot
+o
+o
+sou
+sou
+zo
+zo
+u
+u
+tsu
+tsu
+ka
+ka
+na
+na
+i
+i
+ko
+ko
+to
+to
+ba
+ba
+ka
+ka
+ri
+ri
+da
+da
+ro
+ro
+m
+m
+t
+t
+ie
+ie
+m
+m
+in
+in
+u
+u
+f
+f
+u
+u
+r
+r
+is
+is
+mi
+mi
+te
+te
+mi
+mi
+nu
+nu
+fu
+fu
+ri
+ri
+su
+su
+ru
+ru
+na
+na
+yo
+yo
+j
+j
+o
+o
+us
+us
+h
+h
+i
+i
+k
+k
+i
+i
+na
+na
+n
+n
+t
+t
+e
+e
+s
+s
+at
+at
+jo
+jo
+u
+u
+shi
+shi
+ki
+ki
+na
+na
+n
+n
+te
+te
+sa
+sa
+ta
+ta
+su
+su
+u
+u
+ke
+ke
+tsu
+tsu
+ko
+n
+os
+e
+k
+a
+nh
+a
+n
+a
+n
+ko
+ko
+no
+no
+se
+se
+ka
+ka
+i
+i
+no
+no
+ha
+ha
+te
+te
+na
+na
+n
+n
+te
+te
+k
+k
+on
+on
+om
+om
+ed
+ed
+e
+e
+m
+m
+it
+it
+a
+a
+w
+w
+a
+a
+k
+k
+ko
+ko
+no
+no
+me
+me
+de
+de
+mi
+mi
+ta
+ta
+wa
+wa
+ke
+ke
+ja
+ja
+na
+na
+i
+i
+d
+d
+a
+a
+k
+k
+a
+a
+ra
+ra
+ik
+ik
+o
+o
+u
+u
+z
+z
+e
+e
+am
+am
+ano
+ano
+ja
+ja
+da
+da
+ka
+ka
+ra
+ra
+i
+i
+kou
+kou
+ze
+ze
+a
+a
+ma
+ma
+no
+no
+ja
+ja
+kku
+kku
+sen
+sen
+chou
+chou
+d
+ek
+i
+ya
+s
+h
+i
+n
+ai
+ko
+t
+de
+de
+ki
+ki
+ya
+ya
+shi
+shi
+na
+na
+i
+i
+ko
+ko
+to
+to
+tte
+tte
+na
+na
+ni
+ni
+ma
+ma
+dv
+dv
+a
+a
+n
+n
+an
+an
+i
+i
+m
+m
+oh
+oh
+a
+a
+ji
+ji
+m
+m
+ma
+ma
+da
+da
+na
+na
+ni
+ni
+mo
+mo
+ha
+ha
+ji
+ji
+ma
+ma
+tte
+tte
+na
+na
+i
+i
+su
+b
+et
+e
+s
+h
+i
+r
+i
+t
+a
+in
+da
+ima
+su
+su
+be
+be
+te
+te
+shi
+shi
+ri
+ri
+ta
+ta
+i
+i
+n
+n
+da
+da
+i
+i
+ma
+ma
+yes
+yes
+we
+we
+can!
+can!
+yes
+yes
+we
+we
+ca
+ca
+ny
+ny
+ouc
+ouc
+a
+a
+nk
+nk
+on
+on
+o
+o
+s
+s
+h
+h
+yes
+yes
+we
+we
+can!
+can!
+you
+you
+can!
+can!
+ko
+ko
+no
+no
+shu
+shu
+n
+n
+ka
+ka
+n
+n
+we
+we
+can
+can
+I
+I
+ca
+ca
+n
+n
+ko
+ko
+n
+n
+o
+o
+k
+k
+a
+a
+we
+we
+can!
+can!
+I
+I
+can!
+can!
+ko
+ko
+no
+no
+ka
+ka
+i
+i
+ka
+ka
+n
+n
+i
+i
+m
+m
+a
+a
+im
+im
+a
+a
+oh
+oh
+ye
+ye
+swe
+swe
+i
+i
+ma
+ma
+i
+i
+ma
+ma
+oh
+oh
+yes
+yes
+we
+we
+can!
+can!
+ye
+ye
+w
+w
+ca
+ca
+yes
+yes
+we
+we
+can!
+can!
