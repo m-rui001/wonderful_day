@@ -1,9 +1,0 @@
-Text: Caesar's Laboratory
-Text: Laboratory - Far Side of the Mountain
-Text: Rock
-Text: Scotch
-Text2: Yeti Cool Brothers
-Text: The Burning Lands
-Luffy: Color of Arms - Hardening
-Luffy: Gun Salute
-Brownbeard: Master is the kind-hearted god of salvation.

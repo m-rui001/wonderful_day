@@ -1,3 +1,0 @@
-Text: Caesar's Laboratory - Main Entrance
-Text: Caesar's Laboratory - Back Entrance
-Text: Ruins of Laboratories 1 & 2

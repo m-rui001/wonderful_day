@@ -1,6 +1,0 @@
-Caption: Vice-Admiral at Navy HQ
-Caption: Shark-Slicer Bastille
-Caption: Green Bit
-Guard: Quiet down!
-Law: Why won't you answer, Namier?
-Law: I know I've got the right number!
