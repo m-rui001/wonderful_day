@@ -1,0 +1,756 @@
+ 環境情報用変数
+.ENV_GameName  = "白恋サクラ＊グラム(天神之雨)个人汉化1.0";
+.ENV_ReadmeName= "お読みください";
+ ※このファイルは直接編集しないでください
+ （元となる MakeConfig.txt を編集して MakeMenuから直makeの「gameconfig」で更新）
+ Copyright (C) 2001-2004 W.Dee and contributors  改変・配布は自由です
+;global.config_version = "EX 3.27-dev.20070519";  この行を消さないでください
+ このファイル内で設定できる項目は、すべて
+ の形式になっています。
+ 「追加の設定」を除いて、設定は各項目につき１行で記述する必要があります。
+------------------------------------------------------- 全体の設定 -----
+ ◆ タイトル
+ ウィンドウのキャプション(タイトル)および
+ タスクバーに表示されるものです。
+ ◆ シナリオ解析モード
+ シナリオファイル中の改行に従わせたい場合に false を設定します。
+ false を指定すると、KAG のシナリオ中の改行が、行末に  または [p] を書か
+ ない限りそのままメッセージレイヤ上での改行として扱われます。
+ true を設定すると [r] タグを書かない限り改行されません。
+ KAG2.x 互換にするには false を指定してください。
+ ◆ 画像キャッシュ制限
+ 画像キャッシュの制限値を MB 単位で指定します。
+ gcsAuto を指定すると、自動的に決定されます。
+;System.graphicCacheLimit = gcsAuto;  画像キャッシュ制限
+ ◆ global 追加の設定
+ 追加の設定項目がある場合は
+ [start-global-additionals] と [end-global-additionals] で囲まれた
+ 部分に設定を記述してください
+ ( [start-global-additionals] と [end-global-additionals] の行は
+  編集したり消したりしないでください )
+ デフォルトのD3Dモード（-d3dmodeが空の場合どちらをデフォルトにするか）
+ ◆ コンバートモードを有効・無効にする
+ ◆ コンバートモードはデフォルト読み取り専用
+ ◆ コンバートモードで逆順データを含める
+ デフォルトフォント名（cf. MessageLayer_config::userFace, default.tjs)
+;global.MessageDefaultFontFace = "マルベリ"; "源ノ角ゴシックB";  "ＭＳ ゴシック";
+;global.SystemDefaultFontFace  = "源ノ明朝H"; MessageDefaultFontFace;  システム用
+ (GENERATE_SPEECHWAV_FOR_NO_VOICE=1) 声無し台詞でスピーチデータを作成（要speech.tjs, デバッグ用)
+ 1にすると機能が有効化する
+ (SOUNDGAIN_ENABLED=1)  サウンドゲイン機能の有効化
+ (ENABLE_LOGFACE=1)  バックログに顔情報を記録するかどうか
+ (BACKSKIP_ENABLED=1)  バックスキップ有効
+ 1にすると現在の機能が無効になる
+ (DISABLE_DEFAULT_EMBFONT=1)  組み込みフォントを無効にする
+ (STOPDEACTIVE_NOMUTE=1)  stopdeactive.tjsで停止時にミュートしない
+-------------------------------------------- ウィンドウや動作の設定 -----
+ d3dモード
+ ◆ 画面サイズ
+ scWidth に画面の幅、scHeight に画面の高さをピクセル単位で指定します。
+ 標準的に使われている 640x480 や 800x600 のような画面サイズではないサイズ
+ に設定すると、フルスクリーンにできない場合があります。
+ UIパーツのサイズ
+ 定義しておくと画面サイズに対してセンタリング処理します
+ ◆ 読みとり専用モード
+ readOnlyMode = true とすると、ディスクへのいっさいの書き込み動作をしなく
+ なります。CD-ROM 上から実行させるときなどに指定してください。
+ もちろん、その場合は栞の保存などができなくなります。
+ ◆ フリーセーブ
+ 栞の保存形式を指定します。
+ false を指定すると、メニューバーの「栞をたどる」「栞をはさむ」の
+ サブメニュー項目からセーブデータを保存したり読み込んだりします。
+ この場合は保存可能な栞の最大の個数は numBookMarks によって制限
+ されます。
+ true を指定するとフリーセーブモードになり、「栞をたどる」では
+ 「開く」ダイアログボックス、「栞をはさむ」では「名前を付けて保存」ダイア
+ ログボックスが開き、栞を個別のファイルとして保存するモードになります。
+ この場合は 保存可能な栞の個数に制限はありません。また、
+ エクスプローラなどによる栞の管理が容易になります。
+ ◆サムネイルを保存するか
+ false を指定すると、セーブデータの拡張子は .kdt になり、サムネイルは
+ 保存されません。
+ true を指定すると、セーブデータの拡張子は .bmp になり、エクスプローラや
+ 「開く」ダイアログボックスの「縮小版」表示でセーブ時点でのサムネイルを
+ 表示することができるようになります。
+ ◆サムネイルの保存サイズ
+ サムネイルの横幅を指定します。saveThumbnail を true に設定しないとこの
+ 設定は意味がありません。
+ 横幅はピクセル単位で指定してください。たて幅は scWidth と scHeight の
+ 比と同じ比で自動的に計算されます。
+ ◆サムネイルの保存モード
+ サムネイルの保存モードを指定します。saveThumbnail を true に設定しないとこの
+ 設定は意味がありません。
+ 8 を指定すると 256 色ビットマップで保存されます。
+ 24 を指定すると 24bitフルカラービットマップで保存されます。
+ 256色ビットマップの方がファイルサイズを小さく抑えることができますが、
+ 画質は悪くなります。
+ ◆ データ名プレフィクス
+ ここで指定した名前で始まる名前で栞関連のファイルが作成されます。
+ フリーセーブモードの場合でもシステム変数やシステムの設定を保存する
+ ファイルに影響します。
+ ◆ データID
+ KAGが他の作品のセーブデータを間違って読み込まないように、作品固有の
+ IDを "" で囲って指定してください ( 何でもかまいません )。
+ 特にフリーセーブモードで重要になります。フリーセーブモードにしない場合は
+ それほど重要ではないです。
+ 他と重ならない一意なIDは↓で取得することもできます。
+ http:kikyou.infouuidgenuuidgen.php (出てきたIDをコピー&ペースト)
+ または 吉里吉里を起動して 「選択しない」ボタンを押し、Shift + F4 を押して
+ コンソールを表示させ、その下側の入力欄に
+       ( 先頭の  は含まず )
+ と入力して Enter キーを押しても取得することができます。
+ ◆ 保存モード
+ "c" を指定すると栞が暗号化されます。
+ "z" を指定すると栞が圧縮されます。
+ "c" と "z" を両方指定することは出来ません。栞を圧縮すると
+ 簡単には読めないようなデータになるので、栞の圧縮は暗号化を
+ 兼ねています。
+ "" を指定すると栞の暗号化や圧縮はされません。
+ ◆ 栞にマクロの情報を保存するかどうか
+ 栞にマクロの情報を保存するかどうかを指定します。true を指定すると、KAG の
+ マクロの情報は栞に保存され、栞をたどる動作を行うと、栞を保存した状態のマ
+ クロが再現されます。
+ false を指定すると、KAG のマクロの情報は栞に保存されなく、栞をたどる動作
+ を行っても、現在のマクロの情報は変わりません。
+ 特に 毎回マクロ定義を 作品のはじめで行うような用途では、古いマクロの情報
+ が栞の読み込みによって新しいマクロの情報に上書きされてしまうことが開発の
+ 妨げになるため、false を指定した方がよいでしょう。
+ ◆ 文字表示スピード (ミリ秒文字)
+;chSpeeds.fast = 0;  「高速」文字表示スピード
+;chSpeeds.normal = 30;  「普通」文字表示スピード
+;chSpeeds.slow = 50;  「遅い」文字表示スピード
+ ◆ 自動的に読み進むウェイト ページ末ウェイトの設定値 (ミリ秒)
+;autoModePageWaits.fast = 800;  「短い」
+;autoModePageWaits.faster = 1400;  「やや短い」
+;autoModePageWaits.medium = 2000;  「普通」
+;autoModePageWaits.slower = 2600;  「やや遅い」
+;autoModePageWaits.slow = 4000;  「遅い」
+ ◆ 自動的に読み進むウェイト [l] ウェイトの設定値 (ミリ秒)
+;autoModeLineWaits.fast = 180;  「短い」
+;autoModeLineWaits.faster = 240;  「やや短い」
+;autoModeLineWaits.medium = 300;  「普通」
+;autoModeLineWaits.slower = 360;  「やや遅い」
+;autoModeLineWaits.slow = 500;  「遅い」
+ ◆ マウスカーソル
+ マウスカーソルを指定します。マウスカーソルは cr で始まるマウスカーソル定
+ 数 ( 吉里吉里２ SDK Help 参照 ) か、マウスカーソルファイル名である必要が
+ あります。アニメーションマウスカーソルも指定できます。
+ マウスカーソル定数を指定するときは、cursor タグで指定するように先頭に &
+ をつける必要はありません。マウスカーソルファイル名を指定する場合は ""
+ (ダブルクオーテーション) でくくってください。
+;cursorDefault = crArrow;  通常のマウスカーソル
+;cursorPointed = crHandPoint;  リンクなどをポイントしたとき
+;cursorWaitingClick = crArrow;  クリック待ちの時
+;cursorDraggable = crSizeAll;  メッセージレイヤをドラッグ可能なとき
+ ◆ ラベル記録
+ 自動的に「読んだ」ラベルを記録するかどうかを指定します。
+ この設定が false でなく true になっていると、ラベルを読むごとにシステム
+ 変数 (sf) に
+ trail_シナリオファイル名_ラベル名
+ という変数名の変数に 1 が加算されます。
+ たとえば first.ks の *start というラベルであれば trail_first_start とい
+ う変数名になります。まだ通過していないカ所では 未定義 ( 0 として見なされ
+ ます ) になっています。
+ 「読む」というのは、ラベルから、そのラベルの終了までをすべてシナリオが実
+ 行されたときになって初めて「読んだ」とみなされます。
+ 「ラベルの終了」とは、以下の場合に終了とされ、そのラベルは「読んだ」とさ
+ れます。
+ ・[s] タグやシナリオの終端に達した
+ ・次のラベルが現れた
+ ・jump タグでジャンプした
+ ・link や button でのリンク先へのジャンプ
+    ( 文章を表示しきっていない場合でも リンク先へジャンプすると「読んだ」
+      と見なされるので注意; link や button タグの countpage 属性を参照 )
+ ・return タグで戻るとき ( call で飛ぶときは終了とは見なされません )
+ 通過記録を自動的に行うかどうかを指定します。
+ ラベル記録とは違います。
+ 通過記録を行うと、「システム - 前に戻る」で、直前に
+ 通過記録を行った箇所に戻ることができます。
+ 0 を指定すると自動的には通過記録を行いません ( record タグで手動で通過記
+   録を行うことはできます )
+ 1 を指定すると 保存可能なラベルを通過するごとに自動的に通過記録を行いま
+   す。
+ 2 を指定すると選択肢 ( s タグで停止 ) ごとに通過記録を行います。
+ ◆ 通過記録の最大数
+ 通過記録の最大数を指定します。最大、ここで指定した回数、前に戻る事ができ
+ ます。大きくするとセーブデータも大きくなります。
+ ◆ quake の time 属性値
+ true とすると quake の time 属性の単位が delay で指定した文字表示速度に
+ 基づくようになります。false を指定すると ms (ミリ秒) 単位で指定すること
+ になります。KAG 2.x 互換にするには true を指定してください。
+ ◆ メッセージレイヤを quake 対象にするか
+ true とすると メッセージレイヤも quake します
+ ◆ 利用可能な効果音バッファの数
+ 利用可能な効果音バッファの最大値を指定します。つまり、ここで指定した数の
+ 分だけ効果音を同時に再生できます。効果音を使用しない場合は 0 を指定して
+ かまいません。
+ ◆ ムービーオブジェクトの数
+ 利用可能なムービーオブジェクトの最大値を指定します。つまり、ここで指定し
+ た数の分だけムービーを同時に再生できます。
+ ◆ 初期状態のメッセージレイヤの数
+ 前景レイヤと違って、0 を指定することはできません。これも必要な数だけ確保
+ するようにすべきです。laycount タグでシナリオ内でも変更できます。
+ ◆ 初期状態でメッセージレイヤを表示するかどうか
+ true を指定するとメッセージレイヤ0が初期状態で表示状態になりますが、
+ false を指定すると初期状態ではすべてのメッセージレイヤは初期状態で非表示
+ になります。
+ ◆ 利用可能な栞の数
+ メニューに表示し、ユーザーが選択可能な栞の数です。
+ save や load タグで保存可能な栞の数はこの設定には影響しません。
+ メニューによる栞の管理を行わない場合 ( ゲーム画面中で全部栞の管理などを
+ 行う場合など ) は、numBookMarks は必要な数に設定し、restoreMenu.visible と
+ storeMenu.visible を false に設定してください。
+ ◆ 栞に日付を併記するか
+ true に設定すると、栞メニューの項目の横に YYMMDD HH:MMの形式で栞を保存
+ した日付・時刻が表示されます。
+ ◆ フォント選択で固定ピッチフォントのみを表示するか
+ true を指定すると、フォント選択ウィンドウで固定ピッチフォントのみを表示
+ するようになります。
+ ◆ 「ヘルプ > 目次」を選択したときに実行するファイル
+ ここで指定するファイルは吉里吉里実行可能ファイルと同じ場所に設置されてい
+ なければなりません。
+ ◆ 「ヘルプ > このソフトについて」を選択したときにでる
+ ウィンドウの表示領域のサイズ
+ このメニューを選択すると about.ks がそのウィンドウ内で実行されます。
+;aboutHeight = 300;  高さ
+ ◆ 自動ラベル処理
+;autoLabelMode = true;  true:自動ラベルモード
+ ◆ ワールド拡張がボイス切り替えようにデフォルト名の判定に利用する名前を指定
+;defaultName = "名前";  デフォルトの名前
+;defaultFamily = "苗字";  デフォルトの苗字
+  ウィンドウや動作の追加の設定
+ 追加の設定項目がある場合は
+ [start-window-additionals] と [end-window-additionals] で囲まれた
+ 部分に設定を記述してください
+ ( [start-window-additionals] と [end-window-additionals] の行は
+  編集したり消したりしないでください )
+ オートインデント有効
+ ゲームパッド初期割り当て
+ textspeedautospeed最大値を変更
+ スナップショット取得時にメッセージレイヤを一時消去するか
+ デフォルトメッセージフェード時間
+ クリックでauto解除
+ ボイス停止時フェード時間
+;sameSysSEVolume = false;  システム効果音のボリュームをsevolumeと同期する場合はtruesyssevolumeを使用する場合はfalse
+;independentMovieAudioProperty = true;  ムービー音量を独立させたい場合はtrue, falseの時は bgmvolume に同期
+ 立ち絵キャッシュ枚数
+---------------------------------------------------- メニューの設定 -----
+ メニューの表示非表示の設定
+ true を指定すると表示され、false を指定すると非表示になります。
+ メニューに表示するメニュー項目名については Menus.tjs を書き換えてくださ
+ い。
+ ◆ メニューバーを表示するか
+ 非表示にすると当然どのメニュー項目にもアクセスできなくなります。
+ ◆ 「システム > メッセージを消す」
+ このメニュー項目を非表示にしてもマウスの右クリックでのメッセージの
+ 非表示は引き続き有効です。
+ ◆ 「システム > メッセージ履歴の表示」
+ ◆ 「システム > 次の選択肢未読まで進む」または「次の選択肢まで進む」
+ ◆ 「システム > 自動的に読み進む」
+ ◆ 「システム > 自動的に読み進むウェイト」
+ ◆ 「システム > 前に戻る」
+ ◆ 「システム > 最初に戻る」
+ ◆ 「文字表示」
+ ◆ 「文字表示 > 表示速度 > ページ末まで一気に」
+ ユーザがこのメニュー項目をチェックすると、
+ l タグが無視されるようになります。
+ ◆ 「文字表示 > 一度読んだところは」
+ ◆ 「文字表示 > 一度読んだところは > ページ末まで一気に」
+ ◆ 「文字表示 > アンチエイリアス」
+ ◆ 「文字表示 > フォント」
+ ◆ 「栞をたどる」
+ ◆ 「栞をはさむ」
+ ◆ 「画面」
+ ◆ 「ヘルプ」
+ ◆ 「ヘルプ > 目次 ...」
+ ◆ 「ヘルプ > このソフトについて ...」
+ ◆ 「デバッグ」
+ ◆ メニュー 追加の設定
+ 追加の設定項目がある場合は
+ [start-menu-additionals] と [end-menu-additionals] で囲まれた
+ 部分に設定を記述してください
+ ( [start-menu-additionals] と [end-menu-additionals] の行は
+  編集したり消したりしないでください )
+;menuBarMode = 1;  メニューバー表示状態を変更できるか（0:変更不可，1:変更可）
+;defaultMenuBarState = 1;  メニューバー表示の初期状態（0:非表示，1:表示，-1:自動表示）
+;menuBarHideButtonVisible = true;  メニューバー右端に消す・復帰ボタンを表示する
+;menuBarHideAutoVisible   = true;  自動表示の有効フラグ（falseにすると-1:自動表示を封印）
+;menuBarRightClickEnabled = true;  メニューバー上の右クリック有効フラグ
+;menuBarTempMenuEnabled   = true;  一時メニュー表示を有効
+-------------------------------------------- メッセージレイヤの設定 -----
+ ◆ メッセージレイヤの表示モード
+ メッセージレイヤをどのモードで表示するかを指定します。
+ ltAddAlpha は KAG3 3.23 beta 5 から指定可能なモードで、
+ ltAlpha よりも処理が若干高速です。
+ ltAlpha はそれ以前の KAG と互換性のあるモードです。
+ ltAddAlpha を指定した場合は、frameGraphic で指定する
+ メッセージ枠用の画像も、ltAddAlpha 用に作成された
+ 画像を用いる必要があります (自動的には判別されません)。
+ ltAddAlpha 用の画像は画像フォーマットコンバータで作成可能です。
+ ◆ メッセージ枠用の画像
+ メッセージ枠用の画像のファイル名を指定します。
+ "" を指定するとメッセージ枠の画像を使用しません。また、メッセージ枠用の
+ 画像を指定した場合、position タグでメッセージレイヤのサイズを変更すると
+ おかしな表示になると思います
+;frameGraphic = "";   position タグの frame 属性に相当
+ ◆ メッセージレイヤの色と不透明度
+ frameColor には 0xRRGGBB 形式で ( RR GG BB はそれぞれ 2 桁の 16 進数)
+ メッセージレイヤの色を指定します。frameOpacity には 0 〜 255 の数値で、
+ 不透明度を指定します。メッセージ枠用の画像が指定されている場合は無効で
+ す。
+;frameColor = 0x000088;  position タグの color 属性に相当
+;frameOpacity = 128;   position タグの opacity 属性に相当
+ ◆ 左右上下マージン
+ マージン (余白) を pixel 単位で指定します。メッセージ枠用の画像を指定し
+ た場合は、メッセージ枠の表示範囲内に設定する必要があります。
+ これらは、position タグの marginl, maringt, marginr, marginb 属性に対応
+ します。
+ これらは、position タグのそれぞれ left top width height の属性に対応しま
+ す。
+;mh = 200-32;    高さ
+ ◆ 自動改行改ページ
+ true を設定すると、行末での自動改行、ページ末での自動改ページが行われま
+ す。false を設定するとこれらが行われない他、禁則処理等もされなくなりま
+ す。
+ ◆ 右文字マージン
+ 禁則処理用にあけておく右端の文字数を指定します。
+ (縦書きモードでは下端の文字数であると解釈されます)
+ ◆ 文字の大きさ
+ デフォルトの文字の大きさ ( 高さ ) を pixel 単位で指定します。
+;defaultFontSize = 28;   deffont タグの size 属性に相当
+ 行間を pixel 単位で指定します。
+;defaultLineSpacing = 13;  defstyle タグの linespacing 属性に相当
+ 字間を pixel 単位で指定します。
+ デフォルトは 0 で、正あるいは負のオフセットで指定します。
+ 負の数値を指定すると字間が詰まります。正の数値を指定すると字間が空きま
+ す。
+;defaultPitch = 0;  defstyle タグの pitch 属性に相当
+ ◆ 文字の書体
+ デフォルトのフォント名を指定します。
+ この設定はシステム変数に記録されて、次回起動時に引き継がれるので、
+ userFace の設定を変更し、適用したい場合はシステム変数ファイル
+ ?????sc.* の "chdefaultFace" => の行を削除してください。
+ (あるいはシステム変数ファイルを消してください)
+ カンマで区切って複数のフォントを指定することができます。その場合は、最初
+ の方に書いたフォントが存在すれば、優先されます。
+;userFace = global.MessageDefaultFontFace;  deffont タグの face 属性に相当
+ ◆ 文字の色
+ デフォルトの文字の色を 0xRRGGBB 形式で指定します。
+;defaultChColor = 0xffffff;   deffont タグの color 属性に相当
+ ◆ 文字をボールドにするか
+ する場合は true, しない場合は false を指定します。
+;defaultBold = false;  deffont タグの bold 属性に相当
+ ◆ ルビサイズ
+ ルビサイズを pixel 単位で指定します。
+;defaultRubySize = 11;  deffont タグの rubysize に相当
+ ◆ ルビ の表示オフセット
+ 負の数を指定するとその pixel 数分、本文に近い位置に表示されます。
+;defaultRubyOffset = 0;  deffont タグの rubyoffset に相当
+ ◆ アンチエイリアス文字描画をするか
+ する場合は true, しない場合は false を指定します。
+ ◆ 影の色
+ 影の色を 0xRRGGBB 形式で指定します。
+;defaultShadowColor = 0x000000;   deffont タグの shadowcolor に属性に相当
+ ◆ 縁取りの色
+ 縁取りの色を 0xRRGGBB 形式で指定します。
+;defaultEdgeColor = 0x000000;   deffont タグの edgecolor に属性に相当
+ ◆ 影を描画するか
+ する場合は true, しない場合は false を指定します。
+;defaultShadow = true;   deffont タグの shadow 属性に相当
+ ◆ 縁取りをするか
+ する場合は true, しない場合は false を指定します。KAG3 から、縁取りと影
+ を同時に描画することができなくなりました。縁取りを指定した場合は縁取りが
+ 優先されます。
+;defaultEdge = false;   deffont タグの edge 属性に相当
+ ◆ クリック待ちグリフの画像ファイル
+ 画像の作り方は、アニメーションレイヤ ( AnimationLayer.tjs ) 内を参照して
+ ください。拡張子は指定しないでください。
+ カラーキーを指定する必要がある場合はシナリオ中で glyph タグで指定してく
+ ださい。
+ 行末クリック待ちグリフ
+;lineBreakGlyph = "雪の結晶";   glyph タグの line 属性に相当
+ ページ末クリック待ちグリフ
+;pageBreakGlyph = "雪の結晶";   glyph タグの page 属性に相当
+ ◆ クリック待ちグリフを固定した場所に表示するかどうか
+ false を指定すると、クリック待ち記号(グリフ)は、現在の文字表示位置に表示
+ されます。true を指定すると、クリック待ち記号は、 glyphFixedLeft や
+ glyphFixedTop で指定した位置に表示されます。
+;glyphFixedPosition = true;   glyph タグの fix 属性に相当
+ ◆ クリック待ちグリフを固定した場所に表示するときの位置
+ glyphFixedLeft にはグリフを表示する左端位置を、glyphFixedTop にはグリフ
+ を表示する上端位置を指定してください。
+;glyphFixedLeft = 741;   glyph タグの left 属性に相当
+;glyphFixedTop = 556-450;   glyph タグの top 属性に相当
+ ◆ リンクの強調色
+ リンクを選択したときに出る半透明矩形のデフォルトの色です。
+;defaultLinkColor = 0x0080ff;   link タグの color 属性に相当
+ ◆ リンクの不透明度
+ リンクを選択したときに出る半透明矩形の不透明度です。
+ ◆ 縦書きモード
+ メッセージレイヤを標準で縦書きモードにする場合は false ではなく true を
+ 指定してください。
+;vertical = false;   position タグの vertical 属性に相当
+ ◆ マウスでドラッグ可能か
+ true に設定すると、marginR, marginL, marginT, marginB で設定したマージン
+ 外の部分で、かつフレーム画像の不透明度が 64 以上の箇所をマウスでつかんで
+ メッセージレイヤをユーザが移動できるようになります。
+;draggable = false;   position タグの draggable 属性に相当
+ ◆ メッセージレイヤ 追加の設定
+ 追加の設定項目がある場合は
+ [start-messagelayer-additionals] と [end-messagelayer-additionals] で囲
+ まれた部分に設定を記述してください
+ ( [start-messagelayer-additionals] と [end-messagelayer-additionals] の
+ 行は編集したり消したりしないでください )
+-------------------------------------------------------- BGM の設定 -----
+ BGM の設定です。
+ CD-DA, Wave, MIDI のいずれかを BGM として再生することができます。
+ ◆ BGM再生メディア
+ type 変数に設定する文字列で、使用するサウンドバッファを決めることができ
+ ます。
+ "Wave"  : WaveSoundBuffer ( wav等(プラグインで再生できる物も含む) )
+ ◆ CDDA再生ボリュームラベル
+ "CDDA" を指定した場合は、cdVolume 変数に、再生する CD のボリュームラベル
+ を指定します。ボリュームシリアル番号ではありません。
+ KAG は、このボリュームラベルを持った CD の挿入された CD-ROM ドライブで
+ CD-DA を再生します。特にマシンに複数のCD-ROMドライブが装着されている場合
+ にこれを元にしてドライブの区別を行います。
+ ◆ クロスフェードを行うか
+ doubleBuffered 変数には、サウンドバッファを２つ使用するかどうかを指定し
+ ます。true に設定するとサウンドバッファが 2 つ用意され、クロスフェードが
+ 可能になります。
+ MIDI サウンドバッファで複数同時再生を意図していないデータを使う場合や、
+ CDDA サウンドバッファを使う場合は false に指定してください。
+ ◆ MIDI 再生開始前に送るメッセージ
+ MIDI データの再生を開始する前に MIDI 音源に送るメッセージです。
+ <% %> を指定すると メッセージは送られません。
+ <% f0 7e 7f 09 01 f7 ff 00 %> は GM System On です。
+ ほかに
+ など。
+ ff 00 を途中に挿入するとその時点で 50ms のウェイトが入ります。
+ 音源初期化などでウェイトが必要な場合に挿入します。
+ ◆ BGM 追加の設定
+ 追加の設定項目がある場合は
+ [start-bgm-additionals] と [end-bgm-additionals] で囲まれた
+ 部分に設定を記述してください
+ ( [start-bgm-additionals] と [end-bgm-additionals] の行は
+  編集したり消したりしないでください )
+---------------------------------------------- メッセージ履歴の設定 -----
+ メッセージ履歴の設定です
+ ◆ フォント名
+;fontName = ""; ＭＳ Ｐゴシック";
+ ◆ フォントを太字にするか
+ ◆ フォントのサイズ ( pixel単位)
+ ◆ ラインの高さ
+ ◆ 縦書きの場合は true
+ ◆ ページ単位での閲覧を行うかどうか
+ ページ単位での閲覧をするようになると
+ cm ct er タグ、あるいは repage 属性が true の hr タグ
+ でメッセージ履歴の改ページを行うようになります。
+ ◆ 自動改行を行うかどうか
+ ◆ 履歴保持最大数
+ 「◆ ページ単位での閲覧を行うかどうか」を true に設定した場合は
+ maxPages をページ単位で、false に設定した場合は maxLines を行単位で
+ 指定してください。
+ ◆ 栞にメッセージ履歴を保存するか
+ true を指定すると栞にメッセージ履歴が保存されるように
+ なりますが、栞のデータサイズが大きくなります。
+ ◆ メッセージ履歴 追加の設定
+ 追加の設定項目がある場合は
+ [start-historylayer-additionals] と [end-historylayer-additionals] で囲
+ まれた部分に設定を記述してください
+ ( [start-historylayer-additionals] と [end-historylayer-additionals] の行は
+  編集したり消したりしないでください )
+ このファイルのこれ以降は設定できる項目はありません
+"エリサ",
+"まおり",
+"その他男","その他女",
+"リリエト","ナナ"];  ※FD追加
+ ボイスカットフェード設定の場合のボイスフェードアウト時間
+ バックログ切り抜き矩形
+ 16:9用メッセージ位置調整
+ ※keyはfunc名でなく，pimgのベースパス名基準なので注意
+"メッセージ窓" => %[ base:"base", func:"message.func" ],
+ セーブロード関連
+.savedataCountPerPage = .rotateQuickSaveBookmarkCount = 12;  セーブ画面1ページのデータ個数
+.saveThumbReplaceList = "savelist.csv";  セーブサムネ差し替え
+ ボイスリスト用
+ テキスト文字描画加工関連
+ 文字描画加工パラメータ群
+"_heavy" => %[ fontface:"源ノ角ゴシックH" ],
+"_mono"  => %[ fontface:"マルベリ" ],
+"_comment" => %[ fontface:"源ノ角ゴシックB" ],
+ 確認ダイアログ
+ コンフィグ
+ ICOモード
+"ico.text"        => [ %[ fontheight:16, rubysize:10, linespacing:12, edgeExtent:1, edgeEmphasis:768, halign:-1, valign:-1, fontface:"ニューシネマA" ], "_heavy", "_grayes", "_shadowed", "_edged" ],
+ エクストラ
+ シーン鑑賞デフォルトコメント
+ ※キャラタブ単位で指定（枠ごとの指定はscenelist.csvに記入）
+"優理"   => "私との思い出です",
+"一葉"   => "私との思い出よ",
+"エリサ" => "ふふっ、私との思い出です",
+"耶々"   => "私との思い出さ",
+"雪"     => "私との思い出だよ",
+"梢"     => "颯お兄ちゃんとの思い出ですよ",
+"朝陽"   => "私との思い出ですが…なにか？(真っ赤)",
+"リリエト"=>"是和先辈最重要的回忆",
+ サウンドモードデフォルトコメント
+ ※初回表示時の１種類のみ（枠ごとの指定はsoundlist.csvに記入）
+"優理"   => "音楽鑑賞画面です♪",
+ アフターストーリーデフォルトコメント
+ ※初回表示時の１種類のみ（枠ごとの指定はafterstory.csvに記入）
+"優理"   => "あれから私たちの間ではこんなことがあったんですよね",
+ テキスト詳細設定のパレットカラー一覧
+var textcol = cols[31];  未読テキスト：白
+var readcol = cols[18];  既読テキスト：黄
+var escol   = cols[30];  フチ・影カラー：黒
+var gradcol = cols[31];  グラデトップカラー：白
+ ショートカットキー関連
+ 割り当て機能一覧
+ デフォルトバインド（void:割り当て無し／シフトキーコンビネーション:"S_"+VK_* ）
+**	"rclick"	=>   void,  1つ目固定：VK_ESCAPE
+"volume"	=>   VK_INSERT,   [XXX] remapでない(INSERTが割り当て対象外)  １つ目はVK_BACK固定
+**	"click"		=>   void,  1つ目固定：VK_RETURN
+ 別のキーのエイリアスにする機能(各個複数キーの割り当て不可：1つのみ)
+ １つ目固定キー割り当て
+"volume"	=> "Insert",  [XXX] remapでない(INSが割り当て対象外) : デフォルトで１つ目にVK_INSERTを割り当てること
+ 記号キーをVK_*で定義
+ 割り当て可能キー・名称一覧
+ マウスジェスチャデフォルト
+ メニューカスタムデフォルト順序
+ 最大値のフラグ名を取得（同じ値の場合は前の方が優先）
+ 環境初期化処理
+ section一覧："1basic", "5menu", "6mouse", "7key"
+              "2system", "3text", "4sound" ⇒ "1basic" からの初期化も含む
+ システム設定
+ kag.changeFullScreenOrWindow(false);					 画面サイズ
+sf.windowOpac = 192;									 メッセージ窓不透明度(0-255)
+ システム詳細設定
+QuickMenuLock = true;									 下段メニューロック
+sysarg("curmove", "yes");								 マウスカーソル自動追尾
+SC.DialogForcusForceYes = false;						 自動移動場所
+scf.hideMouseCursorTime = 20;							 マウスカーソル自動消去
+SC.showTextVoiceProgress = true;						 ボイスメーター
+ [TODO]絵画演出エフェクト
+scf.disableIcoGetNotify = false;						 アイテム入手を表示(true:しない, false:する)
+sysarg("stayontop", "no");								 常に手前
+sysarg("stopdeactive", "no");							 非アクティブ時動作
+scf.windowBoot = false;									 起動時の強制ウィンドウモード
+ 確認ダイアログの設定の初期化（初期値はConfirmDialogDefaultsにて）
+ テキスト設定
+kag.textspeed = 70;										 メッセージ速度(0-100)
+kag.autospeed = 50;										 オート進行速度(0-100)
+kag.atextenable = true; kag.atextspeed = 50;			 オートメッセージ速度調整ONOFF, オートメッセージ速度
+kag.chDefaultFace = global.MessageDefaultFontFace;		 フォント
+ テキスト詳細設定
+kag.allskip = false;									 未読スキップ許可 (true:有効, false:無効)
+kag.rtextenable = false; kag.rtextspeed = 90;			 既読メッセージ速度調整ONOFF, 既読メッセージ速度
+kag.skipspeed = 0;										 スキップ速度   (min:1.0〜0:max)
+FontEffectResetDefaultColors();  カラー初期化（初期値は↑.fontEffectInitColorsにて定義）
+ フォント効果初期値
+kag.cancelAutoWhenClick = false;  左クリックでオート停止
+kag.afterauto = true;  選択後オート継続
+kag.afterskip = true;  選択後スキップ継続
+ サウンド設定
+kag.waveenable  = true; kag.wavevolume  = 80;			 マスター音量
+ サウンド詳細設定
+kag.voicecut = true; SC.voiceCutFadeEnabled = true;  ボイスカット(true,true:フェード, true,false:ON, false,*:OFF)
+SC.showTextVoiceProgress = true;				 ボイスメーター（システム詳細と重複）
+kag.bgmdown = false; kag.bgmdownlevel = 50;				 音声再生時にBGM音量を下げる(onoff, 割合(%))
+kag.movieAudioEnable=true; kag.movieAudioVolume = 80;	 ムービー音量
+ システムボイス系
+.enabled = true;  システムボイス有効（全体）
+.charmask = .charmaskall;  システムボイスキャラ個別全ON
+.pervolume = 80;  システムボイス音量
+kag.sysseenable = true; kag.syssevolume = 80;			 システム効果音音量
+ キャラクター音声設定
+kag.voiceenable = true; kag.voicevolume = 80;   ボイス全体音量
+setVoiceAll(true, 100);						 全キャラボイスON, 最大音量
+chvol("エリサ",    80);
+chvol("まおり",    80);
+chvol("その他男",    80);
+chvol("その他女",    80);
+ 着替えモード
+sf.着替えモード = 0;
+ メニューカスタム初期化
+scf.qmsynclist = SC.qmorderDefaultList_menu == SC.qmorderDefaultList_touch;  sync初期値はdefaultバインドが同じかどうかで決定
+delete scf.touchUI_enabled;  初期値はtouchデバイスの有無で決定
+ 各UIに反映
+ マウスフリック
+ 隠し設定
+kag.drawspeed   = 1;					 エフェクトスピード
+kag.voicecutpage = true;				 カットするタイミング（true:ページ消去時にカット, false:名前表示時にカット)
+kag.nosewhenskip = true;				 スキップ時の単発SE (true:鳴らさない, false:鳴らす)
+ 初回起動時(savedataがない)のみの初期化処理
+ DSoundセカンダリバッファを常に再生成
+ パッドリピート間隔
+ フレーム上限を設定
+ VistaではダブルバッファをDirect3Dに
+ 表情窓同期表示
+(const)%[ "name"=>"シーダ",   "file"=>"MTLc3m.ttf",  "face"=>"モトヤLシータ゛3等幅", "capname"=>"モトヤLシーダ3"   ],
+(const)%[ "name"=>"マルベリ", "file"=>"MTLmr3m.ttf", "face"=>"モトヤLマルベリ3等幅", "capname"=>"モトヤLマルベリ3" ]
+(const)%[ "name"=>"源ノ角ゴシックR", "file"=>"SourceHanSansJP-Regular.otf", "face"=>"Source Han Sans CN Regular" ],
+(const)%[ "name"=>"源ノ角ゴシックB", "file"=>"SourceHanSansJP-Bold.otf",    "face"=>"Source Han Sans CN Bold"    ],
+(const)%[ "name"=>"源ノ角ゴシックH", "file"=>"SourceHanSansJP-Heavy.otf",   "face"=>"Source Han Sans CN Heavy"   ],
+(const)%[ "name"=>"源ノ明朝B", "file"=>"SourceHanSansJP-Bold.otf",  "face"=>"Source Han Sans CN Bold"         ],
+(const)%[ "name"=>"源ノ明朝H", "file"=>"SourceHanSansJP-Heavy.otf", "face"=>"Source Han Sans CN Heavy"   ]
+ ローカル組み込みフォント
+"comment" => "フォントワークス提供の組み込みフォントです",
+"caption" => "フォントワークスLETS",
+"Fontworks、LETSの名称とロゴ及びフォントワークスLETSで提供されるすべての書体名は",
+"フォントワークス株式会社の商標または登録商標です。",
+(const)%[ "name"=>"ニューロダン",    "file"=>"font1_%d.tft", "size"=>(const)[ 16, 28, 46 ] ],
+(const)%[ "name"=>"筑紫A丸ゴシック", "file"=>"font2_%d.tft", "size"=>(const)[ 16, 28, 46 ] ],
+(const)%[ "name"=>"マティス",        "file"=>"font3_%d.tft", "size"=>(const)[ 16, 28, 46 ] ],
+(const)%[ "name"=>"Popジョイ",       "file"=>"font4_%d.tft", "size"=>(const)[ 16, 28, 46 ] ],
+(const)%[ "name"=>"ライラ",          "file"=>"font5_%d.tft", "size"=>(const)[ 16, 28, 46 ] ],
+(const)%[ "name"=>"ニューシネマA",   "file"=>"font6_%d.tft", "size"=>(const)[ 16, 28, 46 ] ],
+(const)%[ "name"=>"スーラキャピー",  "file"=>"font7_%d.tft", "size"=>(const)[ 16, 28, 46 ] ]
+ システム用フォント
+ ハートマーク用ローカルフォント
+﻿# ●回想モード一覧,,,,
+thum_scn_YUU01,,yuu[0330]17_料理よりも食べ頃.ks*YUU_H1_START,_H1,裸エプロンをせがまれてしまったときの思い出です。あうぅ…あまりに無茶をするので、少しお説教してしまいました…ごめんなさい。
+thum_scn_YUU02,,yuu[0402]17_図書室ではお静かに.ks*YUU_H2_START,_H2,図書室で強引に迫られたときの思い出です。ふう……あの時は本当に見つかってしまうかと思って、とってもドキドキしたんですから。
+thum_scn_YUU03,,1day7 「ふじの」_H.ks*YUU_H3_START,_H3,どこか遠い地のプリーストさんの思い出です。あの、私のそ、その…お汁で本当に浄化なんてされるのでしょうか…？
+thum_scn_KAZ01,,kaz[FD]3d02_ゲーセンでえっち.ks*KAZ_H1_START,_H1,ゲームセンターの思い出よ。あんな狭い機械の中で颯太朗と…ハラハラしたけど、ちょっとだけ良かったかも…。
+thum_scn_KAZ02,,kaz[FD]7d01_ブルマでえっち.ks*KAZ_H2_START,_H2,自主トレの最中の思い出ね。もうブルマはそのために着てたわけではないのに…しかも外だなんて！ 颯太朗ってそういうのが好きなのかしら…。
+thum_scn_KAZ03,,2day3 クエスト完了！_H.ks*KAZ_H3_START,_H3,どこか遠い地の女騎士さんの思い出よ。…くっころってなに？
+:,エリサ,,,
+thum_scn_ERI01,,2day04_念願の……H1.ks*ERI_H1_START,_H1,湊十タワーでの思い出です。人に見つかりそうで、とってもドキドキでした。大丈夫でしょうか…。
+thum_scn_ERI02,,6day03_幸せな日々H2.ks*ERI_H2_START,_H2,お風呂での思い出ですよ。アワアワでヌルヌルになりながらするのはとっても気持ちいいですネ！
+thum_scn_ERI03,,1day1 はじまりの森_H.ks*ERI_H3_START,_H3,どこか遠い地のエルフさんの思い出です。私の祖国の森に似ています…。
+thum_scn_YAY01,,yay[0401]17_チョコ好き耶々さん.ks*YAY_H1_START,_H1,酔った時の思い出だよ。勢いとは言え、恥ずかしい事をしてしまった…気がする。
+thum_scn_YAY02,,yay[0404]16_耶々のご奉仕Ｈ.ks*YAY_H2_START,_H2,部室での思い出だね。オナニーから三連戦でお尻責めだなんて、颯太朗くんは実に変態だよ。
+thum_scn_YAY03,,5day6 耶々さん勘弁してくださいよ_H.ks*YAY_H3_START,_H3,どこか遠い地の魔女さんの思い出らしい。…い、言っておくが私はこんないじらしい性格ではないからね？
+thum_scn_YUK01,,yuki[FD]4d02_撮っちゃう？.ks*YUK_H1_START,_H1,夕焼けの放課後の思い出。颯太朗はパイズリが大好き。部室棟でした上に、恥ずかしい写真を一杯撮られた。
+thum_scn_YUK02,,yuki[FD]7d03_厨房にて…….ks*YUK_H2_START,_H2,厨房での思い出。着物のHは結構好き。しかも神聖な場所だから、とっても背徳的でドキドキしちゃう。
+thum_scn_YUK03,,5day4 お口を開けてくださーい_H.ks*YUK_H3_START,_H3,どこか遠い地の魔法少女さんの思い出だよ。颯太朗にオシオキされるのも悪くない、かも。
+thum_scn_KOZ01,,koz17_はじめてのえっち.ks*KOZ_H1_START,_H1,憧れの颯お兄ちゃんと初めてのエッチの思い出です。もうほんとにおっぱいが大好きなんですから…。
+thum_scn_KOZ02,,koz26_梢のお願い.ks*KOZ_H2_START,_H2,颯お兄ちゃんから元気を一杯貰っちゃいました。
+thum_scn_ASA01,,asa8d17_初めてのパイズリ.ks,_H1,デートに告白、私の全てを捧げた思い出です。さすがの颯太朗さんも私のＨなテクでメロメロ…なはずです、きっと。
+thum_scn_ASA02,,asa11d12_それからの俺たち.ks,_H2,颯太朗さんの事が好きすぎて、いつも押しに負けて生徒会室でしてしまってます……はぁでも好き。
+:,リリエト,,,
+thum_scn_LIL01,,lily4d16_リリエトを抱きしめて.ks,_H1,是和前辈第一次交织的重要回忆。我却哭了，前辈不会因此不高兴吧…。
+thum_scn_LIL02,,lily7d18_路地裏deエッチ.ks,_H2,在咖啡店的回忆。为了让前辈高兴，我做了一些调查。但没想到会变成那样害羞的事。梢同学…。
+thum_scn_LIL03,,lily9d15_タイツでスマタ.ks,_H3,最后一晚至少要和前辈…那段时间我是这么想的。嗯哼……前辈，最喜欢你了!
+:,その他
+source_path: E:vn_patchtmpc5work_2_one白恋サクラ＊グラム天雨线汉化补丁1.0patch.xp3
+output_root: E:vn_patchtmpc5work_2_one白恋サクラ＊グラム天雨线汉化补丁1.0patch.xp3_xp3
+info_name: scnsel_ev_wpリリエト.png
+logical_path: scnsel_ev_wpリリエト.png
+output_path: scnsel_ev_wpリリエト.png
+info_name: lily9d20_時を超えて.ks.scn
+logical_path: lily9d20_時を超えて.ks.scn
+output_path: lily9d20_時を超えて.ks.scn
+info_name: lily9d17_変容しきったスウィートタイム.ks.scn
+logical_path: lily9d17_変容しきったスウィートタイム.ks.scn
+output_path: lily9d17_変容しきったスウィートタイム.ks.scn
+info_name: lily9d16_ラストセックス.ks.scn
+logical_path: lily9d16_ラストセックス.ks.scn
+output_path: lily9d16_ラストセックス.ks.scn
+info_name: lily9d15_タイツでスマタ.ks.scn
+logical_path: lily9d15_タイツでスマタ.ks.scn
+output_path: lily9d15_タイツでスマタ.ks.scn
+info_name: lily9d14_久しぶりの黄昏部.ks.scn
+logical_path: lily9d14_久しぶりの黄昏部.ks.scn
+output_path: lily9d14_久しぶりの黄昏部.ks.scn
+info_name: lily8d20_後輩たちのなんでもない話.ks.scn
+logical_path: lily8d20_後輩たちのなんでもない話.ks.scn
+output_path: lily8d20_後輩たちのなんでもない話.ks.scn
+info_name: lily8d17_彼女の部屋に誘われて.ks.scn
+logical_path: lily8d17_彼女の部屋に誘われて.ks.scn
+output_path: lily8d17_彼女の部屋に誘われて.ks.scn
+info_name: lily8d16_終末の相合い傘.ks.scn
+logical_path: lily8d16_終末の相合い傘.ks.scn
+output_path: lily8d16_終末の相合い傘.ks.scn
+info_name: lily7d22_タイムリミット.ks.scn
+logical_path: lily7d22_タイムリミット.ks.scn
+output_path: lily7d22_タイムリミット.ks.scn
+info_name: lily7d19_さくら色水族館.ks.scn
+logical_path: lily7d19_さくら色水族館.ks.scn
+output_path: lily7d19_さくら色水族館.ks.scn
+info_name: lily7d18_路地裏deエッチ.ks.scn.m
+logical_path: lily7d18_路地裏deエッチ.ks.scn.m
+output_path: lily7d18_路地裏deエッチ.ks.scn.m
+info_name: lily7d18_路地裏deエッチ.ks.scn
+logical_path: lily7d18_路地裏deエッチ.ks.scn
+output_path: lily7d18_路地裏deエッチ.ks.scn
+info_name: lily7d17_カフェdeエッチ.ks.scn
+logical_path: lily7d17_カフェdeエッチ.ks.scn
+output_path: lily7d17_カフェdeエッチ.ks.scn
+info_name: lily7d10_水着を着せて.ks.scn
+logical_path: lily7d10_水着を着せて.ks.scn
+output_path: lily7d10_水着を着せて.ks.scn
+info_name: lily6d20_デート前夜は妄想が捗る.ks.scn
+logical_path: lily6d20_デート前夜は妄想が捗る.ks.scn
+output_path: lily6d20_デート前夜は妄想が捗る.ks.scn
+info_name: lily6d14_リリエトウサギ.ks.scn
+logical_path: lily6d14_リリエトウサギ.ks.scn
+output_path: lily6d14_リリエトウサギ.ks.scn
+info_name: lily6d12_手作りお弁当ウィズちくわぶ.ks.scn
+logical_path: lily6d12_手作りお弁当ウィズちくわぶ.ks.scn
+output_path: lily6d12_手作りお弁当ウィズちくわぶ.ks.scn
+info_name: lily6d05_ベランダの彼女.ks.scn
+logical_path: lily6d05_ベランダの彼女.ks.scn
+output_path: lily6d05_ベランダの彼女.ks.scn
+info_name: lily5d20_後輩たちの親しき誓い.ks.scn
+logical_path: lily5d20_後輩たちの親しき誓い.ks.scn
+output_path: lily5d20_後輩たちの親しき誓い.ks.scn
+info_name: lily5d10_デートタイムスケジュール.ks.scn
+logical_path: lily5d10_デートタイムスケジュール.ks.scn
+output_path: lily5d10_デートタイムスケジュール.ks.scn
+info_name: lily5d06_リリエトのありふれた人生最良の日.ks.scn
+logical_path: lily5d06_リリエトのありふれた人生最良の日.ks.scn
+output_path: lily5d06_リリエトのありふれた人生最良の日.ks.scn
+info_name: lily4d19_まおりん先生の恋愛レッスン.ks.scn
+logical_path: lily4d19_まおりん先生の恋愛レッスン.ks.scn
+output_path: lily4d19_まおりん先生の恋愛レッスン.ks.scn
+info_name: lily4d17_初めてのつながり.ks.scn
+logical_path: lily4d17_初めてのつながり.ks.scn
+output_path: lily4d17_初めてのつながり.ks.scn
+info_name: lily4d16_リリエトを抱きしめて.ks.scn
+logical_path: lily4d16_リリエトを抱きしめて.ks.scn
+output_path: lily4d16_リリエトを抱きしめて.ks.scn
+info_name: lily4d14_あなただけを見つめる.ks.scn
+logical_path: lily4d14_あなただけを見つめる.ks.scn
+output_path: lily4d14_あなただけを見つめる.ks.scn
+info_name: lily3d16_会議の行方…そして告白へ.ks.scn
+logical_path: lily3d16_会議の行方…そして告白へ.ks.scn
+output_path: lily3d16_会議の行方…そして告白へ.ks.scn
+info_name: lily3d12_恋の自覚.ks.scn
+logical_path: lily3d12_恋の自覚.ks.scn
+output_path: lily3d12_恋の自覚.ks.scn
+info_name: lily2d20_後輩たちの伝説の壁ドンマシマシ.ks.scn
+logical_path: lily2d20_後輩たちの伝説の壁ドンマシマシ.ks.scn
+output_path: lily2d20_後輩たちの伝説の壁ドンマシマシ.ks.scn
+info_name: lily2d16_うさぎと焼き芋のショッピング.ks.scn
+logical_path: lily2d16_うさぎと焼き芋のショッピング.ks.scn
+output_path: lily2d16_うさぎと焼き芋のショッピング.ks.scn
+info_name: lily2d14_委員会と占いアメ.ks.scn
+logical_path: lily2d14_委員会と占いアメ.ks.scn
+output_path: lily2d14_委員会と占いアメ.ks.scn
+info_name: lily2d12_うしろのあの子.ks.scn
+logical_path: lily2d12_うしろのあの子.ks.scn
+output_path: lily2d12_うしろのあの子.ks.scn
+info_name: lily1d20_後輩たちの秘密特訓.ks.scn
+logical_path: lily1d20_後輩たちの秘密特訓.ks.scn
+output_path: lily1d20_後輩たちの秘密特訓.ks.scn
+info_name: lily1d15_二人きりの委員会.ks.scn
+logical_path: lily1d15_二人きりの委員会.ks.scn
+output_path: lily1d15_二人きりの委員会.ks.scn
+info_name: lily1d14_監査委員会をつくろう.ks.scn
+logical_path: lily1d14_監査委員会をつくろう.ks.scn
+output_path: lily1d14_監査委員会をつくろう.ks.scn
+info_name: lily10d12_いつか見たあの桜の園へ.ks.scn
+logical_path: lily10d12_いつか見たあの桜の園へ.ks.scn
+output_path: lily10d12_いつか見たあの桜の園へ.ks.scn
+info_name: lily0d20_リリエトの決意.ks.scn
+logical_path: lily0d20_リリエトの決意.ks.scn
+output_path: lily0d20_リリエトの決意.ks.scn
+info_name: lily0d17_夕空に沈む合同会議.ks.scn
+logical_path: lily0d17_夕空に沈む合同会議.ks.scn
+output_path: lily0d17_夕空に沈む合同会議.ks.scn
+info_name: lily0d16_春の訪れ.ks.scn
+logical_path: lily0d16_春の訪れ.ks.scn
+output_path: lily0d16_春の訪れ.ks.scn
+VALUE "FileDescription",   "白恋サクラ＊グラム"
